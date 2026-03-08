@@ -325,7 +325,7 @@
       "libubus20251202"
     ];
     provides = [ "olsrd-any" ];
-    sha256 = "86ddf4a498774a367fc45560ce361947b9bedb210e7b8da14ee7b34437ebcbc4";
+    sha256 = "cdc3bea1008c55b66cf3635dfa8e05f676618a0deeeaba3a654b858260a6c060";
   };
   olsrd-mod-arprefresh = {
     version = "2024.06.09~d72be9ad-r2";

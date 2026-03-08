@@ -16,7 +16,7 @@
       "zlib"
     ];
     provides = [ "asterisk-any" ];
-    sha256 = "b38eadca1c1b5d352877e70494324a17e669e008a7ceb5624b74063e0d072f63";
+    sha256 = "d8c10b70643f416a6debb7aecf3569dc78167767cba67870fac828d107e01890";
   };
   asterisk-app-adsiprog = {
     version = "23.1.0-r1";
@@ -1819,7 +1819,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-version-any" ];
-    sha256 = "0d54b9f2c4ca6039ad66cd041d530d0357917c16a7edbeaf2e80b8d385495ae7";
+    sha256 = "914b8646c76eabe6d1ce15dbbf5443c280beb202af01a78f76d9ba88373befd1";
   };
   asterisk-func-vmcount = {
     version = "23.1.0-r1";
@@ -5594,7 +5594,7 @@
       "libc"
     ];
     provides = [ "gsm-utils-any" ];
-    sha256 = "dc903ed33bc066b85c0d4ebadea3005a1c2cbd82a7adfa8f307483c0c48bfd82";
+    sha256 = "5bae4abd064eb53f5871d50acb7531a87ee6a1f6af34e5a8c0edb2cd16c7423c";
   };
   gsmlib = {
     version = "1.10.20140304-r6";
@@ -8276,7 +8276,7 @@
       "zlib"
     ];
     provides = [ "rtpengine-any" ];
-    sha256 = "6e4e9a7871e06340610628981478ed86b1afdf25bebf8caa6835b7a51f840637";
+    sha256 = "b6c268731f2b8796f7802d47bb916c257ea9250295e0f8226f2f8854b255cb0f";
   };
   rtpengine-no-transcode = {
     version = "11.5.1.49-r1";
@@ -8301,7 +8301,7 @@
       "zlib"
     ];
     provides = [ "rtpengine-no-transcode-any" ];
-    sha256 = "b5bd9f5261686aeca74d707408251b1b441d71e6f96ba5b28f5a6a9aee5b64f7";
+    sha256 = "a297900b01d6208b7456603bfaf567ed51ce28ca0be290bf91e3b032cd7ff564";
   };
   rtpengine-recording = {
     version = "11.5.1.49-r1";
@@ -8316,7 +8316,7 @@
       "libopenssl3"
     ];
     provides = [ "rtpengine-recording-any" ];
-    sha256 = "65d9544247f343a6f6700969a96bef12bfd3964c71f2a8013335f5fd915326f3";
+    sha256 = "367624b3165967899a000a2058ba1d1b82a64f892ba8188d5e75268bb7da8161";
   };
   rtpproxy = {
     version = "2025.11.04~4909e7b7-r1";
@@ -8329,7 +8329,7 @@
       "libsrtp2-1"
     ];
     provides = [ "rtpproxy-any" ];
-    sha256 = "1ce2bece2cc8af65c22e619a99bdbe63e4c273163a51ea04ad68eb665a842f9e";
+    sha256 = "ae45e43b438c5e859093bc70e4fb7a6d90fc89b39cb5267caf54fcfca51a3c04";
   };
   rtpproxy-mod-acct-csv = {
     version = "2025.11.04~4909e7b7-r1";
@@ -8339,7 +8339,7 @@
       "rtpproxy"
     ];
     provides = [ "rtpproxy-mod-acct-csv-any" ];
-    sha256 = "3f5f12462ff6c3ab22f3476a6ce5b11bfe62afa5bf1c110dd0340e942ff5ca28";
+    sha256 = "d1e4ced381de8161f0439d3e49bd9eff526f557604deba20ac3f58c94f901c8c";
   };
   rtpproxy-mod-acct-rtcp-hep = {
     version = "2025.11.04~4909e7b7-r1";
@@ -8349,7 +8349,7 @@
       "rtpproxy"
     ];
     provides = [ "rtpproxy-mod-acct-rtcp-hep-any" ];
-    sha256 = "5b66375efc11512f1572808f0f67876298202d5b6a1b23d5a3b9fabddaba4e8a";
+    sha256 = "f94a9c20d7dcc4cdaf2f7e15816f28d205fb4641149b815a6e23d9274a4f24a9";
   };
   rtpproxy-util-extractaudio = {
     version = "2025.11.04~4909e7b7-r1";
@@ -8424,7 +8424,7 @@
       "libpthread"
     ];
     provides = [ "siproxd-any" ];
-    sha256 = "cab8d6e221fd86f4ee2c57c33036558e11c6ba8e255cc80411c3e46fc488aff5";
+    sha256 = "ba26779bd4be374725f97598fd0c256f715c0fd487c2235dd7e446ff01069dac";
   };
   siproxd-mod-blacklist = {
     version = "2025.07.24~0bb5dd4a-r1";

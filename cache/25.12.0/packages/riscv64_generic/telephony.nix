@@ -15,7 +15,7 @@
       "zlib"
     ];
     provides = [ "asterisk-any" ];
-    sha256 = "082a540f189a076e944f9879f4073a9e8fd3b67a47a9ed76a5109fbae7a23e1d";
+    sha256 = "ef0a6aacbf328e225edf24b6ac734d5fd2fe1cef86e1663f975e130b12243303";
   };
   asterisk-app-adsiprog = {
     version = "23.1.0-r1";
@@ -26,7 +26,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-adsiprog-any" ];
-    sha256 = "4475dc7f2129fc51ae57ff4346803a2f271cee9bf5b7ee6ea16ba33ddeda302c";
+    sha256 = "f1a7e543c3d0f75eb97659f927eae8e954c4b9c090a54f23b134f5867da2a3c3";
   };
   asterisk-app-agent-pool = {
     version = "23.1.0-r1";
@@ -36,7 +36,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-agent-pool-any" ];
-    sha256 = "ab22bf07afc83aba6a64c316c2ec4f2efc551193fd789f96d4237af53cd937b9";
+    sha256 = "30075227452eb37895548e2e0e167ec9e08cb04010a24a89e3732f862a4edc67";
   };
   asterisk-app-alarmreceiver = {
     version = "23.1.0-r1";
@@ -46,7 +46,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-alarmreceiver-any" ];
-    sha256 = "cc4051a42309cd6e717087a597d1b73db92562787d0c903d0747d591aad3b4f4";
+    sha256 = "6fc5e0d71d56caa41f6eef79d9b94ff1154a78169050371e277509cd8b8a26f0";
   };
   asterisk-app-amd = {
     version = "23.1.0-r1";
@@ -56,7 +56,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-amd-any" ];
-    sha256 = "d1c853f980629661ee8300b44140bfac90064e4356ef8beaf833d27597a8cf19";
+    sha256 = "fdeeb936de40e92a5f29508690fa3c3e3d955dd83d2276e5e62979ac64f8729b";
   };
   asterisk-app-attended-transfer = {
     version = "23.1.0-r1";
@@ -66,7 +66,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-attended-transfer-any" ];
-    sha256 = "9d2314a93db91a5882631319fb4a017f9b335ec7ffa20a2e2f6b958b6b14e7d5";
+    sha256 = "940406ae7c7d17168d9d703116dd7db0003d922abe7732abf89f4fc13dbbf3fc";
   };
   asterisk-app-audiosocket = {
     version = "23.1.0-r1";
@@ -77,7 +77,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-audiosocket-any" ];
-    sha256 = "689f41de0fd5a88ec828f83a9e9f1c522629bcaa39572167ea0b93226b6c5a79";
+    sha256 = "3e04558cd14b527381949cc583fe0b01b09c06a71007ade609ae22845844d5a7";
   };
   asterisk-app-authenticate = {
     version = "23.1.0-r1";
@@ -87,7 +87,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-authenticate-any" ];
-    sha256 = "846ee81ac467806976b9d75db560ace9444550cef751fe1ed346ed9f466575d0";
+    sha256 = "10e8f5b815077f86103e4aaa727be189ece2e59c4b2c0de9cccda6cc21e5416b";
   };
   asterisk-app-blind-transfer = {
     version = "23.1.0-r1";
@@ -97,7 +97,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-blind-transfer-any" ];
-    sha256 = "6885c7a51b531acbb8491420ee999f38870ec45560c7b3a6205ded30ac057905";
+    sha256 = "a4778b403fe3d7b304926a7ae7f187ea3b78b178c1aaf24a46cb384522dbcf77";
   };
   asterisk-app-bridgeaddchan = {
     version = "23.1.0-r1";
@@ -107,7 +107,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-bridgeaddchan-any" ];
-    sha256 = "d8d1a2176231d69abe7d9c6afea8f39af963a42217883f0ad41b6b0a5394c218";
+    sha256 = "b2f7342bb769bed24406d7c17ea0de173261774060495609e9d3c169d330a0dc";
   };
   asterisk-app-bridgewait = {
     version = "23.1.0-r1";
@@ -118,7 +118,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-bridgewait-any" ];
-    sha256 = "be042c136697bb07b34ae968705cfa8021a70e09f4578caec64eddeedc9d1ee4";
+    sha256 = "f4b69b6e93c185ca0fab49709b777e66bfafcb0efe048d320e1d2a7da8521524";
   };
   asterisk-app-broadcast = {
     version = "23.1.0-r1";
@@ -128,7 +128,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-broadcast-any" ];
-    sha256 = "5a3f88f13ccae92e39f51a0d660876c405b4974f647150b0ed7acca9c98e54de";
+    sha256 = "af8f09ca32aefcfcd7fcbfce036979c7981f5f4737752b33dfbea20b07691ec1";
   };
   asterisk-app-celgenuserevent = {
     version = "23.1.0-r1";
@@ -138,7 +138,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-celgenuserevent-any" ];
-    sha256 = "6c7ce3f67424791aa37c9a5a4e1594cc8f6317395bae44be20c188d770b0c86e";
+    sha256 = "3cc72949f5f2c523685e30ac0c3ed125167cc03a78d8c9624dddf5ce6bb81325";
   };
   asterisk-app-chanisavail = {
     version = "23.1.0-r1";
@@ -148,7 +148,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-chanisavail-any" ];
-    sha256 = "85294cae92f0f2c657e1e593fc67c94d0f515b4b6c2400dba1bf99c90c350c16";
+    sha256 = "3c63965330dc2a4ee1c5a805c4e52f406082f6774451cab801038e96f88d60a9";
   };
   asterisk-app-channelredirect = {
     version = "23.1.0-r1";
@@ -158,7 +158,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-channelredirect-any" ];
-    sha256 = "4be4a2c72ca447cabfbecdece6a8d0cacfbdece2b5307c03cbf1fa6eccd30162";
+    sha256 = "6ca11d414e2159451f77aa73b7a9f79fb3137b8400836b20a51071762dd3b50a";
   };
   asterisk-app-chanspy = {
     version = "23.1.0-r1";
@@ -168,7 +168,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-chanspy-any" ];
-    sha256 = "c8e050aa1532bed35823b63dabfe6023b85c9b245834283feb2cdaef423af65e";
+    sha256 = "543b422f77afbae34d9d2305205de6026a944118f5f38e15c308b792d09ef320";
   };
   asterisk-app-confbridge = {
     version = "23.1.0-r1";
@@ -181,7 +181,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-confbridge-any" ];
-    sha256 = "d814cb1ddf1bb10ec5171a598e6c273c12da862112da691b6a9d0a09e229941a";
+    sha256 = "91fcb162b656679a753a93b83be50141bf9da7821918d71130aae478fd6cc785";
   };
   asterisk-app-controlplayback = {
     version = "23.1.0-r1";
@@ -191,7 +191,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-controlplayback-any" ];
-    sha256 = "6efee146f2c73a1fa018ebc9952542e6619caa597e2384e51b34b2c48450889f";
+    sha256 = "b5914bb7e7383e9540b92619a073726daa49738cd0b2b0e038a137ce26fed520";
   };
   asterisk-app-dictate = {
     version = "23.1.0-r1";
@@ -201,7 +201,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-dictate-any" ];
-    sha256 = "a8d5e3d2b8118524716699724fd01d340a16a86119a8b47d568dc15940014548";
+    sha256 = "9d1e078e5fd37c5e12cd9f4b9aabff071912d1b95582ec3bd7c181abc9ad6a5c";
   };
   asterisk-app-directed-pickup = {
     version = "23.1.0-r1";
@@ -211,7 +211,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-directed-pickup-any" ];
-    sha256 = "58f0a30f5d6ded6fc4c947ee4589b58b2ee73d73d1dcf7b37049449409455224";
+    sha256 = "1e9ed1959ff927994108cfa4a0865abec55c500947979ee0c25e87ca32336959";
   };
   asterisk-app-directory = {
     version = "23.1.0-r1";
@@ -221,7 +221,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-directory-any" ];
-    sha256 = "96d92edd6ac26bd4e5d6f2e7448fb79d348b67665230990ba1412dc78b34021b";
+    sha256 = "50c4941f1e1e8987df871ecfc65ae782824a06704254cf983451ca8c15f3456a";
   };
   asterisk-app-disa = {
     version = "23.1.0-r1";
@@ -231,7 +231,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-disa-any" ];
-    sha256 = "f5ba1c0fb7796c98a478e9c1d34750e4d33f2487726eff8d0c9c07ae5048e732";
+    sha256 = "262da662be83b5bf49ae999e63e250057dde9d047a17fe880bed8116a01e14a3";
   };
   asterisk-app-dtmfstore = {
     version = "23.1.0-r1";
@@ -241,7 +241,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-dtmfstore-any" ];
-    sha256 = "a7188cd98805a13cd96a4d65bdd2f41b64b8176214d9204b88ead4c4bba53a57";
+    sha256 = "c0a058ab9e7b393c323c8f6403f6b3c823239b86a8d0cb092605ef3852f0bd7f";
   };
   asterisk-app-dumpchan = {
     version = "23.1.0-r1";
@@ -251,7 +251,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-dumpchan-any" ];
-    sha256 = "dc50dc2653633749eb32b652d6caf72396ea2618539817712c3cd337fdd5e93b";
+    sha256 = "96d66d7608e380b961459e6893b5fd7542937255c2e35be8b59252a3213f7ad9";
   };
   asterisk-app-exec = {
     version = "23.1.0-r1";
@@ -261,7 +261,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-exec-any" ];
-    sha256 = "5338326c88c4a73f2f172c1dc36cd9944cc6469290d4701a098235b23ba74551";
+    sha256 = "d63eab6b710a9667df561cea05123ff7f4c2e372bca06c76903ca35de8b7d81f";
   };
   asterisk-app-externalivr = {
     version = "23.1.0-r1";
@@ -271,7 +271,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-externalivr-any" ];
-    sha256 = "3a85e30263ef7cfc751241e16d3ee9daea23ff61b059a23f41c19026b1c088b2";
+    sha256 = "612beffd37be829741b453ba1ba6f8bcd853cc4b2089495d761c5df8c9acd90e";
   };
   asterisk-app-festival = {
     version = "23.1.0-r1";
@@ -281,7 +281,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-festival-any" ];
-    sha256 = "665250502cbebef37271f2686bffe84668eea78910e42bf1f84939f8e9094d0b";
+    sha256 = "8a6f77f90403b1ddc23e447d424fcc52309c9e2ee262c86b22e20cdea9bd79d5";
   };
   asterisk-app-flash = {
     version = "23.1.0-r1";
@@ -292,7 +292,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-flash-any" ];
-    sha256 = "2d186f826c5d6fa6d679c06840690650975fd7102813dc24f81b5689a723c222";
+    sha256 = "e581b3afed6da32abde157b1dc841f26d789440b9213ec42af762b311b30198f";
   };
   asterisk-app-followme = {
     version = "23.1.0-r1";
@@ -302,7 +302,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-followme-any" ];
-    sha256 = "46fcac3748d3f0762c6c1f24684b1845b8ce6d211b8057cdffe0b0c5818040eb";
+    sha256 = "9dd191859fb19e6bab7e7f4750159d152b56b3e6bbb169a61ff3a0185f2098a8";
   };
   asterisk-app-getcpeid = {
     version = "23.1.0-r1";
@@ -313,7 +313,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-getcpeid-any" ];
-    sha256 = "86ff918ac6e8e2c2900578d502e69229d437bee4e8a595b298a9dde3232d1021";
+    sha256 = "f065f3d5c3fb478a4a555be2829c60c951ee63bbf4ad79f2870e287eb318de1b";
   };
   asterisk-app-if = {
     version = "23.1.0-r1";
@@ -323,7 +323,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-if-any" ];
-    sha256 = "4c79d7c9ce1fa878d2982d24ceb57f3ad2e8793b2ffb4302fbdafc056aad6010";
+    sha256 = "ffa70246bacf812f1d49a09057cc9cd4ec7ffcae175967bd2400bb5b80b853a5";
   };
   asterisk-app-ivrdemo = {
     version = "23.1.0-r1";
@@ -333,7 +333,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-ivrdemo-any" ];
-    sha256 = "573c707edfb5027667c378d6a539d2a8d0406f102523b59f766a666e6d16b7f6";
+    sha256 = "0184789156f3f46af1518c52ee93087391af59a470c7e9e34142d9f30c3efc15";
   };
   asterisk-app-mf = {
     version = "23.1.0-r1";
@@ -343,7 +343,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-mf-any" ];
-    sha256 = "99b04cbecd0c4bd30d18aa0ef355eb6c9814af683e881e750a4ed1475a815623";
+    sha256 = "f5bdb2a0297bbd7f5a3e0659032df66db7799d4e432b49072c815fdb06b06192";
   };
   asterisk-app-milliwatt = {
     version = "23.1.0-r1";
@@ -353,7 +353,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-milliwatt-any" ];
-    sha256 = "a8cd89188c8211fa0a2ed311a1814e997a3638388540398c6661861311f3c0e7";
+    sha256 = "5e4bdc497fd4d13e20b0955d1292991d3b2c73d9c1e16f71a74e2ef6785f7ef5";
   };
   asterisk-app-minivm = {
     version = "23.1.0-r1";
@@ -363,7 +363,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-minivm-any" ];
-    sha256 = "4ae040e3048e99e79ca030f4b11ee545cae14d35323556f161bea29088e8f025";
+    sha256 = "faf5efe57f4ab54752b3b3b40de7f706b467ddb1c60c1776a2174ca4caa66523";
   };
   asterisk-app-mixmonitor = {
     version = "23.1.0-r1";
@@ -373,7 +373,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-mixmonitor-any" ];
-    sha256 = "33588da503f906a77c45ae7938dcd56a6488c5a083f62e661aa32aca555aca01";
+    sha256 = "61365889598f142efcd9e42ce6a173899635ab817e230bebe4bd9a8289c44198";
   };
   asterisk-app-morsecode = {
     version = "23.1.0-r1";
@@ -383,7 +383,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-morsecode-any" ];
-    sha256 = "8e82306f2d9ceac768916ccc207c9b57b2afdc5c123ee64adf412722d61fa8b3";
+    sha256 = "e3bb18ccccf0ac3f7408d1609bcb1e568473051d43699294d30a2bfdde676217";
   };
   asterisk-app-mp3 = {
     version = "23.1.0-r1";
@@ -394,7 +394,7 @@
       "mpg123"
     ];
     provides = [ "asterisk-app-mp3-any" ];
-    sha256 = "6e0792de20230ed2fa046a892aaa76d7055ed7342836fa79aa5866068f86f0f2";
+    sha256 = "49f7e4de5c87ff836182b7d5cf5bb04d23d0dd97aca61e575ceeb07c648fbec0";
   };
   asterisk-app-originate = {
     version = "23.1.0-r1";
@@ -404,7 +404,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-originate-any" ];
-    sha256 = "2839bb97dad68c7053d8f55fabf475d39bbdf56563b4d749a3f4a814d5c2e1f0";
+    sha256 = "afa9c7da56a15d5041f080ded8d89ab23954039f361ea5ac1165d122c3aeb3e3";
   };
   asterisk-app-page = {
     version = "23.1.0-r1";
@@ -415,7 +415,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-page-any" ];
-    sha256 = "6496924bda8fa663fe2a27dbae16c06f947e1d3a224a326a314b86576cdd5adf";
+    sha256 = "b7720756c3f1f7bf4ba1658d4aff983866083b114c73e80646092b1bdc3b7190";
   };
   asterisk-app-playtones = {
     version = "23.1.0-r1";
@@ -425,7 +425,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-playtones-any" ];
-    sha256 = "e0d69adabbb5cf5f1f5d38ecb08f5e56da8207b6a6ce73db7301738a5cb464d6";
+    sha256 = "25b8043fa7395059a0a136329ce74af3c8cb7ef5df82fcfbe615fa8afd691975";
   };
   asterisk-app-privacy = {
     version = "23.1.0-r1";
@@ -435,7 +435,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-privacy-any" ];
-    sha256 = "7bdde3d298870800f1f5ca1d2eec21b0c115bee8bcdc72739d3da172f7e5bd23";
+    sha256 = "91faa63874f308e6cfb663f613ff638817417fe929655fd036c295fdaf60388e";
   };
   asterisk-app-queue = {
     version = "23.1.0-r1";
@@ -445,7 +445,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-queue-any" ];
-    sha256 = "15a3993a35d11a5af3768aa0bec0ea04bbf74a0c366ce3a8b96b6ce37d89e721";
+    sha256 = "86b6538c10a9e3a232be46ed0bc8785ab74b855cfbdcce4736d5e5678c47bc4b";
   };
   asterisk-app-read = {
     version = "23.1.0-r1";
@@ -455,7 +455,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-read-any" ];
-    sha256 = "c2b6b7a96c18508587f8eec5be22c3d831e02a1f257ab07bb8a3c65bf7c4b8e8";
+    sha256 = "5b5718ed57ff81b7d852d0455dc604020e638c2a0d01a6c237565543c615febb";
   };
   asterisk-app-readexten = {
     version = "23.1.0-r1";
@@ -465,7 +465,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-readexten-any" ];
-    sha256 = "4f0911b44b304721727a0c5d433f2b60b3fe4a3d5054d13fc908f7c86a19ad61";
+    sha256 = "7dc811355b57d57328c47ad9fae10c128797e51d290e6ee91ae04c7d44ef4bc2";
   };
   asterisk-app-record = {
     version = "23.1.0-r1";
@@ -475,7 +475,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-record-any" ];
-    sha256 = "db9e13a31acbf03e0662721d0356897dc718b3f3c71f8d8d5a7b1c0e92ebd868";
+    sha256 = "ad9e5537553b84b7db0ef9c7163dd6648f19301d13dad581b6e0f8fed519db27";
   };
   asterisk-app-reload = {
     version = "23.1.0-r1";
@@ -485,7 +485,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-reload-any" ];
-    sha256 = "360adb05d6873765645de6a1f3a3ba47e827c182d4b946e959b48a85dfaa604d";
+    sha256 = "db721cc904e71a81c666ec951b346f471d144f660fa1a9a3ea2bc4bc5b959aed";
   };
   asterisk-app-saycounted = {
     version = "23.1.0-r1";
@@ -495,7 +495,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-saycounted-any" ];
-    sha256 = "6b2830b0d48649a957ccaf3a4fec3002aee4f03b93f5084d5973d6b305ec6064";
+    sha256 = "12f333579ef6e85042e2bdcdbccf4937e19f67977c3a0bd9f7670db806fa4a8d";
   };
   asterisk-app-sayunixtime = {
     version = "23.1.0-r1";
@@ -505,7 +505,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-sayunixtime-any" ];
-    sha256 = "48a5647be4c135684184aed2f5d6c26cc2d38954a492727524ba83bb6395eb8a";
+    sha256 = "dd7e07e0983fc35d8bc1ccfd9e94fbcb364ada412fd9e1db4c8a0684f1e54309";
   };
   asterisk-app-senddtmf = {
     version = "23.1.0-r1";
@@ -515,7 +515,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-senddtmf-any" ];
-    sha256 = "a755aee8394e9099c551dde560ed67e156f775d0d2dafde7be4ea52ef03b9e86";
+    sha256 = "a0f0c7a3d78541e90fcdbd25b056f00f0c47758e4b196fd9c8ff3518fd77e8f7";
   };
   asterisk-app-sendtext = {
     version = "23.1.0-r1";
@@ -525,7 +525,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-sendtext-any" ];
-    sha256 = "7daa917a1c44744df1c10274e68f46d1a474261725213a674d4ad6e9486faa08";
+    sha256 = "e07a2b5809ab04b916ab2eb85076e9a0c40bef7dead160b4b87f9cc20df2f8c5";
   };
   asterisk-app-sf = {
     version = "23.1.0-r1";
@@ -535,7 +535,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-sf-any" ];
-    sha256 = "8879a9c297dfa9ecfd4e6c28fb352531d823bf438c28257c9f59037b1b7bc2dd";
+    sha256 = "c98fd016552ff3f358d4bba99b81d66c583a0586eea2648c318e253818208c3d";
   };
   asterisk-app-signal = {
     version = "23.1.0-r1";
@@ -545,7 +545,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-signal-any" ];
-    sha256 = "5f7101b48337c09f1f7b50184b3cae58df4a61f26db08999bbca9fdc3dc57f6c";
+    sha256 = "2a6c1719e1d4a865a4e4b9cf45ae2f332dbee968f36f8d86f62614d5bacb5bea";
   };
   asterisk-app-skel = {
     version = "23.1.0-r1";
@@ -555,7 +555,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-skel-any" ];
-    sha256 = "110dcff50599456e2d545852fe0c0d54300060a12055f6f3acf5d4938f4fdb9e";
+    sha256 = "455bf9f65e095049aa8542d612bcca2150331b6ae7e800cf39440bcff1a76a56";
   };
   asterisk-app-sms = {
     version = "23.1.0-r1";
@@ -565,7 +565,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-sms-any" ];
-    sha256 = "a6ca42b31b532b87d62499c42c384f5965de6cd2aceb48285bfbcad8f8ba5f03";
+    sha256 = "dbb492212d8c6cc7268373b0318a48a5fb9bb84d37ac927603a4407d9c8bc856";
   };
   asterisk-app-softhangup = {
     version = "23.1.0-r1";
@@ -575,7 +575,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-softhangup-any" ];
-    sha256 = "eb1656df9b518aa10c3b171f563cca64a99bae9c1157d374942556c7258eb478";
+    sha256 = "dec2640025c7b0489660b3c344a98ffbbb4c0ee8dc0b300f8b016659e9c96eb1";
   };
   asterisk-app-speech = {
     version = "23.1.0-r1";
@@ -586,7 +586,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-speech-any" ];
-    sha256 = "bc1457e64beda0077aa133da8033b07b8c63404f913f6dd8c70af32c80978c9d";
+    sha256 = "44181127401d0fbd2e0eb8cc531157d877a58ee05ce9bd26a1544eeb83b2b8f3";
   };
   asterisk-app-stack = {
     version = "23.1.0-r1";
@@ -597,7 +597,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-stack-any" ];
-    sha256 = "9399bfb95ae3a42af8c7d78f817ab5cda0f0517c1a61ac1a397b6d9fd48e9d32";
+    sha256 = "c57dfca16d13bf2b126cbf5d49e67083176c16b23b7655b02e9dea1868fb77c8";
   };
   asterisk-app-stasis = {
     version = "23.1.0-r1";
@@ -608,7 +608,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-stasis-any" ];
-    sha256 = "4a36589ea9879bcc4e13bd520dd6c5a9957277987bfd37e7f65b640738eea594";
+    sha256 = "6af7951bee8430d5a39bc25bb9feb38c04c4d941424d892ff3a308bbad7c2780";
   };
   asterisk-app-statsd = {
     version = "23.1.0-r1";
@@ -619,7 +619,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-statsd-any" ];
-    sha256 = "b4e22446e2f6bf4b3450a84d548dc48d7374de15804f83eca9f148b12b405fd3";
+    sha256 = "9b7c898289dc62fef1f4530b670d418b77970b985bce3ec310d69a721a01e465";
   };
   asterisk-app-stream-echo = {
     version = "23.1.0-r1";
@@ -629,7 +629,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-stream-echo-any" ];
-    sha256 = "432a32ca3d460102cf808feffb651dbeba8f1f2c6c39900e7aa55799fe6c3340";
+    sha256 = "37988213bba2e11af72a3ce31fd22f973aae945f5fa2187c70306c6cd0b791e7";
   };
   asterisk-app-system = {
     version = "23.1.0-r1";
@@ -639,7 +639,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-system-any" ];
-    sha256 = "b30f0a91087c117d1256c117f586a23967e29078ab2d8cce70240b365efacedd";
+    sha256 = "d84f4632ac4f7ae303432860e04e323795bfddbb0a9f6b50daeac12f38d79e95";
   };
   asterisk-app-talkdetect = {
     version = "23.1.0-r1";
@@ -649,7 +649,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-talkdetect-any" ];
-    sha256 = "f415ef29f901190fb1ebb0ba56bfa4ab907bdcde10e978e5c6266dac5170ffc5";
+    sha256 = "89598895cebde62bc8f2e389491a6530d3476f7d9e9df65f5e0750f60734771c";
   };
   asterisk-app-test = {
     version = "23.1.0-r1";
@@ -659,7 +659,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-test-any" ];
-    sha256 = "5074fa94ea4cb12ec95567bd1f4ea3dd465afda15796c12690110386b590ddab";
+    sha256 = "46d88fc45b4b0629517d70d0e72278ccd1f883484cf4c55c807b5244a722f257";
   };
   asterisk-app-transfer = {
     version = "23.1.0-r1";
@@ -669,7 +669,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-transfer-any" ];
-    sha256 = "cc4a62a92df56d33f0911eb1d847e1c120ebaba5882c84becf235352b39805fb";
+    sha256 = "90eedecf5c0865f4e628704db2f7a2dd5aa4d92d5cbc05f30053c6651270ba17";
   };
   asterisk-app-userevent = {
     version = "23.1.0-r1";
@@ -679,7 +679,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-userevent-any" ];
-    sha256 = "d6b9943ce03e85f6d8cacb7419e421c3515fa3a24660f6ddad229c1b54ab13e5";
+    sha256 = "a6c03a44d1d94709969dbce5ca6c2249f59a453b38bde1f8fa9d4eea8efa0234";
   };
   asterisk-app-verbose = {
     version = "23.1.0-r1";
@@ -689,7 +689,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-verbose-any" ];
-    sha256 = "80302db8b96ed55e842d6da1586612c089a584cf6b5ebd60c77d8022a15a01ff";
+    sha256 = "55242be766537052104d5efda5a88cc5335125af55cb0ad33dfc949482cb21f3";
   };
   asterisk-app-voicemail = {
     version = "23.1.0-r1";
@@ -699,7 +699,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-voicemail-any" ];
-    sha256 = "93d3be4fe96f610100c8e76b73288b8fe0b8738a4d91d4b8739a07fc4a3607d5";
+    sha256 = "299eef1e53e8a319148cc4bdc21343b22ade9787b0bbd7c7279552ebd304f39a";
   };
   asterisk-app-voicemail-odbc = {
     version = "23.1.0-r1";
@@ -710,7 +710,7 @@
       "unixodbc"
     ];
     provides = [ "asterisk-app-voicemail-odbc-any" ];
-    sha256 = "b6ee54a9ec43e815ae6f477c5e3b91ab0f9eda43e47c9b8ed882a57697fe32c1";
+    sha256 = "1cce4484937697fdaf18df602a039c14ea2da5e0e102ad3695699836dd0fd862";
   };
   asterisk-app-waitforcond = {
     version = "23.1.0-r1";
@@ -720,7 +720,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-waitforcond-any" ];
-    sha256 = "a7e5eceaed2bbc002a8cec778853efd51b0cb30dda7ea93b01ddb232c5e76276";
+    sha256 = "dee16b33e43e841f1152b0e924aa980cf9e6581f0db7675157dc5a4910e04fbe";
   };
   asterisk-app-waitforring = {
     version = "23.1.0-r1";
@@ -730,7 +730,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-waitforring-any" ];
-    sha256 = "da3b86f02c643cd6fc5b3a7ca3000b6119a3abdc6b1cfce1a04e03a8ad9bed2a";
+    sha256 = "a0737e885d462cf9c1aa34b5f61e2a19edc482abb0808ef4d50f86079444739b";
   };
   asterisk-app-waitforsilence = {
     version = "23.1.0-r1";
@@ -740,7 +740,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-waitforsilence-any" ];
-    sha256 = "746249eee5d00c4a520cc409ec2332534ac8153159e8af6088d796dfde6a42e4";
+    sha256 = "3b0b117c72e747c7cafa7b754888f5621f7345170af66ed016ac6b7eba8c2c74";
   };
   asterisk-app-waituntil = {
     version = "23.1.0-r1";
@@ -750,7 +750,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-waituntil-any" ];
-    sha256 = "f81bc6b4c0875a97e3e56eca1e48a3b75c222e0f9168fd37a3932fc0ef519231";
+    sha256 = "cd6da163454df15224f92e3379b7b8ba5567d77292e7e87415b2e0fc6b84f74b";
   };
   asterisk-app-while = {
     version = "23.1.0-r1";
@@ -760,7 +760,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-while-any" ];
-    sha256 = "b2ad19d4974f76a27f59563d397e5c94d5d8f17cfec48c16920048e90f6d9a91";
+    sha256 = "778ed6b88bd2cf36fc37fea6e3ad83c994b15896ae10f52447e849f27213a9ec";
   };
   asterisk-app-zapateller = {
     version = "23.1.0-r1";
@@ -770,7 +770,7 @@
       "libc"
     ];
     provides = [ "asterisk-app-zapateller-any" ];
-    sha256 = "2199ded3bb9b2a54f1d2fb0f10297739f1c163c8d18c6889638d37ae21f24612";
+    sha256 = "f69e131997972c596e0b7d9bff040e65c5f6b00e5e34f417e5ac2c6a366c5ca6";
   };
   asterisk-bridge-builtin-features = {
     version = "23.1.0-r1";
@@ -780,7 +780,7 @@
       "libc"
     ];
     provides = [ "asterisk-bridge-builtin-features-any" ];
-    sha256 = "fcbade2110e8fb7405dc0270ff147d6674d03e8bd13dbbe86df5c16bb9183a3c";
+    sha256 = "e624645a5e1110164dfc5fc3a73530915dd75ef59751f58f2ca68a6cf707e44e";
   };
   asterisk-bridge-builtin-interval-features = {
     version = "23.1.0-r1";
@@ -790,7 +790,7 @@
       "libc"
     ];
     provides = [ "asterisk-bridge-builtin-interval-features-any" ];
-    sha256 = "ce09138f37b55a4ace5fe120919d37d605ef51ecb60d5338dec4b5f7d154459c";
+    sha256 = "fb334853ab5793025f5e8ea0ec5c9619bbfe899f4575e3bb3a44096bd3fb8472";
   };
   asterisk-bridge-holding = {
     version = "23.1.0-r1";
@@ -800,7 +800,7 @@
       "libc"
     ];
     provides = [ "asterisk-bridge-holding-any" ];
-    sha256 = "a44206d4f923eec962e4a39bd6d162d64efb813eeabd74afd7d26c1cc0599e26";
+    sha256 = "80f3b1df5b26b1b8964ef8306adf4613831dda1987b83236cd32f34de3bfe0bf";
   };
   asterisk-bridge-native-rtp = {
     version = "23.1.0-r1";
@@ -810,7 +810,7 @@
       "libc"
     ];
     provides = [ "asterisk-bridge-native-rtp-any" ];
-    sha256 = "e549f5e6b951edf113b892b81141b0a6b372c8d645ba2256984d01bd24980552";
+    sha256 = "ebc6985f5377461e97c50a9bb9cfc5889bfd55028761be4273ebf6e10904b709";
   };
   asterisk-bridge-simple = {
     version = "23.1.0-r1";
@@ -820,7 +820,7 @@
       "libc"
     ];
     provides = [ "asterisk-bridge-simple-any" ];
-    sha256 = "ccc6cb2dd18131d5d446b0c4a17a22ac95a4129ee7d13aa2a8b0110cea341725";
+    sha256 = "7746d0d6f10a71b5a5e68dd867d9878691a29af04f676edb5546b8e24f6d10d7";
   };
   asterisk-bridge-softmix = {
     version = "23.1.0-r1";
@@ -830,7 +830,7 @@
       "libc"
     ];
     provides = [ "asterisk-bridge-softmix-any" ];
-    sha256 = "32a9b0c7b32f8d32f2d7e71e66aa9e2c8501143f1472203ae606e19701347824";
+    sha256 = "271a5c2ff8c4ff5444b08def3b96972e1dc5d0e190671ff7597615313e10d5f1";
   };
   asterisk-cdr = {
     version = "23.1.0-r1";
@@ -840,7 +840,7 @@
       "libc"
     ];
     provides = [ "asterisk-cdr-any" ];
-    sha256 = "bdbea827d4b21e676039ca0b032475673cdafada296d23648cc571e533c7cb1c";
+    sha256 = "56d9c77d5475fd67f518f36b09e811ff7b533b8508b7ecb12519710a5d6f96ab";
   };
   asterisk-cdr-csv = {
     version = "23.1.0-r1";
@@ -850,7 +850,7 @@
       "libc"
     ];
     provides = [ "asterisk-cdr-csv-any" ];
-    sha256 = "83de0144e2ca2d94edf6ea62d4139868a6854f52916b2f13d286319665408ff5";
+    sha256 = "c5e5b74074f42afdc1190dbf39f89510f37acdccff3ae2ce599cfe44555faf80";
   };
   asterisk-cdr-sqlite3 = {
     version = "23.1.0-r1";
@@ -861,7 +861,7 @@
       "libsqlite3-0"
     ];
     provides = [ "asterisk-cdr-sqlite3-any" ];
-    sha256 = "5b9cfaf11f471ed63ce74bccac05f07cd9fd3b4a99f102ad30cc8d4c1a693cae";
+    sha256 = "345d11cad114670c8a8fd221c908f7424ec12d92cac8a1f8dacd402a9e9e5f5d";
   };
   asterisk-cel-custom = {
     version = "23.1.0-r1";
@@ -871,7 +871,7 @@
       "libc"
     ];
     provides = [ "asterisk-cel-custom-any" ];
-    sha256 = "4b672eaef959781ea82a4710b3996473fe1efa028d4fd0664a77c334c6eef483";
+    sha256 = "d77c2e5a432e2d94cc6564012a46d949a6678322bd0de5e1dd8d64a181d9bcfe";
   };
   asterisk-cel-manager = {
     version = "23.1.0-r1";
@@ -881,7 +881,7 @@
       "libc"
     ];
     provides = [ "asterisk-cel-manager-any" ];
-    sha256 = "6d12eae450d0548e956d73f3ff7d59ed65639dbe7aa37e0d3d456008b5e2f7fa";
+    sha256 = "b0137cf7c88d984d40f544f97607f846d79b6f4be0ea5918211fce72de4663a9";
   };
   asterisk-cel-sqlite3-custom = {
     version = "23.1.0-r1";
@@ -891,7 +891,7 @@
       "libc"
     ];
     provides = [ "asterisk-cel-sqlite3-custom-any" ];
-    sha256 = "6b5de30e73223b999080aa1bda373b9c46a22a1a51a452e2c7cfc4f20bb76cdb";
+    sha256 = "5da55a545361a9a657fefa4f919b9927f7ac29edb5ece424038242db6ba893b0";
   };
   asterisk-chan-audiosocket = {
     version = "23.1.0-r1";
@@ -902,7 +902,7 @@
       "libc"
     ];
     provides = [ "asterisk-chan-audiosocket-any" ];
-    sha256 = "192a50c5645981b000dd556396b6d86dc7a37b0e22ce4831768660c93bf6ccac";
+    sha256 = "7ae854e9d9217cfbd66974341b60c1b3f21ea08dd827c7a7d484a42b7cdf833b";
   };
   asterisk-chan-bridge-media = {
     version = "23.1.0-r1";
@@ -912,7 +912,7 @@
       "libc"
     ];
     provides = [ "asterisk-chan-bridge-media-any" ];
-    sha256 = "9cea32b2e48c54358b2d0ca4cea08114313045f95369cf7f68eea5988e9eae72";
+    sha256 = "4094bb7ba2d2ef58bb7087f799a039325df0c0addca4e5664786802dc5b550e3";
   };
   asterisk-chan-console = {
     version = "23.1.0-r1";
@@ -923,7 +923,7 @@
       "portaudio"
     ];
     provides = [ "asterisk-chan-console-any" ];
-    sha256 = "c4c33c4106a349cc8d1e68d5f8563894632785b6e4d2e74bb5448ce0eb931e73";
+    sha256 = "f93286027858094d91f0714e50cc1cdf2dd9f3d7b918a6acafe78a1da5f6ea1b";
   };
   asterisk-chan-dahdi = {
     version = "23.1.0-r1";
@@ -936,7 +936,7 @@
       "libpri"
     ];
     provides = [ "asterisk-chan-dahdi-any" ];
-    sha256 = "09f6bfa5a0ce1ce6906dd34cdaddc20924b1e6b96cc8176662b4451200966dbe";
+    sha256 = "5a9829620f6c157b6bccf90615d90cf49b18227e3a18dde3ff7c46f8ff4ba64a";
   };
   asterisk-chan-dongle = {
     version = "2022.11.04~503dba87-r1";
@@ -947,7 +947,7 @@
       "libsqlite3-0"
     ];
     provides = [ "asterisk-chan-dongle-any" ];
-    sha256 = "3b4a6d0ebce381e4716e1cdb03035653426d720e24a560ed477b8594b8022939";
+    sha256 = "669d79b2c8bb47f4b67ffc832a6f23aa3839f3b771c9c751c7b44cd563b8e3e8";
   };
   asterisk-chan-iax2 = {
     version = "23.1.0-r1";
@@ -957,7 +957,7 @@
       "libc"
     ];
     provides = [ "asterisk-chan-iax2-any" ];
-    sha256 = "79003b81e382bed7dde281ca4876e59600bb7c941b98948d7cb1473713e02e50";
+    sha256 = "7477e5fc16dfe8fe39c1fe6d0ff303d94a668be885cf631fabf58d34ae1f7521";
   };
   asterisk-chan-mobile = {
     version = "23.1.0-r1";
@@ -968,7 +968,7 @@
       "libc"
     ];
     provides = [ "asterisk-chan-mobile-any" ];
-    sha256 = "7ee195e677809e332bf8d7ce7894f793da21c45d12e6684a1b3f41d6b51a5a5a";
+    sha256 = "3f6a0bc8f290838245302043ba03e847f5b60a2bb262030fb81f35a8934f759f";
   };
   asterisk-chan-motif = {
     version = "23.1.0-r1";
@@ -979,7 +979,7 @@
       "libc"
     ];
     provides = [ "asterisk-chan-motif-any" ];
-    sha256 = "db0d968a356b14e77f1c33b4da6bc7ced554825994e73f98c982046b5e868649";
+    sha256 = "db0865ab307484eb183d7297d4b7977ebde4ffddb6210662042f15b720e0ab7b";
   };
   asterisk-chan-ooh323 = {
     version = "23.1.0-r1";
@@ -989,7 +989,7 @@
       "libc"
     ];
     provides = [ "asterisk-chan-ooh323-any" ];
-    sha256 = "59f36149fddd72c7aa04137e499daced1b8d69093a59a497c4425a28f8070bd3";
+    sha256 = "2f5e8af4fe92f5a51eeb3b18082f3beab513e5d5cd4af36f2f9a8e7cc4ed994a";
   };
   asterisk-chan-rtp = {
     version = "23.1.0-r1";
@@ -1000,7 +1000,7 @@
       "libc"
     ];
     provides = [ "asterisk-chan-rtp-any" ];
-    sha256 = "7f959bea1cb8c79e64b47f063ef73bb663c8051a457a80645d54437d0d67add0";
+    sha256 = "222eb74bca3ee8f42d821480608404a3f3f28819e7f0fc01ddc2f796d32304d4";
   };
   asterisk-chan-unistim = {
     version = "23.1.0-r1";
@@ -1010,7 +1010,7 @@
       "libc"
     ];
     provides = [ "asterisk-chan-unistim-any" ];
-    sha256 = "e5d7b2410bc95d11e481a1983c1fbf484098210a1fbf90aeed0aa168e0e7e3e5";
+    sha256 = "beed4c58c9beb2bc166959ff30a5132682c32b3850d9051ad8399c8cbf12f6b9";
   };
   asterisk-codec-a-mu = {
     version = "23.1.0-r1";
@@ -1020,7 +1020,7 @@
       "libc"
     ];
     provides = [ "asterisk-codec-a-mu-any" ];
-    sha256 = "c9a58f6109b658030e5866f02cf5fb938a325beed6056ca4a454335f896df8a7";
+    sha256 = "f3cc1b6ca1fff1eea3b9183679bb3ffc881a3784c0423cc68825444e9d6f3e12";
   };
   asterisk-codec-adpcm = {
     version = "23.1.0-r1";
@@ -1030,7 +1030,7 @@
       "libc"
     ];
     provides = [ "asterisk-codec-adpcm-any" ];
-    sha256 = "0ac9642a57e81ef6ad0d525156a0467926e03559d4b34f073e314661d3601e64";
+    sha256 = "4d3497b91a067c98ec398d7e2cf23df4ff6be96c7ca5fd98d1cc9dbdb086a02c";
   };
   asterisk-codec-alaw = {
     version = "23.1.0-r1";
@@ -1040,7 +1040,7 @@
       "libc"
     ];
     provides = [ "asterisk-codec-alaw-any" ];
-    sha256 = "d5833afda0f09a58e63ad3feefbeceb2554cf4e3dae2d1bb9aa49c6ac55f232e";
+    sha256 = "2eb4cde1ca78e15f9271f6fb941ea02f08103d42d1f2794135a9ed9007952e61";
   };
   asterisk-codec-dahdi = {
     version = "23.1.0-r1";
@@ -1051,7 +1051,7 @@
       "libc"
     ];
     provides = [ "asterisk-codec-dahdi-any" ];
-    sha256 = "c311b6334a2bf9791749ee0d95f3de78462e7a2c71ba7b451403b827e8ead4a3";
+    sha256 = "633bc049ed1ff972d39ee99beb760a237b92d4e1e8eb58e0348c523a234a2ac9";
   };
   asterisk-codec-g722 = {
     version = "23.1.0-r1";
@@ -1061,7 +1061,7 @@
       "libc"
     ];
     provides = [ "asterisk-codec-g722-any" ];
-    sha256 = "42c7866b21f7fea4aab84979ac0cb54223fd85fe62407914026864bb999fa0da";
+    sha256 = "babf0e46951da14666b5c1b94574f44c016a115094e3ad24173994160d76df2c";
   };
   asterisk-codec-g726 = {
     version = "23.1.0-r1";
@@ -1071,7 +1071,7 @@
       "libc"
     ];
     provides = [ "asterisk-codec-g726-any" ];
-    sha256 = "e66744b7f3ec11ba04bf16adb3f92c01798e6d0dddfcd5886d72f56621eea575";
+    sha256 = "e2c0d4b3e53ac9e16699dc865d3196d308edf6943ce6282ee1fee1c86f55f97b";
   };
   asterisk-codec-g729 = {
     version = "1.4.3-r1";
@@ -1082,7 +1082,7 @@
       "libc"
     ];
     provides = [ "asterisk-codec-g729-any" ];
-    sha256 = "f45a3ad6aea621867d10bbb511ba628c5f290ea71970591c1bc103b4fb9f7426";
+    sha256 = "6332af7fae9c25f29a4857100fa2dfe2273840059a623e667ac0f10a6ebf52ca";
   };
   asterisk-codec-gsm = {
     version = "23.1.0-r1";
@@ -1092,7 +1092,7 @@
       "libc"
     ];
     provides = [ "asterisk-codec-gsm-any" ];
-    sha256 = "e6ca436ef870ddb443f17d65240dd0d57480e68763668a3030e9c4fdff1aa396";
+    sha256 = "047d1a94324cd8d9824b33ee092fdac3b0f57d7e978ff16a9dad27a4e47bc56a";
   };
   asterisk-codec-ilbc = {
     version = "23.1.0-r1";
@@ -1102,7 +1102,7 @@
       "libc"
     ];
     provides = [ "asterisk-codec-ilbc-any" ];
-    sha256 = "0d4d7fc56cce6482dc4656d6f9af46313c70ffe4cbf894b224f288e8ebcdf8cb";
+    sha256 = "a8aa71fa97d9c584d9a9f1a34f4672281e5de27a912e3ea815778189fd299868";
   };
   asterisk-codec-lpc10 = {
     version = "23.1.0-r1";
@@ -1112,7 +1112,7 @@
       "libc"
     ];
     provides = [ "asterisk-codec-lpc10-any" ];
-    sha256 = "3026ac86979b0be7310438f181ded2e1f821c89b4d5b612e7ba542b040578dc4";
+    sha256 = "e086b7387e2380c18eb24902f1dde03716aa94af67994e637609fa73e0eb2a79";
   };
   asterisk-codec-opus = {
     version = "2021.11.01~20522fbc-r2";
@@ -1123,7 +1123,7 @@
       "libopus"
     ];
     provides = [ "asterisk-codec-opus-any" ];
-    sha256 = "2caf863403c3c9119eba83b0b53ac0dc9cdc405ecd6db415ef01079494fed5cd";
+    sha256 = "90646a0e354e5753df2ed41f3d8f7c580b6ceb24ddbb00d0a64eb01472f62cb2";
   };
   asterisk-codec-resample = {
     version = "23.1.0-r1";
@@ -1133,7 +1133,7 @@
       "libc"
     ];
     provides = [ "asterisk-codec-resample-any" ];
-    sha256 = "26d9d2497dba8a8103dc33765a47c658c6ef69fedb27df2ac406e45f088e16a3";
+    sha256 = "367668fd899308116e50b37c0d02a611940fbdbdb058ade8648ff2d1370d7ca5";
   };
   asterisk-codec-speex = {
     version = "23.1.0-r1";
@@ -1145,7 +1145,7 @@
       "libspeexdsp"
     ];
     provides = [ "asterisk-codec-speex-any" ];
-    sha256 = "8cb213775e42ef49791635050936f6fe7014670750ae17c578b1d7a8c9e375ec";
+    sha256 = "acaca13966d1eebb6d836e321c79718a415bf94dea8b779ae037576ae3989b20";
   };
   asterisk-codec-ulaw = {
     version = "23.1.0-r1";
@@ -1155,7 +1155,7 @@
       "libc"
     ];
     provides = [ "asterisk-codec-ulaw-any" ];
-    sha256 = "b856711762660573a496271ac9b745ef1d6b15fedbac13f9193317d83f2159b2";
+    sha256 = "0109df9bfe6432d220c5e477c60902b7e0a246ae28b65304d5355b363aded824";
   };
   asterisk-curl = {
     version = "23.1.0-r1";
@@ -1166,7 +1166,7 @@
       "libcurl4"
     ];
     provides = [ "asterisk-curl-any" ];
-    sha256 = "0de44a5c58919a78e5f9613e73e98d0956dbcbb5ad595a4197efaa34b3619674";
+    sha256 = "fbb4c6c39800f01e40f19426a2f2cef2f492777ac733ce1765f535d00a4f604a";
   };
   asterisk-format-g719 = {
     version = "23.1.0-r1";
@@ -1176,7 +1176,7 @@
       "libc"
     ];
     provides = [ "asterisk-format-g719-any" ];
-    sha256 = "121f9308d555ae149e2624fbf3f0dc4b1d0141ca915cefc72c104bb187552c82";
+    sha256 = "70c4fff02063548f94efcd51970f08d616874c736fe896a28098613180ffa8f0";
   };
   asterisk-format-g723 = {
     version = "23.1.0-r1";
@@ -1186,7 +1186,7 @@
       "libc"
     ];
     provides = [ "asterisk-format-g723-any" ];
-    sha256 = "88ff1a8e70858b8b95bc74da2ac44afb3630fad0cc69dfa690cb61cbe1666f22";
+    sha256 = "0dacc8b0dfcc0489ecee02495d8f6e8d7bfef6cc1274c8e838efc65c154626b6";
   };
   asterisk-format-g726 = {
     version = "23.1.0-r1";
@@ -1196,7 +1196,7 @@
       "libc"
     ];
     provides = [ "asterisk-format-g726-any" ];
-    sha256 = "92dbdb47d2854dee2a7ba41ab1551e5ae88a94744d9666d4cb9e45ac2f21cdfd";
+    sha256 = "77cf2145b9780d6d94b2d0e0cc5c85a3d39d9a159af58732c512bf1be4a07a5d";
   };
   asterisk-format-g729 = {
     version = "23.1.0-r1";
@@ -1206,7 +1206,7 @@
       "libc"
     ];
     provides = [ "asterisk-format-g729-any" ];
-    sha256 = "a5acdb892065110b804b9d38b17dcd2c95d562578a6cbcd9607df04b677d6ebd";
+    sha256 = "1efbcedb1b74a369b736582ed26c863abf6d430f9f27c796544b4115e0644cf6";
   };
   asterisk-format-gsm = {
     version = "23.1.0-r1";
@@ -1216,7 +1216,7 @@
       "libc"
     ];
     provides = [ "asterisk-format-gsm-any" ];
-    sha256 = "f4fc6e7c75bc500f1add82c318e1875f5baa02e240bd079f3e0dbcb104850cdb";
+    sha256 = "ee3661b5a0a03e6e3f18d1b7c502f288410fb65f75a2e809c5752122c181a938";
   };
   asterisk-format-h263 = {
     version = "23.1.0-r1";
@@ -1226,7 +1226,7 @@
       "libc"
     ];
     provides = [ "asterisk-format-h263-any" ];
-    sha256 = "647674c5357d9c80321936ab5f2d896747a8db852157ca7be8ccc40b43a99b29";
+    sha256 = "8a8877967cafb322a57ad4e3f11e0a44093610eb66036affdfedca5e6d21e815";
   };
   asterisk-format-h264 = {
     version = "23.1.0-r1";
@@ -1236,7 +1236,7 @@
       "libc"
     ];
     provides = [ "asterisk-format-h264-any" ];
-    sha256 = "afb87d6410853e415b7a3a481a08ef0843bda01544bb136e6fc05b944279de75";
+    sha256 = "1118a306a980eeb8923add2014e36f83cb342fdcd1b883402cc7c5782f3bd8d3";
   };
   asterisk-format-ilbc = {
     version = "23.1.0-r1";
@@ -1246,7 +1246,7 @@
       "libc"
     ];
     provides = [ "asterisk-format-ilbc-any" ];
-    sha256 = "884620fe5198c840dee569b94a08d5634fdc7e7019711b0351d4db96962502af";
+    sha256 = "b4994cc514126f80b43a916b02d176bdea72b6e6ff42e33b84653d6cce9df144";
   };
   asterisk-format-ogg-opus = {
     version = "2021.11.01~20522fbc-r2";
@@ -1259,7 +1259,7 @@
       "libopusfile"
     ];
     provides = [ "asterisk-format-ogg-opus-any" ];
-    sha256 = "3d24baf33fedc85cddfa06fbfb73ebbac76fc79694362c87195f985d1f3dbae3";
+    sha256 = "4f3ab096013155a0da9c36404817f4186bea512c32af98a1e598f112df178491";
   };
   asterisk-format-ogg-speex = {
     version = "23.1.0-r1";
@@ -1271,7 +1271,7 @@
       "libspeex"
     ];
     provides = [ "asterisk-format-ogg-speex-any" ];
-    sha256 = "1358c4398718843e38afb28d390b6e4f033910cc645f26409f7bced262faf51d";
+    sha256 = "5d50f82eadf76ec492154a2d594ed19e7da7e17a8c0b78926f4d7b12a8cc6074";
   };
   asterisk-format-ogg-vorbis = {
     version = "23.1.0-r1";
@@ -1282,7 +1282,7 @@
       "libvorbis"
     ];
     provides = [ "asterisk-format-ogg-vorbis-any" ];
-    sha256 = "a4a4f40f28105730ba442739775df03b7d60642cfae2a7d9e31cc640ce64ba49";
+    sha256 = "f20d7e5f954bbb94757856a597f3fe54f55cea9477e3fd3f7940de0ab032a2aa";
   };
   asterisk-format-pcm = {
     version = "23.1.0-r1";
@@ -1292,7 +1292,7 @@
       "libc"
     ];
     provides = [ "asterisk-format-pcm-any" ];
-    sha256 = "7f55ba8276b40f0c91ad98f2456a6ac451954dc52ee5601d41f893d2c9416f7d";
+    sha256 = "455151cea035d16d830e3205737eaebbe1901d023f2fc58d9989e7b1c88b2da3";
   };
   asterisk-format-siren14 = {
     version = "23.1.0-r1";
@@ -1302,7 +1302,7 @@
       "libc"
     ];
     provides = [ "asterisk-format-siren14-any" ];
-    sha256 = "79cfb63959b222c95d7b89ce215bd560a593c7beddb3f3a65d0bd5dc66ad6db4";
+    sha256 = "5854160cfc11897b3a0aacf02484908e3183afc8e446bd43c2119c612cd8180d";
   };
   asterisk-format-siren7 = {
     version = "23.1.0-r1";
@@ -1312,7 +1312,7 @@
       "libc"
     ];
     provides = [ "asterisk-format-siren7-any" ];
-    sha256 = "c0964c5d9f7bf566d6016106e4449d262a102fa9197acf287a7639d7262b5c9d";
+    sha256 = "8fc9c603bec06a843bb3f507e1ccfb1dd64286703a9469cd3b010033dbf6587d";
   };
   asterisk-format-sln = {
     version = "23.1.0-r1";
@@ -1322,7 +1322,7 @@
       "libc"
     ];
     provides = [ "asterisk-format-sln-any" ];
-    sha256 = "239d9c3c17f2523195b62738edd9fb3617d03c36a4ef55e02abe257e42e14bc5";
+    sha256 = "14ce178af251f895014460141ea10eeecba1ba92eaa986de35dfe0a2d74e8814";
   };
   asterisk-format-vox = {
     version = "23.1.0-r1";
@@ -1332,7 +1332,7 @@
       "libc"
     ];
     provides = [ "asterisk-format-vox-any" ];
-    sha256 = "73674b9d0661dfbcfc8e7c28724a50d245c9abf366f7834bd0fdf583fd27ad63";
+    sha256 = "cb6b631cb8f84863d08f06144144af828acd60578fcac61e43a909175208a316";
   };
   asterisk-format-wav = {
     version = "23.1.0-r1";
@@ -1342,7 +1342,7 @@
       "libc"
     ];
     provides = [ "asterisk-format-wav-any" ];
-    sha256 = "db568c133a41715c531c74d29a66422345a271181e7079a6ef5a217135df63f5";
+    sha256 = "b336ba55324a3eafd6a693d2f3899adfa42bd90b1c50b9381b4ab91640b646b9";
   };
   asterisk-format-wav-gsm = {
     version = "23.1.0-r1";
@@ -1352,7 +1352,7 @@
       "libc"
     ];
     provides = [ "asterisk-format-wav-gsm-any" ];
-    sha256 = "5753ad89023c5c351967f7d4282aaac4e5537d953bdd34d3322b6f297c54d412";
+    sha256 = "8d4fc7e0f25bae73c19c777c0873183114901931def0fb17baa9dc91da8097f6";
   };
   asterisk-func-aes = {
     version = "23.1.0-r1";
@@ -1362,7 +1362,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-aes-any" ];
-    sha256 = "7dc74c494396587959dc029bfe4d744239aeb9d6c4393c9fb19a47285dbc0e1e";
+    sha256 = "d5b2d068baaf57e5fb68a65e601669419a903b738996b581329e3d1fbb99d618";
   };
   asterisk-func-base64 = {
     version = "23.1.0-r1";
@@ -1372,7 +1372,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-base64-any" ];
-    sha256 = "e33cd87a68ea4a6a9c5748bb85eacfbd1d5c5590a79ff77840c0116c8d59a61c";
+    sha256 = "eced56def31587397eeba1077e9982c1f2297504c20ae76f8d831e432db1acda";
   };
   asterisk-func-blacklist = {
     version = "23.1.0-r1";
@@ -1382,7 +1382,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-blacklist-any" ];
-    sha256 = "33b970d51c073b5b9defb98e109e5242ca83da3226b8ab5e96a8d6ca0348acb9";
+    sha256 = "08fabedcc305a6e345f56e1d2f504e16337c4dc0d4cc7818816413dbe8a3ff8a";
   };
   asterisk-func-callcompletion = {
     version = "23.1.0-r1";
@@ -1392,7 +1392,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-callcompletion-any" ];
-    sha256 = "e0a60c54cd6425c53bd09ab442df1b7a1faa6e14dc32bc036cbab29d3a250259";
+    sha256 = "63dc84756459ab2338f6508c8488dc7ce180d9ad1e016305b8d2b39f01b61e35";
   };
   asterisk-func-channel = {
     version = "23.1.0-r1";
@@ -1402,7 +1402,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-channel-any" ];
-    sha256 = "5eb82052f74dc917d15707b468b2a253134dbbf482437675714dfe85fc32f0d6";
+    sha256 = "deb9ded4a0099ebee876c76fd04902cec65909f605e1798078451795b4b7e46c";
   };
   asterisk-func-config = {
     version = "23.1.0-r1";
@@ -1412,7 +1412,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-config-any" ];
-    sha256 = "3a962c80133f5f97826c1c050ad9ae3eb7b0754508d84ce8c7534d75f2b8be59";
+    sha256 = "f2afbe2331ef67b44270fee9cbae2d08dfa63e381fa16e9ec07f5eb20c288492";
   };
   asterisk-func-cut = {
     version = "23.1.0-r1";
@@ -1422,7 +1422,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-cut-any" ];
-    sha256 = "4d1ac2be655f6755e9967980533d79d22ef1bf9b799c5103d2bf76fe22971daf";
+    sha256 = "176cbc902665afa4fdcf364a12f2d3b94c2e7e770a8beba045705ecfb3ae0fd7";
   };
   asterisk-func-db = {
     version = "23.1.0-r1";
@@ -1432,7 +1432,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-db-any" ];
-    sha256 = "fa5ed33eb00a8059954698a2e59e5123174281f575a1e02cf08219200171c1a1";
+    sha256 = "49600ef162f8e41b3753a3910c658499220a3c2dc761a5ee1afa0abc49edb882";
   };
   asterisk-func-devstate = {
     version = "23.1.0-r1";
@@ -1442,7 +1442,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-devstate-any" ];
-    sha256 = "fa17c8fd4640e9711ac738df4a23dd87e6bff29efc4c1048fcdb12f97a7b1c2b";
+    sha256 = "4a19ce8d5715572c1d9dfb463dde2f336f442d2b019251e38c2a46c83f0358ee";
   };
   asterisk-func-dialgroup = {
     version = "23.1.0-r1";
@@ -1452,7 +1452,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-dialgroup-any" ];
-    sha256 = "7c9ca405d1193b332915e3e827865ab07b76d18b7716094b3e604b56093c5030";
+    sha256 = "01e5505f4b3ba07a93253f6ebc15d769a3aff03e5349b483965654710196be9b";
   };
   asterisk-func-dialplan = {
     version = "23.1.0-r1";
@@ -1462,7 +1462,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-dialplan-any" ];
-    sha256 = "dcb2aea1cefb097f8bf7b966eb650a856dbdddca8610b17f88ae2d7ec01a8158";
+    sha256 = "87c3b92aa415d07a23fb3f5c1c27336c7076a0854c3ac6e9a7eb8b28085cbea2";
   };
   asterisk-func-enum = {
     version = "23.1.0-r1";
@@ -1472,7 +1472,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-enum-any" ];
-    sha256 = "a39b3773bd955f33dd13accf7d21d637a097e341b75eae321e0e66481d6ddfe2";
+    sha256 = "c863075ae9a5d3e1d216603aa1245a8a009154cac170e4ba4a1ea72acaee6dfb";
   };
   asterisk-func-env = {
     version = "23.1.0-r1";
@@ -1482,7 +1482,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-env-any" ];
-    sha256 = "ad67b21616f921e4c2a226d11f76cb518bcd2492fe803b45ba52273b57d34ac2";
+    sha256 = "a6edb6e257e5c77a2a3f86a5d351f963a09dc7702422519fb1ccc4b84a016020";
   };
   asterisk-func-evalexten = {
     version = "23.1.0-r1";
@@ -1492,7 +1492,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-evalexten-any" ];
-    sha256 = "e93e1db1c532557674b8ef5d1aafde2f161bcd7b3482e83beddf9dbd58ddcb2c";
+    sha256 = "d63b0ac3a2cf66ad1acdd19a29d1d5408aa1647bcdedeffbec2ea340418c1243";
   };
   asterisk-func-export = {
     version = "23.1.0-r1";
@@ -1502,7 +1502,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-export-any" ];
-    sha256 = "7d8f8625cce98030de23240bdde570628b668ca9c6fedd0041ab9e5246331232";
+    sha256 = "2c55afe5a36d6ec76fb9e3d85112b3a78935fb283abc3f443d0f7ce02453ce97";
   };
   asterisk-func-extstate = {
     version = "23.1.0-r1";
@@ -1512,7 +1512,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-extstate-any" ];
-    sha256 = "f1e119cd6aae1738fc69df361a173ffaa9c3718a3586a5b914d93e41432571bc";
+    sha256 = "1a627d95a74d68e0897b71a45bb9b0d8b048ba02e87a4b61a731112d2b9e60a0";
   };
   asterisk-func-frame-drop = {
     version = "23.1.0-r1";
@@ -1522,7 +1522,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-frame-drop-any" ];
-    sha256 = "707c81f0ca34f06191b96a2eb98bcf2dbd88fe0bf9f51392d10038aa0e76c594";
+    sha256 = "0e4843b908bfa7a188004c001a5b060877c7edfa76a928217b8e8378ddce536c";
   };
   asterisk-func-frame-trace = {
     version = "23.1.0-r1";
@@ -1532,7 +1532,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-frame-trace-any" ];
-    sha256 = "1df5625493641ea56174d5d3b6c2bf3fe5d5e7c349ebb4ece8dbf72915982fc2";
+    sha256 = "15f6b25dd5b683876a4ab86897a97b175f47f3766d418b81b80cdfcd89c014f1";
   };
   asterisk-func-global = {
     version = "23.1.0-r1";
@@ -1542,7 +1542,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-global-any" ];
-    sha256 = "bb10a57491818d16729fb78e0e1638c02eb2e822916c7caaa44d3a4201e7b429";
+    sha256 = "48a8e3b7f309e173e84dafd9bc1a34a7c34aa8ba2931196da7e701f88becb867";
   };
   asterisk-func-groupcount = {
     version = "23.1.0-r1";
@@ -1552,7 +1552,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-groupcount-any" ];
-    sha256 = "239f4242c0d682041f0e23b82362af62368757dc8da1264df95bd046ba5ef326";
+    sha256 = "d66dd7200dbbd9383c86c79b597a5f6ab5138b142e88fdff31867c6a8d44ea95";
   };
   asterisk-func-hangupcause = {
     version = "23.1.0-r1";
@@ -1562,7 +1562,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-hangupcause-any" ];
-    sha256 = "21a5c9133cea912afc829cf77a1f5ba82cc9f38c528b07cea2052dbf9e8009ec";
+    sha256 = "d7516c6a642098c883cff2fe3a4fb33aa17715e7ae5dbcda3e30f05de354b84e";
   };
   asterisk-func-holdintercept = {
     version = "23.1.0-r1";
@@ -1572,7 +1572,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-holdintercept-any" ];
-    sha256 = "1d1c3a62edd519d8b2c0fc6fb1a48f25919aa1eb4512d426ef147a7382a783d1";
+    sha256 = "cd7941dfdd828ec13bb27bdf9e93c5152238046d7dd7cc597c779cd7ca53f7dd";
   };
   asterisk-func-iconv = {
     version = "23.1.0-r1";
@@ -1582,7 +1582,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-iconv-any" ];
-    sha256 = "1e76a0639cb88ad8a2cabefe05275aa9444828d75259248864ef352eaaaa57b0";
+    sha256 = "e62aa670e32a7a00c857526d3a5562f1c5f31be1b7f20de20636bcbb8db62932";
   };
   asterisk-func-jitterbuffer = {
     version = "23.1.0-r1";
@@ -1592,7 +1592,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-jitterbuffer-any" ];
-    sha256 = "2df177b2b95fee5b6a33fa211c47e5fd3acb3f4edc8d877cbc754f4335edb101";
+    sha256 = "48c941c460e45a6a855bd7643466138f3b1044c47005da934a0372660e18a2df";
   };
   asterisk-func-json = {
     version = "23.1.0-r1";
@@ -1602,7 +1602,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-json-any" ];
-    sha256 = "6f2e0c62898e346682883b7e403d873a61dd4c395803e6ee2d7c19439229e315";
+    sha256 = "f0a44d2527288d8aa4ffd3e80a888178dfcf7f040814df19389b50dd06d0a712";
   };
   asterisk-func-lock = {
     version = "23.1.0-r1";
@@ -1612,7 +1612,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-lock-any" ];
-    sha256 = "cfa8c6c7f657903f5b791d23b4f80208f03b9e6822fc8bdd728ca29ac0d06f6c";
+    sha256 = "2ab419c4bff97820f3dd3eaf6c38891abbee4f5e1535042da6997046f9a23425";
   };
   asterisk-func-math = {
     version = "23.1.0-r1";
@@ -1622,7 +1622,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-math-any" ];
-    sha256 = "2d82e8649b2834596bf148ac04f0774bc54732b404fb948c1295f38d0e8a9639";
+    sha256 = "ee247d10cfa66656aa3fb7c72d0a6b85b6aea34ffe91885b29ece375ee91899d";
   };
   asterisk-func-md5 = {
     version = "23.1.0-r1";
@@ -1632,7 +1632,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-md5-any" ];
-    sha256 = "e157d6be6c7851f2f3106cb8df0286fed2146ef66f9bd983ba3e246a49b0e69f";
+    sha256 = "4fd55b302a1ef2e6f2b94cefbfc17f76691ea874e6eb4894b4db24957af75cb2";
   };
   asterisk-func-module = {
     version = "23.1.0-r1";
@@ -1642,7 +1642,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-module-any" ];
-    sha256 = "9b6d646dea15540b65a85323498895f3f52cd448d9ff2348aecde793098a0f84";
+    sha256 = "ab96add2e31f601ab47e417d401480520c6511f1c77f81e530a2d492e496dd0b";
   };
   asterisk-func-periodic-hook = {
     version = "23.1.0-r1";
@@ -1656,7 +1656,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-periodic-hook-any" ];
-    sha256 = "8cc09610affa11bddec4aa76d308d23786f1d713b7317dc5b4f84f3455823be1";
+    sha256 = "f81461ecf4595abe461d4fc664ad4335721535b05cc1dffbe7cb19f599d1088d";
   };
   asterisk-func-pitchshift = {
     version = "23.1.0-r1";
@@ -1666,7 +1666,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-pitchshift-any" ];
-    sha256 = "3e20b9cbbdd18d632c8ed3b311a4641a12cb0e5b509f6ab820193bc4a6f481cb";
+    sha256 = "61b31c48055a8092b4dcf58fd455e0ed5a877b8c9a584beaab7eeebabc95473a";
   };
   asterisk-func-presencestate = {
     version = "23.1.0-r1";
@@ -1676,7 +1676,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-presencestate-any" ];
-    sha256 = "b760f61f43781b45cdeb9b258d25e4b1761c9c4d1b59bfdb400870d781d12473";
+    sha256 = "408192c8fc062228d71761fc10dbd5719721c16a25549f42ea3c77d89c1ed46c";
   };
   asterisk-func-rand = {
     version = "23.1.0-r1";
@@ -1686,7 +1686,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-rand-any" ];
-    sha256 = "fd39fa694e8fc74a413adafae3a7ee2eecdc7d97e28fb4afa9863019a9a3a407";
+    sha256 = "fedb8d12cad9312632526e3847036589e3f32878256e296517079733f2bbf6f3";
   };
   asterisk-func-realtime = {
     version = "23.1.0-r1";
@@ -1696,7 +1696,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-realtime-any" ];
-    sha256 = "32b86761810426e65219ffa736332e6349c9c772cb36be2f5e361109520e99df";
+    sha256 = "a548258fd007102876eba0598834fcbf8dd91a9f0422fac60b33ddf8bf1bff76";
   };
   asterisk-func-sayfiles = {
     version = "23.1.0-r1";
@@ -1706,7 +1706,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-sayfiles-any" ];
-    sha256 = "2382233a14189fc0c511b05d46570d42eb3c49ff6c343ac918d82bf5b764b236";
+    sha256 = "0048e96bb9ca002f6edafbb7260dda12acf767e7ece9d0808f0e2aad216db33a";
   };
   asterisk-func-scramble = {
     version = "23.1.0-r1";
@@ -1716,7 +1716,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-scramble-any" ];
-    sha256 = "e424c680f01c23b142471bfda30b8ebfc42c3f21774cd5386d97e9400f5404b9";
+    sha256 = "ddf3af70b705b8a0f22bab8c7f92c79e667f3bf364217c0cea0670194824512b";
   };
   asterisk-func-sha1 = {
     version = "23.1.0-r1";
@@ -1726,7 +1726,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-sha1-any" ];
-    sha256 = "395d7c4d10786b729a0f3675521ca95dca571d64a3ed867e5511f922438b0fc4";
+    sha256 = "ab2d449d559dada073bf9348119639cb2d54c8965865d093aeaf9eb541fd82fe";
   };
   asterisk-func-shell = {
     version = "23.1.0-r1";
@@ -1736,7 +1736,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-shell-any" ];
-    sha256 = "a1124be21b107c7e9366ff199e4ec16372f5594eeb3d0145a3f79a76c4b97b70";
+    sha256 = "73abb39bfb90ba1e803b9f745f4476d27a8f4f0ff9a53742f5e95a039774d788";
   };
   asterisk-func-sorcery = {
     version = "23.1.0-r1";
@@ -1746,7 +1746,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-sorcery-any" ];
-    sha256 = "2df82e766b9985c98ccd5a28ee2a23fdbe695d8b393642de7239db35b5c31c3d";
+    sha256 = "2b01d868e2e2ec2d3f913ee11a103b07886807e97a81d4ee43605fc3e1759dfa";
   };
   asterisk-func-speex = {
     version = "23.1.0-r1";
@@ -1758,7 +1758,7 @@
       "libspeexdsp"
     ];
     provides = [ "asterisk-func-speex-any" ];
-    sha256 = "79b3541415491b4edcb2d571e4f3738c21b5abda610f2768a1f5ed697e10f01e";
+    sha256 = "9eb9704c41f86dd683ea1269f7f69c4fe98eca4b9a15e615189e264b617e2502";
   };
   asterisk-func-sprintf = {
     version = "23.1.0-r1";
@@ -1768,7 +1768,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-sprintf-any" ];
-    sha256 = "e2865657a8f49d2d638dd159c303371e6a993fca349b9a6b680643c10e70d2c0";
+    sha256 = "77c0a7386e2239a7784b0584d9c78dbbdb416a2562594d688fdcfb6aaa877063";
   };
   asterisk-func-srv = {
     version = "23.1.0-r1";
@@ -1778,7 +1778,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-srv-any" ];
-    sha256 = "5ca86bfddcbee745003fb99a1ee62e26f63f9094eef525f5fd1504cc05da922f";
+    sha256 = "3557ff7051928ec9cabe9caad790e468ca75fdada23e67e812bbfd92e22b2814";
   };
   asterisk-func-sysinfo = {
     version = "23.1.0-r1";
@@ -1788,7 +1788,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-sysinfo-any" ];
-    sha256 = "7f3a4ead8bd6c18e1c6746b33b5ff2fc92e96ec10c88900fe484216c46d2f524";
+    sha256 = "6140e1ee18948c36b35d484a8ae61dadb2fac63c5c70f5861fbdce5e8a86be54";
   };
   asterisk-func-talkdetect = {
     version = "23.1.0-r1";
@@ -1798,7 +1798,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-talkdetect-any" ];
-    sha256 = "4762b10189e13383bb57b56ea3062cb363b84a62ff9b5e7d27fb5b3e0a944117";
+    sha256 = "38bfc9221af300c60de5e4787108f2321b1d18a812692a2dab4c4d919fdfaffe";
   };
   asterisk-func-uri = {
     version = "23.1.0-r1";
@@ -1808,7 +1808,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-uri-any" ];
-    sha256 = "da83efc689345bcf29e2996c8741cace5c5ada1c4f4d8be46ed075327dba20a4";
+    sha256 = "2852c639f81974a3aebf6c28d3ec855a7504d0b3243011d8f1c0b213d7747895";
   };
   asterisk-func-version = {
     version = "23.1.0-r1";
@@ -1818,7 +1818,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-version-any" ];
-    sha256 = "1590976066af7e5fbe8af02b5f638c3c61576e11ee5964bfa7776d332688dba3";
+    sha256 = "115905947f907188a5c35af36004c79372eb1fba1e37f77548c0d30c9f53ed9c";
   };
   asterisk-func-vmcount = {
     version = "23.1.0-r1";
@@ -1828,7 +1828,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-vmcount-any" ];
-    sha256 = "308bfef021dccfe20ff287db78ec5c89aca3ef4f3fbc4700ddc464d47e50e50e";
+    sha256 = "bea158423922606e44936ad8dd7dac238ed3de7b20aced8d0c75b2ab3e4f8140";
   };
   asterisk-func-volume = {
     version = "23.1.0-r1";
@@ -1838,7 +1838,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-volume-any" ];
-    sha256 = "bcbe97657485bc9dc487514d814e02e3fa337ce56cf53c64b162e9ab82eff3ff";
+    sha256 = "40f1d332c80a11b145eee846d84d8f3a7c6273f9ed1db91300e4875f88569349";
   };
   asterisk-odbc = {
     version = "23.1.0-r1";
@@ -1850,7 +1850,7 @@
       "unixodbc"
     ];
     provides = [ "asterisk-odbc-any" ];
-    sha256 = "79fef21afea6952cf3812d9809d853b7848fcbed05fe0430dff8a3ed9c6df87d";
+    sha256 = "b6019f9d5c75e9e9ba72398a035ea8ad9a7881ae9dd5712782f41a1bbf0a38d2";
   };
   asterisk-pbx-ael = {
     version = "23.1.0-r1";
@@ -1861,7 +1861,7 @@
       "libc"
     ];
     provides = [ "asterisk-pbx-ael-any" ];
-    sha256 = "f6eac5027653ca617ee37a1a14b0993379957025a647786569cfa18dbf67da5c";
+    sha256 = "fd1d6c61a9fbe9f8e5cf111a542475d5bd24ec39c62fe04eb726bf5d82c8870f";
   };
   asterisk-pbx-dundi = {
     version = "23.1.0-r1";
@@ -1871,7 +1871,7 @@
       "libc"
     ];
     provides = [ "asterisk-pbx-dundi-any" ];
-    sha256 = "ad202677d319a1a37f511609bae763d62d97204ac8afc7614e30d29cee3dd5fd";
+    sha256 = "d185914e4bf8f411422f1bfb8f131deb6947cba62beba371c1787e6840e85d7f";
   };
   asterisk-pbx-loopback = {
     version = "23.1.0-r1";
@@ -1881,7 +1881,7 @@
       "libc"
     ];
     provides = [ "asterisk-pbx-loopback-any" ];
-    sha256 = "d84bfa5dafa80a0379bc7702742f56231f475b0d1ec81a27f5350fbc4f95b61f";
+    sha256 = "8787fd22746e63166d629178a37ef837ed3a69bc03c02ffc55d7588c9eb1bc17";
   };
   asterisk-pbx-lua = {
     version = "23.1.0-r1";
@@ -1892,7 +1892,7 @@
       "liblua5.1.5"
     ];
     provides = [ "asterisk-pbx-lua-any" ];
-    sha256 = "78b7b5a3189e67c732daff5ca1ffa037e5a934483f6e401a6aab266723331a11";
+    sha256 = "bb0b2e38c2b3f60bf76a321cd593911eb47029d27c76853bf887af8572beb3b7";
   };
   asterisk-pbx-realtime = {
     version = "23.1.0-r1";
@@ -1902,7 +1902,7 @@
       "libc"
     ];
     provides = [ "asterisk-pbx-realtime-any" ];
-    sha256 = "d6047a1eb94a87f72a2709f62c10602f6d298dc3aebaf00ae4200570e5d3e689";
+    sha256 = "8d127df456e82494b5d0904e6d069fc65e124fb0392e872477f05ec39e003d4e";
   };
   asterisk-pbx-spool = {
     version = "23.1.0-r1";
@@ -1912,7 +1912,7 @@
       "libc"
     ];
     provides = [ "asterisk-pbx-spool-any" ];
-    sha256 = "ec4e0207965293db921c060d05acbf0349d7a986e9bd01c9a88d5c129e929361";
+    sha256 = "3784496582042972f3a0776d90b084915306fd26a877e07226414f70f448ba21";
   };
   asterisk-pgsql = {
     version = "23.1.0-r1";
@@ -1923,7 +1923,7 @@
       "libpq"
     ];
     provides = [ "asterisk-pgsql-any" ];
-    sha256 = "dceddb4985145dba84226f50abf3787c3f97ca92f8375ffe1a105ebf2bf14af2";
+    sha256 = "6246bc23d9dc521fb41732059d64384fa7d5af69672878702e8869501c68e658";
   };
   asterisk-pjsip = {
     version = "23.1.0-r1";
@@ -1943,7 +1943,7 @@
       "libpjsua2"
     ];
     provides = [ "asterisk-pjsip-any" ];
-    sha256 = "6bd6d35a202991022d24b027646a5efc31d6dac8670d386cb560f94ee1fc3d6a";
+    sha256 = "7a42391f69991cef50baa5eb91a593d1431bfe364ed0e65e7d9775f8fd7dca19";
   };
   asterisk-res-adsi = {
     version = "23.1.0-r1";
@@ -1953,7 +1953,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-adsi-any" ];
-    sha256 = "74f5a2e19429675bfeb15b362eb0e627cdb5bdfe6b54565c3b4cc17ddedf60b8";
+    sha256 = "15d19c6bb9b7521767c5090437ed08027cfb4f953238ca474ab71900f97887f0";
   };
   asterisk-res-aeap = {
     version = "23.1.0-r1";
@@ -1964,7 +1964,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-aeap-any" ];
-    sha256 = "56d1da375f7a428025033507badb81d23ddfb116cf7eafa1ff298daa133c9dbb";
+    sha256 = "b78e786be2709bc3b661cc67a4b2eaf272a253622d219f8777d36229cd8c79be";
   };
   asterisk-res-ael-share = {
     version = "23.1.0-r1";
@@ -1974,7 +1974,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-ael-share-any" ];
-    sha256 = "fdb8f825710d3ada002d010fe1bb1a327e4525a6001853b9e49ab74d7d7e59e8";
+    sha256 = "c90eaafaa89f302e48b56fdabfaed9cdc87ea0e77a38eb71b6f33553e67c8ba8";
   };
   asterisk-res-agi = {
     version = "23.1.0-r1";
@@ -1985,7 +1985,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-agi-any" ];
-    sha256 = "3410b282ab036c20533b6450dbed74cfdaa1ec87a658f1a284be6e875b8902e6";
+    sha256 = "05a821f3160d94ba7e6234d4b23b32539eab6547e081df5d734314a4a6229291";
   };
   asterisk-res-ari = {
     version = "23.1.0-r1";
@@ -1996,7 +1996,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-ari-any" ];
-    sha256 = "ff4121807bbdcc78efd7cf042a05748b639c2eb2db9d1830feca1b2fbaf4bc99";
+    sha256 = "83053bb355cedbf18f3ab6a6008c5d61fc98148d87c48eb8e320b9798a0734da";
   };
   asterisk-res-ari-applications = {
     version = "23.1.0-r1";
@@ -2009,7 +2009,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-ari-applications-any" ];
-    sha256 = "f0d1d944a0a9eb8a873c0f2d9118cd21be5ac6cb6ca748f2c0791dd76269c683";
+    sha256 = "60aa392baaffdb1a5823ac6b4acd06ce25b2de3968f530941cfc0347346a7c91";
   };
   asterisk-res-ari-asterisk = {
     version = "23.1.0-r1";
@@ -2022,7 +2022,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-ari-asterisk-any" ];
-    sha256 = "4885fbebe2503d5ba7abae9de5c3ed467eca050d8e9b414e9fd2a630fcf2d7d6";
+    sha256 = "064337985e7ccfcf1ccef1ea5434dc9811782e7816293c2a0600378f6316917b";
   };
   asterisk-res-ari-bridges = {
     version = "23.1.0-r1";
@@ -2035,7 +2035,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-ari-bridges-any" ];
-    sha256 = "4d4f6242c4cef63ddf980afdf01a065d032e20ac21df15307420acdb09c4c6f5";
+    sha256 = "80a0a61cb4f1546550f4e7f11185e461a5445c4c796263345ef263084e190408";
   };
   asterisk-res-ari-channels = {
     version = "23.1.0-r1";
@@ -2050,7 +2050,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-ari-channels-any" ];
-    sha256 = "38eda53172a2c05c07294fbb10429f441f2ed776cf71d66d418972a016942589";
+    sha256 = "602c99be5df05426e985623c596e43f569cefc008b810875ff1bd84bd8877a20";
   };
   asterisk-res-ari-device-states = {
     version = "23.1.0-r1";
@@ -2063,7 +2063,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-ari-device-states-any" ];
-    sha256 = "edcbfbf623ef8a6bf9910cb57434a5c0a39eb440e5356ad2054442e308be8a1c";
+    sha256 = "94bfa2fd30314d39217aa95a46d48adaa737abe4b9bb2f2a28b94d23339890eb";
   };
   asterisk-res-ari-endpoints = {
     version = "23.1.0-r1";
@@ -2076,7 +2076,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-ari-endpoints-any" ];
-    sha256 = "f3ce3deb853a403cc86d74a3e6cd0c22ac5bf89a553da61b26873d1800fc8c22";
+    sha256 = "e1c9eacd42bbcc0b1447339e1a4d99c99403dbac01a1e3d9b41f97821e34cc5a";
   };
   asterisk-res-ari-events = {
     version = "23.1.0-r1";
@@ -2089,7 +2089,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-ari-events-any" ];
-    sha256 = "452dd941406fc5d70c08e5d0ca9a5566c92811d11fcd28a110fefa2148faa3e2";
+    sha256 = "1a67652766752191cd1308e507a632caa1b9c028ad6214f215cb624eb3d58e3b";
   };
   asterisk-res-ari-mailboxes = {
     version = "23.1.0-r1";
@@ -2102,7 +2102,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-ari-mailboxes-any" ];
-    sha256 = "54ef8b6e6de63225c6c85784aab3c64c1e00521880bd1b4550ac186746f1ee22";
+    sha256 = "9398670cd81a3de5737bd13aba0f585f3df42eb3e709b625148fe163fc798069";
   };
   asterisk-res-ari-model = {
     version = "23.1.0-r1";
@@ -2112,7 +2112,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-ari-model-any" ];
-    sha256 = "aab0867da66e20e7305ea086666def3bb92ca67ed974bbc485f14fc760d55773";
+    sha256 = "5b342d5ac656a559288d74ee3ff109fea94996c3f1884d26ce041ed2820246f0";
   };
   asterisk-res-ari-playbacks = {
     version = "23.1.0-r1";
@@ -2125,7 +2125,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-ari-playbacks-any" ];
-    sha256 = "9ec9c7152bb3e5862584e65d77710f4166d6c0276b6837359a26d8e4cb1f2578";
+    sha256 = "d259c042a46ad64bbf2aed3bf6ced2225b1a0e263cd58637dbc1582de98496df";
   };
   asterisk-res-ari-recordings = {
     version = "23.1.0-r1";
@@ -2138,7 +2138,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-ari-recordings-any" ];
-    sha256 = "de4c7513e0d25dfcb03e9525fbe6517226a13f46a1da4da6e06588958e3539bc";
+    sha256 = "0f5b3e1591aa2ddb1c3c974e4b4b7b4c850809a074ce725f349eb29e180f4249";
   };
   asterisk-res-ari-sounds = {
     version = "23.1.0-r1";
@@ -2151,7 +2151,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-ari-sounds-any" ];
-    sha256 = "93ff27b33b60d97dee8c2ea08f8d56ef1a3e99fe6cf1978d07c6d11641d1dc6e";
+    sha256 = "3d92445f6ea7989f3e355779f373aee82926537b60e0ac3c3b5db72b0563e1c6";
   };
   asterisk-res-audiosocket = {
     version = "23.1.0-r1";
@@ -2161,7 +2161,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-audiosocket-any" ];
-    sha256 = "67286f92a22bc321846b992a9364aca6b5a0302ca11b8dd5c4993adc5ee4e69e";
+    sha256 = "abc1dd9299511fd30253758e9a198703b04413bc4ac2af6b0bc465db030fe074";
   };
   asterisk-res-calendar = {
     version = "23.1.0-r1";
@@ -2171,7 +2171,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-calendar-any" ];
-    sha256 = "94b112669eb5fecf44b873238a39679f60f4d3d40df5f39df085a562b6a403f9";
+    sha256 = "2f2f15183dc662ec71b674ebfad7b19a209b0875ea33669d967244bfc50ee836";
   };
   asterisk-res-calendar-caldav = {
     version = "23.1.0-r1";
@@ -2184,7 +2184,7 @@
       "libneon"
     ];
     provides = [ "asterisk-res-calendar-caldav-any" ];
-    sha256 = "75ed02ef17b506d484b65293b49f5a2094b865f466c00e7abf900dd6214c46fc";
+    sha256 = "59018cc9231fa470da61fe5e642281b7e25ea104d78d2f15650dba3c524005bc";
   };
   asterisk-res-calendar-ews = {
     version = "23.1.0-r1";
@@ -2196,7 +2196,7 @@
       "libneon"
     ];
     provides = [ "asterisk-res-calendar-ews-any" ];
-    sha256 = "8494a0c1d41852a8238e050a226d38de68253712e935a9abd07bb338a36c9fde";
+    sha256 = "de2153fba86d4230916c6eb4f452ca9e037e82841a3a1785164cfe59cae53a57";
   };
   asterisk-res-calendar-exchange = {
     version = "23.1.0-r1";
@@ -2210,7 +2210,7 @@
       "libneon"
     ];
     provides = [ "asterisk-res-calendar-exchange-any" ];
-    sha256 = "e5845020c1895fbf7a024993632f85db206b06bce20b938aa814ea4c494ce2c3";
+    sha256 = "802e2853d07487598b7fe772c5ec30d92d5959a5a6a41c6a0a28ceed16650240";
   };
   asterisk-res-calendar-icalendar = {
     version = "23.1.0-r1";
@@ -2223,7 +2223,7 @@
       "libneon"
     ];
     provides = [ "asterisk-res-calendar-icalendar-any" ];
-    sha256 = "47fbcbefa2c74c758c1dba33b7ff3d38778ed5818c19d66e7a542fd55546c3ac";
+    sha256 = "baaecfbffbd9e28a0bd5d644af75ec287ec51092e1ace3ae01856626fcd903b5";
   };
   asterisk-res-chan-stats = {
     version = "23.1.0-r1";
@@ -2234,7 +2234,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-chan-stats-any" ];
-    sha256 = "824ee2d4419d063b1cf5706dfad96415713da13b3ae7d145cdb6c042693cc5f4";
+    sha256 = "6ad3f39b7887544016898a9c0d0dc033de0c4197066b4c2511f4938f402e70b2";
   };
   asterisk-res-clialiases = {
     version = "23.1.0-r1";
@@ -2244,7 +2244,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-clialiases-any" ];
-    sha256 = "2335f9d6ddd3589ca21ec97ff068fe2c4f721218a403b17345a3fb2958449279";
+    sha256 = "a1fdf7b198cf70242c9daca9ab4cb0d0ece7079ef6e79bb26af9be1af794d4fc";
   };
   asterisk-res-cliexec = {
     version = "23.1.0-r1";
@@ -2254,7 +2254,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-cliexec-any" ];
-    sha256 = "1ec2e4061db13946ad5b058451a6a802628be12d18910f0ab51624393706ec7f";
+    sha256 = "e6b8c9658253b575c9dab1f37072eb05ddc0c2239e38f49601ad5e56aaae3cb6";
   };
   asterisk-res-clioriginate = {
     version = "23.1.0-r1";
@@ -2264,7 +2264,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-clioriginate-any" ];
-    sha256 = "ef7ad96f66de2451fc04000cdeb7789b61546d2b68a285bc5186a1e51a33868c";
+    sha256 = "2b4e2ffffd820e6de6fbc1e0d0a745e376c0f49cca68b783c71899f9322ad17a";
   };
   asterisk-res-config-ldap = {
     version = "23.1.0-r1";
@@ -2275,7 +2275,7 @@
       "libopenldap"
     ];
     provides = [ "asterisk-res-config-ldap-any" ];
-    sha256 = "0d6eb4407d5755f00fe385a8d6faf656ff8d854f6b94bd947af48a6cc5677c22";
+    sha256 = "feb386b0484c97f2ed2bf73c2470afb11758add511d0e67b3291da4af9d350cc";
   };
   asterisk-res-config-mysql = {
     version = "23.1.0-r1";
@@ -2286,7 +2286,7 @@
       "libmysqlclient3"
     ];
     provides = [ "asterisk-res-config-mysql-any" ];
-    sha256 = "5a38155ee56913641cc7b8d003d0cb613e7a8dd527e1c7bfd719430b92210fa0";
+    sha256 = "5bb6edacc5aad76724d0e2c52fc7f873f363e42167282f41b3878a393d2c647a";
   };
   asterisk-res-config-sqlite3 = {
     version = "23.1.0-r1";
@@ -2296,7 +2296,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-config-sqlite3-any" ];
-    sha256 = "ac3c865724248349f63f0c55a159bb9b8e898cfd20ff3c676e9ca24272501d03";
+    sha256 = "17a25e31cfed9858f9a33172d674fc8f26979c0c880465a694d1a5b232f42a82";
   };
   asterisk-res-convert = {
     version = "23.1.0-r1";
@@ -2306,7 +2306,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-convert-any" ];
-    sha256 = "b837328ba878d2775e988fb98c94d7ac766ba4b82a97c78eac179f573a3ff0a1";
+    sha256 = "d3c82bde15e44b6a76eb96f3cdfd457af90a0720acec1bb485fc153bd086ff5a";
   };
   asterisk-res-endpoint-stats = {
     version = "23.1.0-r1";
@@ -2317,7 +2317,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-endpoint-stats-any" ];
-    sha256 = "f113bdd62c16d6e56146ab98a4e85457aaa3b7d2a034cb5605b7c5c990628a8f";
+    sha256 = "c5cd6fe3431bfb43b1e3f22f50559e6b473e2f47177c84a2652ae673a1cd98c2";
   };
   asterisk-res-fax = {
     version = "23.1.0-r1";
@@ -2327,7 +2327,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-fax-any" ];
-    sha256 = "6ba6b512d2192d143dc931683840c1ae92ed061c349d09e2e0ea8c0029f73372";
+    sha256 = "4a902d54422b8f0c843e1b306dcba1cae69da85617148c06d4688ba7f77e93bd";
   };
   asterisk-res-fax-spandsp = {
     version = "23.1.0-r1";
@@ -2340,7 +2340,7 @@
       "libtiff6"
     ];
     provides = [ "asterisk-res-fax-spandsp-any" ];
-    sha256 = "1c1135ec4611c96b85da5890a392d76da509b748f4e2907c7e431efc125c5b85";
+    sha256 = "41225a5d18cd76798ea4b8cb79cd81278a4747d30eb9afb4cadbde37b68aa887";
   };
   asterisk-res-format-attr-celt = {
     version = "23.1.0-r1";
@@ -2350,7 +2350,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-format-attr-celt-any" ];
-    sha256 = "3517ab5d54375687d25aee0f906f8a54ba751991671ffe785d560b4b02f58adf";
+    sha256 = "99e84a354afa463642e981f022a82bd374d3b8bc7ce3975c7dc0b1ed55bb5b30";
   };
   asterisk-res-format-attr-g729 = {
     version = "23.1.0-r1";
@@ -2360,7 +2360,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-format-attr-g729-any" ];
-    sha256 = "1d28c6553ac3bd4a3e042ff69fda4b628bc24bd91a3fb3d80796a9928c513b77";
+    sha256 = "32fa96122dbc726497d3b3f7c213e0a3e0d458e073cbca48555280aaf4a426d4";
   };
   asterisk-res-format-attr-h263 = {
     version = "23.1.0-r1";
@@ -2370,7 +2370,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-format-attr-h263-any" ];
-    sha256 = "93a1a721e65ccc95e5cc626ee62c800bdd987283a81f5371e51dceadd1b53098";
+    sha256 = "bf37b787d8118ccd6ca0f7ad9f436f429d04854c06c64f6143a4ec20e787eeec";
   };
   asterisk-res-format-attr-h264 = {
     version = "23.1.0-r1";
@@ -2380,7 +2380,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-format-attr-h264-any" ];
-    sha256 = "a63201aef8edd86fa5403b4bb68ee89195b68515b343f5c16f7ddfffd6c15879";
+    sha256 = "d1ae4fb97089862485922f102cb6a8661d8ec9e671cb82959b6142ec328d431a";
   };
   asterisk-res-format-attr-ilbc = {
     version = "23.1.0-r1";
@@ -2390,7 +2390,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-format-attr-ilbc-any" ];
-    sha256 = "b1b584792515fa691118688ed94fc364db187aecaa5f4563670ff706e83aef06";
+    sha256 = "b557c94ca88438974ec57e2d0dcbc720b9651560228d953af128905921ea08f2";
   };
   asterisk-res-format-attr-opus = {
     version = "23.1.0-r1";
@@ -2400,7 +2400,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-format-attr-opus-any" ];
-    sha256 = "e674a882d2f10428d95b6cbe2d30c71d6d2eaae5e7549bc004225c4a6ba89f40";
+    sha256 = "5db6c0bf176feb86b25690e442f3485e4e771caa007589fd3d8cb9e80493a629";
   };
   asterisk-res-format-attr-silk = {
     version = "23.1.0-r1";
@@ -2410,7 +2410,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-format-attr-silk-any" ];
-    sha256 = "622d72a129b22f50abf1a936708d02926efc5a1adcce04daffc1c183a634e7bc";
+    sha256 = "f8990fbdb34346c2e80950daf29d190f737c62d6c1596ee4d0c3c150d888fab7";
   };
   asterisk-res-format-attr-siren14 = {
     version = "23.1.0-r1";
@@ -2420,7 +2420,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-format-attr-siren14-any" ];
-    sha256 = "f1852e85b871ac9c6f8629b5290493220504294498a84d3f0f58bb8ce3b4eb33";
+    sha256 = "18873f24bc2092bc4bd8ba4cc6eb6cb01d7750636c6a821848b89f0c8208bf35";
   };
   asterisk-res-format-attr-siren7 = {
     version = "23.1.0-r1";
@@ -2430,7 +2430,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-format-attr-siren7-any" ];
-    sha256 = "697dae9d510569a9fccf2b4e770870334fa564340cd2a99ab2fa56901837b304";
+    sha256 = "71ff02aade82188e1c5ead2e0b22a2920667d953b6c73c3d67194b52bc338469";
   };
   asterisk-res-format-attr-vp8 = {
     version = "23.1.0-r1";
@@ -2440,7 +2440,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-format-attr-vp8-any" ];
-    sha256 = "a00f0753648cbacc8158960d17ef3c0e2e70f039a2f861310e146371e1c19bc3";
+    sha256 = "155eff720ca84fa5f4278d3bbd245c1a36e1def9cd79a0071094311422e308ea";
   };
   asterisk-res-hep = {
     version = "23.1.0-r1";
@@ -2450,7 +2450,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-hep-any" ];
-    sha256 = "510b30801e5d207fc5a49505d3734d7c10cef2fc28b91a0334d2a9bd96cf1338";
+    sha256 = "bdc3c4f66fa440d14def25d3000ac4e48ffadc8e40e3a58445d88e3c42e7ecd6";
   };
   asterisk-res-hep-pjsip = {
     version = "23.1.0-r1";
@@ -2462,7 +2462,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-hep-pjsip-any" ];
-    sha256 = "7ef6095b9fb58bd24b895eb33531b5953bab8d9175728f94d9e5a8c7cd7e9564";
+    sha256 = "36f4635ed7877c077a98cdb1b3c3e2502826c0e2a7106dffae6f2e742209043d";
   };
   asterisk-res-hep-rtcp = {
     version = "23.1.0-r1";
@@ -2473,7 +2473,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-hep-rtcp-any" ];
-    sha256 = "488cfb84ef36b20710662edb6a25fb9ad39d956d2d62cf29a5e30a93b8324737";
+    sha256 = "4a373b9c81756ad649ad2530949291625c3534605c2c4bf1bc0190ca83e476c1";
   };
   asterisk-res-http-media-cache = {
     version = "23.1.0-r1";
@@ -2484,7 +2484,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-http-media-cache-any" ];
-    sha256 = "c63f9bfa35dd17b52488ece9fee0c87583c852fdd24d85a2417a60222f78740c";
+    sha256 = "448b1d40c2ec74f0b504be1741b03ac15a6f1c09004d921a09c02fd909e0ab59";
   };
   asterisk-res-http-websocket = {
     version = "23.1.0-r1";
@@ -2494,7 +2494,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-http-websocket-any" ];
-    sha256 = "f869c85715e4a6402869d58b19befa3f0932819d7d16bee4ff27908153afed81";
+    sha256 = "97b47ecde3fa4487bdde24f6afb6a5da3e856bbfd13b16db131b718a643729fb";
   };
   asterisk-res-limit = {
     version = "23.1.0-r1";
@@ -2504,7 +2504,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-limit-any" ];
-    sha256 = "d47d406cf1ef357c383f2e459558cc23a13b6755a67e7309984f43c1d0ae86e8";
+    sha256 = "5f3766ab4a4560da35bac22103ccea4625e6373074e643305da224d2154f00c0";
   };
   asterisk-res-manager-devicestate = {
     version = "23.1.0-r1";
@@ -2514,7 +2514,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-manager-devicestate-any" ];
-    sha256 = "545366764f02d69151db736569a11320a8ce267fa5d81e48533b4de769e96e3e";
+    sha256 = "60c1ddf326c8afeb114cc3ab8805dbc76e575b9cad453e4f6b44842eb059f31e";
   };
   asterisk-res-manager-presencestate = {
     version = "23.1.0-r1";
@@ -2524,7 +2524,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-manager-presencestate-any" ];
-    sha256 = "7cd91003ea6b3e4dd357a24858a2133b2c8f18b310bac809e1c7733abd2112d9";
+    sha256 = "0a24e9b2c7247fdc32667be105b51491da963da502342079eec69b36b17c6b11";
   };
   asterisk-res-musiconhold = {
     version = "23.1.0-r1";
@@ -2534,7 +2534,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-musiconhold-any" ];
-    sha256 = "5421c7f7dda27d7622af13b15debefe1d67043fbccf8fb08794105286860195d";
+    sha256 = "8be02a0f47ee451e2e7f7518214ec73c65974dfff85deb016a3541eab98bd206";
   };
   asterisk-res-mutestream = {
     version = "23.1.0-r1";
@@ -2544,7 +2544,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-mutestream-any" ];
-    sha256 = "d26d799bfd0e1ec4cc9f0974ec30c136f413126b507fe51fbc7a46d3838fbf1d";
+    sha256 = "d977d9ec1105cbaf404176b5b255d8f220571c90aa56a83ed015f7977dfbd76a";
   };
   asterisk-res-mwi-devstate = {
     version = "23.1.0-r1";
@@ -2554,7 +2554,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-mwi-devstate-any" ];
-    sha256 = "0ec0a9c514448e76c0002d9bb6863b5bcdd9b36121bf44f3f0801542f2e1bde2";
+    sha256 = "f493010584bb4f1cc69613a5964f737cfeb7b2f8f2acea6557a5234c58ecd0e0";
   };
   asterisk-res-mwi-external = {
     version = "23.1.0-r1";
@@ -2564,7 +2564,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-mwi-external-any" ];
-    sha256 = "50c34ae3da240c468a6fc3afda999e990be605b73596625a5c2d5db3f13c7059";
+    sha256 = "65c77eb7237c84ee0d5f89728e0a86f97644472bc7828cbbef080c5bce3b370b";
   };
   asterisk-res-mwi-external-ami = {
     version = "23.1.0-r1";
@@ -2575,7 +2575,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-mwi-external-ami-any" ];
-    sha256 = "78203b52dcfe4fc87c53b57a1dd25f0e0715d81f3d0555ec772e558fccda2035";
+    sha256 = "b2ef58cc3cfa61c01d77282f7ccb8bc4d7cb83bd1bf1879b0017a8d3e72e4aee";
   };
   asterisk-res-parking = {
     version = "23.1.0-r1";
@@ -2586,7 +2586,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-parking-any" ];
-    sha256 = "2b61e79e10810dbdc01c7e7f93a51ffe6a459a405e416d9568b5c6bcc910b8df";
+    sha256 = "37c4e4f5c5a04a38f50a2910955072e24d1c58d6dab5b36fa45895d3bd130680";
   };
   asterisk-res-phoneprov = {
     version = "23.1.0-r1";
@@ -2596,7 +2596,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-phoneprov-any" ];
-    sha256 = "0b317b5fcd4f47239197f4f7c7c4097225b51af645d22765f0ce92c814cd7738";
+    sha256 = "3bea0ee06839002f7b96f8b25b22ea517ed0152dc963c4f39ae86cd282c5fb04";
   };
   asterisk-res-pjproject = {
     version = "23.1.0-r1";
@@ -2616,7 +2616,7 @@
       "libpjsua2"
     ];
     provides = [ "asterisk-res-pjproject-any" ];
-    sha256 = "1b1df1d927459d6949192a6f4c033b90cb907ae39f5a498954d224b998640d60";
+    sha256 = "68e4f287eff723ea982862e278faa82387cbf8847cb442b31f233f817bd912c1";
   };
   asterisk-res-pjsip-aoc = {
     version = "23.1.0-r1";
@@ -2628,7 +2628,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-pjsip-aoc-any" ];
-    sha256 = "b2131f42b43ee823a181b4b0d945dbf19fb3f27942a37744b77b1bb5793bb52e";
+    sha256 = "97a864dd3c22db04c8ef175e3e716ca724edf8cb407c8f82ecc5b348a9879eb7";
   };
   asterisk-res-pjsip-phoneprov = {
     version = "23.1.0-r1";
@@ -2640,7 +2640,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-pjsip-phoneprov-any" ];
-    sha256 = "bad590adc4c790f5c234d5361ae08ce8e9bc9efb9c9ee00606f6c82f4e628239";
+    sha256 = "c9421edeb94a2b4558ed3a83713d178238027d8f413e595a6f4eb7984fee0a09";
   };
   asterisk-res-pjsip-rfc3329 = {
     version = "23.1.0-r1";
@@ -2652,7 +2652,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-pjsip-rfc3329-any" ];
-    sha256 = "355317792c8fb00ded5d55b6badd9a0d1af2079cd1fa99ac7a4187a042e6c937";
+    sha256 = "59afe6e969763e80cc4ad3f81bb7c469d844656fbc9d6b5abe6f4cf1b7e91f78";
   };
   asterisk-res-pjsip-stir-shaken = {
     version = "23.1.0-r1";
@@ -2664,7 +2664,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-pjsip-stir-shaken-any" ];
-    sha256 = "04968d96aa7cf9cac6b5f6a734dbe4ad3289d8be1ff8816c79dd4fd181fca5bf";
+    sha256 = "9e69e9d73eb7e0d006b8112e53e3e980f3b46ec1c0d9954fd490423b44d6a42c";
   };
   asterisk-res-prometheus = {
     version = "23.1.0-r1";
@@ -2681,7 +2681,7 @@
       "libpjsua2"
     ];
     provides = [ "asterisk-res-prometheus-any" ];
-    sha256 = "466f9d89f9b677ba620fc7d9a6b2ce7751edac6484e06f767058e5dfc6de8683";
+    sha256 = "ff6e397f15c6603e612d51ccdfa6a041f5bc0d28496dc09e0723be43f3094165";
   };
   asterisk-res-realtime = {
     version = "23.1.0-r1";
@@ -2691,7 +2691,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-realtime-any" ];
-    sha256 = "3ad40a4bfd624f30c466bd4d694fb9ac7ca3c229c1c2645e0ac42214cea4fbea";
+    sha256 = "b960f19db3b00c135bc4556d9b88c2b88650b33da20b8a4763eb0d3c5625580b";
   };
   asterisk-res-remb-modifier = {
     version = "23.1.0-r1";
@@ -2701,7 +2701,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-remb-modifier-any" ];
-    sha256 = "bbddf925acfa319f166d0e6357849e8f9ef6532e431a5abe7564298054cb1bcd";
+    sha256 = "e7466b4182c69c1bc82d4200d6466c674055054ec06844f328087ddb3d3656cc";
   };
   asterisk-res-resolver-unbound = {
     version = "23.1.0-r1";
@@ -2712,7 +2712,7 @@
       "libunbound"
     ];
     provides = [ "asterisk-res-resolver-unbound-any" ];
-    sha256 = "7a97874624aa50a10a401188c1412032e0b74df432af1735a87cc7706651f4d1";
+    sha256 = "87dba5b6d9b1e4837e6159566060fb9a505e059f59960a02d56ba23adad085d6";
   };
   asterisk-res-rtp-asterisk = {
     version = "23.1.0-r1";
@@ -2729,7 +2729,7 @@
       "libpjsua2"
     ];
     provides = [ "asterisk-res-rtp-asterisk-any" ];
-    sha256 = "cb7260e26eab9c2a3ec01f67e768dc864c70ebf9fe429749d2936a26fda74809";
+    sha256 = "6dfbbb0baf88b5166f59d382da338adbd4ffe358ea802a0e45b2193e62c03282";
   };
   asterisk-res-rtp-multicast = {
     version = "23.1.0-r1";
@@ -2739,7 +2739,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-rtp-multicast-any" ];
-    sha256 = "d04bf270dd5f5d74cb2b1f610971148065d37f8d21122b8d9b15837c88e6a082";
+    sha256 = "07363c65db40708cf69690961721c02ac0076a0c1efec29ecce44e7209e164f9";
   };
   asterisk-res-security-log = {
     version = "23.1.0-r1";
@@ -2749,7 +2749,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-security-log-any" ];
-    sha256 = "398886a8cc867c76dd793b3f56a49540919dd1202a558b0c40f0bd83e10d7f92";
+    sha256 = "452be88b443cc25938e30be9f94954286830c6fd8e3c56599f2e82c91249e7b6";
   };
   asterisk-res-smdi = {
     version = "23.1.0-r1";
@@ -2759,7 +2759,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-smdi-any" ];
-    sha256 = "48fd01be5c4ec105a3842d03228140ab85ca0ec7def6733733e1a3bc16bcb99f";
+    sha256 = "b392a16dc3121087fa9055c4f2339c6caece50dbc4d9f94429b9f0ba2ba6a126";
   };
   asterisk-res-snmp = {
     version = "23.1.0-r1";
@@ -2770,7 +2770,7 @@
       "libnetsnmp"
     ];
     provides = [ "asterisk-res-snmp-any" ];
-    sha256 = "6cff04175ae9a4bb2162feff615d1ee8835d1b00793fccaaa793d193b674af9a";
+    sha256 = "9f1e9145656d09e0dfbb77c196e7cc098507ea58fdf6b35c81ee10fc1abda31d";
   };
   asterisk-res-sorcery = {
     version = "23.1.0-r1";
@@ -2780,7 +2780,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-sorcery-any" ];
-    sha256 = "89e7abab9f94ea3ce90c3a355714956707d0be270f1be86e61d4cfd1b0fe4ce4";
+    sha256 = "18670eb4d2f2fda8ea700dffd7bc9fb07c2f7cbf107be7fdad06b6430723bb9c";
   };
   asterisk-res-sorcery-memory-cache = {
     version = "23.1.0-r1";
@@ -2790,7 +2790,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-sorcery-memory-cache-any" ];
-    sha256 = "0a4143dbbe65199e946abf5430463903d69a431d1890ec6756e31b1b96a65194";
+    sha256 = "9f3def6af7b79dfe6ca78544a5ecf3c6ec9af48b89036638509cd100214f96fa";
   };
   asterisk-res-speech = {
     version = "23.1.0-r1";
@@ -2800,7 +2800,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-speech-any" ];
-    sha256 = "310e3d179ebb5d0e878a4ce67f312b1dd7fa81bfc22ffd69335f727867319b48";
+    sha256 = "284efb74f21179e48ddbbf38222b9abc9a88ba4cc41a3f4f26376a3c0f6b7e9a";
   };
   asterisk-res-speech-aeap = {
     version = "23.1.0-r1";
@@ -2812,7 +2812,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-speech-aeap-any" ];
-    sha256 = "5f690a75d18b8b4fbe8963b7ab6b908fe58cf542ca3e27c3e2f663b3736909db";
+    sha256 = "d84be9120c1e453449dccd073ef857cf9f290ee13e97da7705bcebc3ba5ecaf7";
   };
   asterisk-res-srtp = {
     version = "23.1.0-r1";
@@ -2823,7 +2823,7 @@
       "libsrtp2-1"
     ];
     provides = [ "asterisk-res-srtp-any" ];
-    sha256 = "2193f46347f901643641b56acb1b90f2091f290d1b35f0f4290d95fc687bf358";
+    sha256 = "755761b81e7ae10e009e7e8354c037d6b432598cffb7c2e473db11cbe29fb97b";
   };
   asterisk-res-stasis = {
     version = "23.1.0-r1";
@@ -2833,7 +2833,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-stasis-any" ];
-    sha256 = "0b6220bb5ad4687f31aefe6b21a18394bd341023c6bc15b2629de633ab199738";
+    sha256 = "ab8e44fb8b43e45e495594fd7d870718bf34087fec72eec177ee221a0b504cf0";
   };
   asterisk-res-stasis-answer = {
     version = "23.1.0-r1";
@@ -2844,7 +2844,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-stasis-answer-any" ];
-    sha256 = "58222816f7edd7b186f2f846cc318622f3b673c407681b17a58cef281c0ab55b";
+    sha256 = "4633c47dfff8b4a88671aed973fec0954322e43a45b9b37f95956994cc600619";
   };
   asterisk-res-stasis-device-state = {
     version = "23.1.0-r1";
@@ -2855,7 +2855,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-stasis-device-state-any" ];
-    sha256 = "0bb09525de9fa15c6a05957dc4f8dfccb6f03062a80889a4fb563329bd02ad76";
+    sha256 = "89eab1aa45a92d9e0d77fece498deeb7a03065e076cc456b7ceb1c1dca39f620";
   };
   asterisk-res-stasis-mailbox = {
     version = "23.1.0-r1";
@@ -2867,7 +2867,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-stasis-mailbox-any" ];
-    sha256 = "5eb904e6b4c3441952e5f9d094fc045c770282b36e184f12833e8f177523016e";
+    sha256 = "520c66fac924cfb94d3097cbec22bf255b80bf3c007ffe7f21f014be4a84f580";
   };
   asterisk-res-stasis-playback = {
     version = "23.1.0-r1";
@@ -2878,7 +2878,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-stasis-playback-any" ];
-    sha256 = "7661f55c20e4a8739ff2baa2ba7ba33ee234d805c733bad5ad8d5290da902eec";
+    sha256 = "c19ee242212e6bcfed4f100e48d5898004c4ed235bf1ad7377b494b6d1ebb4fb";
   };
   asterisk-res-stasis-recording = {
     version = "23.1.0-r1";
@@ -2889,7 +2889,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-stasis-recording-any" ];
-    sha256 = "9a58ad12f9930e07766fce6cf1d69093d7bcf6a371e448734bf73841638a94ba";
+    sha256 = "79c8d96809c5cbd014b922692f9ee487b961051a837956be8c6997df9f1c6a8f";
   };
   asterisk-res-stasis-snoop = {
     version = "23.1.0-r1";
@@ -2900,7 +2900,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-stasis-snoop-any" ];
-    sha256 = "33527fe13af47a7f3a298d674f8499070672e6903eb40f7ae3ed1a75d3a9e621";
+    sha256 = "d3c4d540c1be95b007409f59a6200ae84f10f6ae9b1c29e5b85840409b031b53";
   };
   asterisk-res-statsd = {
     version = "23.1.0-r1";
@@ -2910,7 +2910,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-statsd-any" ];
-    sha256 = "091e856dfc4b6a1d9de3e10c5ff6a40327e842ccd5916cf21198187125a13ec1";
+    sha256 = "642f13def443ab3dc06e87a5ad7a4510dd46b21a91399048272b1e2e72acf4c7";
   };
   asterisk-res-stir-shaken = {
     version = "23.1.0-r1";
@@ -2922,7 +2922,7 @@
       "libjwt0"
     ];
     provides = [ "asterisk-res-stir-shaken-any" ];
-    sha256 = "559a1cb456acf514451639b10b48318c007aadc1aa5a4e74115b4aa44dbcfd57";
+    sha256 = "9e1a9b4a2be2afc8940ff403f54cc435f1c939717a73979686ecea31651c58d5";
   };
   asterisk-res-stun-monitor = {
     version = "23.1.0-r1";
@@ -2932,7 +2932,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-stun-monitor-any" ];
-    sha256 = "17c6714a56dbf44fe5cc7cc5cd9842f11f9cab1808e472d80136e2eba488e9a1";
+    sha256 = "54e94a914a537e9705cbcbf0e51a15880f0737d397038531eeac2e14c1e2ca7b";
   };
   asterisk-res-timing-dahdi = {
     version = "23.1.0-r1";
@@ -2943,7 +2943,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-timing-dahdi-any" ];
-    sha256 = "ed7b6cc6b26c80efd6d821b3a688b4b51007ecf35805f382be155e3013cd8bcb";
+    sha256 = "3ebad5f29f6973f80a8c883c6030fb06aec489a747808873be8be2e7710148fc";
   };
   asterisk-res-timing-pthread = {
     version = "23.1.0-r1";
@@ -2953,7 +2953,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-timing-pthread-any" ];
-    sha256 = "7795937a1deb3ac5758543d9ed78e3fb49f4359e179a7f4400266132e67492be";
+    sha256 = "73754dabf1a1edd9f141beeaa4e8b13f1462a613607990640f59d6f99bcd394a";
   };
   asterisk-res-timing-timerfd = {
     version = "23.1.0-r1";
@@ -2963,7 +2963,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-timing-timerfd-any" ];
-    sha256 = "aca749f4938bd69c159f34a44b4784af15be47e54d6d91febc5b0286019f95ef";
+    sha256 = "4b6eab9ecc7f3d32ad1df6ef7c7442db2b3e0a0af390a79a37fc7e5e94ea752a";
   };
   asterisk-res-tonedetect = {
     version = "23.1.0-r1";
@@ -2973,7 +2973,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-tonedetect-any" ];
-    sha256 = "76193e803d8b87b8cba1033afe01fb2f59ca3ec67e9ef7d0cffa183c4071c2de";
+    sha256 = "2979480cb41cb8b0d50e4565ca5141cff62428c664f685bf1ea4c769bf78e9ca";
   };
   asterisk-res-websocket-client = {
     version = "23.1.0-r1";
@@ -2983,7 +2983,7 @@
       "libc"
     ];
     provides = [ "asterisk-res-websocket-client-any" ];
-    sha256 = "eea18370cf5ad6fdcdb3f89f5dd52f7b13ad59136b0d0d94e9933e207df8ec75";
+    sha256 = "5c31d51821f0c8c62f0e8a8954ee4144b07266f4eb76747d23262a99271ecd98";
   };
   asterisk-res-xmpp = {
     version = "23.1.0-r1";
@@ -2995,7 +2995,7 @@
       "libopenssl3"
     ];
     provides = [ "asterisk-res-xmpp-any" ];
-    sha256 = "d14ad1b646e245e66502551665d9f472b8b00c7106421a6c7f92fc78e96a5afd";
+    sha256 = "a4aecb182e269698b932d4a26b49deedda8df17da16d888bba8154e19b0b48c8";
   };
   asterisk-sounds = {
     version = "23.1.0-r1";
@@ -3016,7 +3016,7 @@
       "libc"
     ];
     provides = [ "asterisk-util-aelparse-any" ];
-    sha256 = "3af2c6d5371b1c53f20eebfe533843f2b581b6c6a89bd62946b4c8054d9e4fe4";
+    sha256 = "787277c33b41c27e66249b453497242872cad649ba0415bc99944412e1b54ee7";
   };
   asterisk-util-astcanary = {
     version = "23.1.0-r1";
@@ -3026,7 +3026,7 @@
       "libc"
     ];
     provides = [ "asterisk-util-astcanary-any" ];
-    sha256 = "8eb9f60f952b23d31860d61f6687a0ced467cb0e0fc17ad89b82616e973500b8";
+    sha256 = "21855c815463792d628a9207582379a85f896712d4713291c889c770b1b94555";
   };
   asterisk-util-check-expr = {
     version = "23.1.0-r1";
@@ -3036,7 +3036,7 @@
       "libc"
     ];
     provides = [ "asterisk-util-check-expr-any" ];
-    sha256 = "4910f55276fa16ae7827510876cae4cec0d2a2843288a19357f01786fe897866";
+    sha256 = "05824fa2d810e8d5ea7c2481be476519b687603df56d3e964f7fac5e9265e605";
   };
   asterisk-util-check-expr2 = {
     version = "23.1.0-r1";
@@ -3046,7 +3046,7 @@
       "libc"
     ];
     provides = [ "asterisk-util-check-expr2-any" ];
-    sha256 = "eed64f09d7f76cb4750e04d7b17ef4d3a9ffd9760c0d65b0c8cda5a774ee48f0";
+    sha256 = "cb27a6f4522b19c6f5dc7bd73e4b4fe968d4151b4387405f533e670c63b0638e";
   };
   asterisk-util-smsq = {
     version = "23.1.0-r1";
@@ -3057,7 +3057,7 @@
       "libpopt0"
     ];
     provides = [ "asterisk-util-smsq-any" ];
-    sha256 = "924c25aa7cf44f0e36559f06f6358e0daba44ff18cdbd886afebf7bea138cac4";
+    sha256 = "3fb5f7171a58c86e1b290f151b7c404ae52f9f3fc2863b787003548b920f4a8c";
   };
   asterisk-util-stereorize = {
     version = "23.1.0-r1";
@@ -3067,7 +3067,7 @@
       "libc"
     ];
     provides = [ "asterisk-util-stereorize-any" ];
-    sha256 = "f2e8c5b104c9268a92994a0126a134353a75c3b6770e1999e668456d43fa88a3";
+    sha256 = "a66d0d2bfc7ea6ab3c557f12471f43723058b7bd21354eb7ead48deba9aed4e3";
   };
   asterisk-util-streamplayer = {
     version = "23.1.0-r1";
@@ -3077,7 +3077,7 @@
       "libc"
     ];
     provides = [ "asterisk-util-streamplayer-any" ];
-    sha256 = "072bff0cda7ee2893b9f156b535997af7ebf4d641e6058cb32e56f2e1e17415d";
+    sha256 = "7fe151f8ecebabe33fd579701c5c218b4afbc7678c86b2770d115c9d519156a6";
   };
   baresip = {
     version = "3.16.0-r3";
@@ -3087,7 +3087,7 @@
       "libre2"
     ];
     provides = [ "baresip-any" ];
-    sha256 = "cbef1f8f16c96e34f6f47940d8c5df82c472fbb226b5a9c30228a4aab2f0898b";
+    sha256 = "567653f6e23f8971003a9745223bd431e4a9197bfd33aa09d8c8a0d8165597e9";
   };
   baresip-app-auloop = {
     version = "0~0b25d612-r1";
@@ -3097,7 +3097,7 @@
       "libc"
     ];
     provides = [ "baresip-app-auloop-any" ];
-    sha256 = "4fc588a7b0bccf199c0d25c0d46ef63529a4972968995cf81ee71f578e0f3452";
+    sha256 = "d6b61477f71ca52945f9d7cd55719016c782cc91ab5c60cc5e396c1226ca058e";
   };
   baresip-app-autotest = {
     version = "0~0b25d612-r1";
@@ -3107,7 +3107,7 @@
       "libc"
     ];
     provides = [ "baresip-app-autotest-any" ];
-    sha256 = "b787b821202fb7cc9b4c9201e695c6a1aa9b237d516982695458a6771ed9c9d7";
+    sha256 = "ecf96a106bda65ad5271dd2d73000d5df105d3b7fc4696132fe6a7721d56d722";
   };
   baresip-app-b2bua = {
     version = "0~0b25d612-r1";
@@ -3117,7 +3117,7 @@
       "libc"
     ];
     provides = [ "baresip-app-b2bua-any" ];
-    sha256 = "29bd1f1c943392c025b8d413a527a9093bc4eb6b18eb533feb7056f511398f1e";
+    sha256 = "d54f6b4cc9f19bb4bbdd96c895149ebabff0b7d8e5962df1e40969a1f93d861a";
   };
   baresip-app-intercom = {
     version = "0~0b25d612-r1";
@@ -3127,7 +3127,7 @@
       "libc"
     ];
     provides = [ "baresip-app-intercom-any" ];
-    sha256 = "db0dfcd971679921ea77b3f05560c81a362757edf8415e4f10f23c9d70c02dde";
+    sha256 = "27b380bdc8670a52228dc802537854ba060fcc8e59f35d68ca3f26bc0ba3fa17";
   };
   baresip-app-kaoptions = {
     version = "0~0b25d612-r1";
@@ -3137,7 +3137,7 @@
       "libc"
     ];
     provides = [ "baresip-app-kaoptions-any" ];
-    sha256 = "dc134b2b64c78bb70465e496c979183db04578442791b8e008557b6f45323e43";
+    sha256 = "3983fc72d9ae06dfa0e9381064609c11bfed6ab3209b33acea6f45f775ac7b87";
   };
   baresip-app-multicast = {
     version = "0~0b25d612-r1";
@@ -3147,7 +3147,7 @@
       "libc"
     ];
     provides = [ "baresip-app-multicast-any" ];
-    sha256 = "2fe114bc40eae2f346b9961a7f3132b4bde553179179434ca933eca94495b203";
+    sha256 = "e1240ae99a95c33d8219914f564143083d79ebb2c79b3d367a41d0a50ee772cd";
   };
   baresip-app-parcall = {
     version = "0~0b25d612-r1";
@@ -3157,7 +3157,7 @@
       "libc"
     ];
     provides = [ "baresip-app-parcall-any" ];
-    sha256 = "8b88922aefac8f2b715b13079efcf610f54da079a15f68e1fc8eac8f19f02ba2";
+    sha256 = "a9aa3f7284f48fe926d5868b3e6681227ac7a1b27d23dcab1fe985b499e92e8d";
   };
   baresip-app-qualify = {
     version = "0~0b25d612-r1";
@@ -3167,7 +3167,7 @@
       "libc"
     ];
     provides = [ "baresip-app-qualify-any" ];
-    sha256 = "6d28521de75b3ff473b5b6bcdb776009d99b72da68ac03bfc4eecaf3b6a57283";
+    sha256 = "56a3df66835852b334cebb9a5b9da04677ec8932c610681f18e6e4748da357d7";
   };
   baresip-app-vidloop = {
     version = "0~0b25d612-r1";
@@ -3177,7 +3177,7 @@
       "libc"
     ];
     provides = [ "baresip-app-vidloop-any" ];
-    sha256 = "455b08c3b928cd75124bc490742b90c2ce00d8262322cdc757dc7ee0184492b7";
+    sha256 = "572911765ba6d45998dfdaa64252fcd4ade7af59fe0683daa82c134759f9ca12";
   };
   baresip-mod-aac = {
     version = "3.16.0-r3";
@@ -3188,7 +3188,7 @@
       "libc"
     ];
     provides = [ "baresip-mod-aac-any" ];
-    sha256 = "e981e811f86ceb91fb8f5cc8f25ff2ed9f58b4b0984fcb3fddbc87f4f2105fb9";
+    sha256 = "36e7f73e1c4b9ee22609d8f1435b3bc33e20b31fb29c0e7a5d590ae51c6b4175";
   };
   baresip-mod-alsa = {
     version = "3.16.0-r3";
@@ -3199,7 +3199,7 @@
       "libc"
     ];
     provides = [ "baresip-mod-alsa-any" ];
-    sha256 = "7d34476f3d94286c1f81530160270ccec3fd3a273a1afc5825af6ec12123feed";
+    sha256 = "8abc5295d563ddb8882648e7420aa72064b8ef1d38493541cbb42c98c246f0b4";
   };
   baresip-mod-aubridge = {
     version = "3.16.0-r3";
@@ -3209,7 +3209,7 @@
       "libc"
     ];
     provides = [ "baresip-mod-aubridge-any" ];
-    sha256 = "ea0e8b455492b1a2f5fa8bffa0ecc8eca90e748ccef57484605de4a7629ea17d";
+    sha256 = "2ea9d9e40a04680ee7c8dee3f174dd957011cdace0fa2a4cfb890c517fcc9668";
   };
   baresip-mod-auconv = {
     version = "3.16.0-r3";
@@ -3219,7 +3219,7 @@
       "libc"
     ];
     provides = [ "baresip-mod-auconv-any" ];
-    sha256 = "65151ade3114992f373cf8de984dac5706b050c318ff90ff9784b7121d00ab5a";
+    sha256 = "c68abd0b692db65b0010a99f0ad9c0c722347fd74c786f245abdb3a0121d4336";
   };
   baresip-mod-aufile = {
     version = "3.16.0-r3";
@@ -3229,7 +3229,7 @@
       "libc"
     ];
     provides = [ "baresip-mod-aufile-any" ];
-    sha256 = "b0a469a118592d246d7b7614c27b4db669bae582644979a1f501c376151b8319";
+    sha256 = "d28563bae5f8edd7c59fb1b4f416772f80f1ab31557c8c09999b6854f0078028";
   };
   baresip-mod-auresamp = {
     version = "3.16.0-r3";
@@ -3239,7 +3239,7 @@
       "libc"
     ];
     provides = [ "baresip-mod-auresamp-any" ];
-    sha256 = "4c3d4540b333fab8b38e1ebb2c9256adbbb7a7cbd1cdc7f232801a9127336ba3";
+    sha256 = "10790d7def31d9966503e31c54f4080e06d9ee2f397b8993683c63be40253a6f";
   };
   baresip-mod-ausine = {
     version = "3.16.0-r3";
@@ -3249,7 +3249,7 @@
       "libc"
     ];
     provides = [ "baresip-mod-ausine-any" ];
-    sha256 = "cd6ded89591b83e26bbf9fb11bfa0f161257570d59cdc96c5b8fc69e0153a456";
+    sha256 = "eeee542da768b4fb7ed161b31f699ca1faa0dfa7340940bcdc76b3e58b6ae3e4";
   };
   baresip-mod-avcodec = {
     version = "3.16.0-r3";
@@ -3260,7 +3260,7 @@
       "libffmpeg-full"
     ];
     provides = [ "baresip-mod-avcodec-any" ];
-    sha256 = "c0a0f7be0d2f61cc9383321bbe39ac9e7b77a23a51d4dd84f5c1db43cddf4ac9";
+    sha256 = "33ad2dd2f32491c6c5f14f880b9a9476f5b991389ae0c34ef40956eb43418a0a";
   };
   baresip-mod-avfilter = {
     version = "3.16.0-r3";
@@ -3271,7 +3271,7 @@
       "libffmpeg-full"
     ];
     provides = [ "baresip-mod-avfilter-any" ];
-    sha256 = "410742a81ef8e49e31d3d98fdbc3b8b0c3f20515d235a62fb432e97f46720cc7";
+    sha256 = "6f070e982f7c54cccacbeecf968381a035c81263ffd76fcafdaa9a09f8db9030";
   };
   baresip-mod-avformat = {
     version = "3.16.0-r3";
@@ -3282,7 +3282,7 @@
       "libc"
     ];
     provides = [ "baresip-mod-avformat-any" ];
-    sha256 = "6d12e7504a8ca6d216d5aeb18c8c3b3958c7ac10723636cb9f0cef81b6cab32f";
+    sha256 = "c5a8606ea2120fe6f49ea93d2aff612dc7e7a6e902f3d51990ab1f922abcc275";
   };
   baresip-mod-cons = {
     version = "3.16.0-r3";
@@ -3292,7 +3292,7 @@
       "libc"
     ];
     provides = [ "baresip-mod-cons-any" ];
-    sha256 = "8346b99729b66a12b2db6def0b478b319049e07154cccd6295d6819d2a337b93";
+    sha256 = "e8047e8723e9d7e9affd98fb43a9ff6ff4c439e37ab47e3d86c6744e173c97b5";
   };
   baresip-mod-ctrl_dbus = {
     version = "3.16.0-r3";
@@ -3303,7 +3303,7 @@
       "libc"
     ];
     provides = [ "baresip-mod-ctrl_dbus-any" ];
-    sha256 = "0082c8ce426b5d8fe2fee0161a33026817d9d03bec83433dfcf983a496273625";
+    sha256 = "9033f5a40a7cd835020ff7c4af09b330f13a2f88e7e3c764caea8ca23c1e6280";
   };
   baresip-mod-ctrl_tcp = {
     version = "3.16.0-r3";
@@ -3313,7 +3313,7 @@
       "libc"
     ];
     provides = [ "baresip-mod-ctrl_tcp-any" ];
-    sha256 = "5b7d8856c2551726a47e5b70519e772fde4079eee5b3c674e69d5abecd5585fc";
+    sha256 = "7cbd0613a095dfbd789bec083699000fc3cd8a948a00b35b660e0b9b2d5bd6e9";
   };
   baresip-mod-debug_cmd = {
     version = "3.16.0-r3";
@@ -3323,7 +3323,7 @@
       "libc"
     ];
     provides = [ "baresip-mod-debug_cmd-any" ];
-    sha256 = "7d7cf39375cfdfe1c171fe9025770782a65e7d48d37103ef308d8a807e5b192c";
+    sha256 = "ff013fcd463c2d880115e40aa5125d096ff9db25130966d4b39bf83b2f22fffa";
   };
   baresip-mod-dtls_srtp = {
     version = "3.16.0-r3";
@@ -3333,7 +3333,7 @@
       "libc"
     ];
     provides = [ "baresip-mod-dtls_srtp-any" ];
-    sha256 = "683d90ce136224f1a806a46fbb206a4ee35c20c55e97acac228813c5b24899cc";
+    sha256 = "3135b3368c451f2c425e4458a817ceb6404c7d8125de709c3ecea8d633264edb";
   };
   baresip-mod-ebuacip = {
     version = "3.16.0-r3";
@@ -3343,7 +3343,7 @@
       "libc"
     ];
     provides = [ "baresip-mod-ebuacip-any" ];
-    sha256 = "cb87e5a217755f1a0c7033025f06d9889f2d5503139ef32b605554f6010cfa3c";
+    sha256 = "ad0e6cde153398db3f0fd1dbf322e66689bf623a824437722b009a27e0a367f4";
   };
   baresip-mod-echo = {
     version = "3.16.0-r3";
@@ -3353,7 +3353,7 @@
       "libc"
     ];
     provides = [ "baresip-mod-echo-any" ];
-    sha256 = "3958d843d15ec3360f87fdd09fbd14ec940830a4a78bd63fc351e2129cf16618";
+    sha256 = "63d379f92ea375f861d974c431307d2518470f40cca3d129cbabb485a2a554b8";
   };
   baresip-mod-evdev = {
     version = "3.16.0-r3";
@@ -3363,7 +3363,7 @@
       "libc"
     ];
     provides = [ "baresip-mod-evdev-any" ];
-    sha256 = "5a2ee8bdff3abd80d5152a82b3113503fb38501352a030e2abcd90426a2ea10d";
+    sha256 = "cf452c869f6b9221358923a92ab80ba27528f467ad266169a0c1f0596ef7b645";
   };
   baresip-mod-fakevideo = {
     version = "3.16.0-r3";
@@ -3373,7 +3373,7 @@
       "libc"
     ];
     provides = [ "baresip-mod-fakevideo-any" ];
-    sha256 = "d25c994ae7554988d517ce2648e9b1065bfb2f03a9ba0630cb035f862b763d8a";
+    sha256 = "c842cf6b884b3a221a8b109f360575a23265d7e93a802a2c0a939dc2de16dead";
   };
   baresip-mod-g711 = {
     version = "3.16.0-r3";
@@ -3383,7 +3383,7 @@
       "libc"
     ];
     provides = [ "baresip-mod-g711-any" ];
-    sha256 = "d756822448a5d961ace2a52299d163f7fef9bc590a14abc7ffcc4ca73901c85e";
+    sha256 = "7b474d88b26c21d0b969a8c1fd7a878ea53ec7a0fcb0421dae926ae1492667b1";
   };
   baresip-mod-g722 = {
     version = "3.16.0-r3";
@@ -3394,7 +3394,7 @@
       "libspandsp"
     ];
     provides = [ "baresip-mod-g722-any" ];
-    sha256 = "2e7005f2e100b8e01340a75edb28cbb24e2dd519651b60febdab621b74ee775a";
+    sha256 = "8f61d829c2c60aa0c6b65744b6a43365e8927fccb50a4add01d3b3f2bca063eb";
   };
   baresip-mod-g726 = {
     version = "3.16.0-r3";
@@ -3405,7 +3405,7 @@
       "libspandsp"
     ];
     provides = [ "baresip-mod-g726-any" ];
-    sha256 = "1ddff8b7bc887ea6689633959de51630adb8386ce54b5223faae49d30ebb22cf";
+    sha256 = "7f93c3ea299b5920e7c9ac2c27bed5c2adefa7e0f2b4ead2799015fe5e8d65cb";
   };
   baresip-mod-gst = {
     version = "3.16.0-r3";
@@ -3417,7 +3417,7 @@
       "libgstreamer1"
     ];
     provides = [ "baresip-mod-gst-any" ];
-    sha256 = "c99b1fa5927f896504d82543ade2102fcb3ca2ee540e322ddc5db1cf29d622a2";
+    sha256 = "458fb4b1d78da16b5fe7174919227cc46dfed8027d19e56b7f6652ce536e42cd";
   };
   baresip-mod-httpd = {
     version = "3.16.0-r3";
@@ -3427,7 +3427,7 @@
       "libc"
     ];
     provides = [ "baresip-mod-httpd-any" ];
-    sha256 = "d6d10208256955768e00dc0a7e3e42e165f30f1cfe8ff01501640bd9783ad6b1";
+    sha256 = "93a84b5bc28ed9bef34963cb0cea5d1db074707e208affabac7d00c634c7b6ba";
   };
   baresip-mod-httpreq = {
     version = "3.16.0-r3";
@@ -3437,7 +3437,7 @@
       "libc"
     ];
     provides = [ "baresip-mod-httpreq-any" ];
-    sha256 = "91654680d1a3e917ca58033b65a004885991b0ae8a4264791583229ffa5fb80f";
+    sha256 = "642e43122aa8f8691672b4f53b46aa0d58214bcef241b96c52229c412438c6b7";
   };
   baresip-mod-l16 = {
     version = "3.16.0-r3";
@@ -3447,7 +3447,7 @@
       "libc"
     ];
     provides = [ "baresip-mod-l16-any" ];
-    sha256 = "92a94d042befd645060f67325b6bb9ddd973773d1eac6e5ce85e4e71e6e2140f";
+    sha256 = "64977f26e01622e11a80e6597af5ba54c051456461a7447d27ac8a75dffea409";
   };
   baresip-mod-mixausrc = {
     version = "3.16.0-r3";
@@ -3457,7 +3457,7 @@
       "libc"
     ];
     provides = [ "baresip-mod-mixausrc-any" ];
-    sha256 = "2fd806c598a26ab1add0ce72d582f3e15c96007867e75d4d6943903e4a6e70cc";
+    sha256 = "64063628a4e37c6db64c6e031aab50e9df568d554a1171958c58d4f0387e7140";
   };
   baresip-mod-mixminus = {
     version = "3.16.0-r3";
@@ -3467,7 +3467,7 @@
       "libc"
     ];
     provides = [ "baresip-mod-mixminus-any" ];
-    sha256 = "7ea5667323d67e28857bd35369c87f9a543b6844f4f3eaf850cdb1cdbf92b571";
+    sha256 = "33b5ab4b1e5e557b9f9a1b2ca96bbb6eb6e5d6f6dd44da27f1de723cbe6d0ff6";
   };
   baresip-mod-mqtt = {
     version = "3.16.0-r3";
@@ -3478,7 +3478,7 @@
       "libmosquitto"
     ];
     provides = [ "baresip-mod-mqtt-any" ];
-    sha256 = "c20396d72ca8f7f885a764a53af7d4776a99eb924c8ccfca9c866c3d8da6bac9";
+    sha256 = "d08d23bc9cd30756d19ff4c2ae60449fe47d128f6257bf324826832e7ef05cf3";
   };
   baresip-mod-mwi = {
     version = "3.16.0-r3";
@@ -3488,7 +3488,7 @@
       "libc"
     ];
     provides = [ "baresip-mod-mwi-any" ];
-    sha256 = "87573588b108b2549d07a14275c78562930173abd48de9ec4dfdcff2fed0b52f";
+    sha256 = "9866e375c91516f08fbbde563c144fb5fef1604afbec780a546d4fe85e8a6682";
   };
   baresip-mod-natpmp = {
     version = "3.16.0-r3";
@@ -3498,7 +3498,7 @@
       "libc"
     ];
     provides = [ "baresip-mod-natpmp-any" ];
-    sha256 = "205dfa89a163b548e45674e3be0cc77bb4ce8816d0a538a60b6cb6b5a99ac62f";
+    sha256 = "dae4742d7186c329af4b95fa746b5bb006ffb5947a138e12b24ceb0a750fef9f";
   };
   baresip-mod-netroam = {
     version = "3.16.0-r3";
@@ -3508,7 +3508,7 @@
       "libc"
     ];
     provides = [ "baresip-mod-netroam-any" ];
-    sha256 = "a24f02d7fc5009329513a7c6f5c83f8d817661361b0cf2bf2466af1471b4e48f";
+    sha256 = "62d9c4ce99f386f4be5935309d91ed644298423cafa32daf38eb667744849617";
   };
   baresip-mod-opus = {
     version = "3.16.0-r3";
@@ -3519,7 +3519,7 @@
       "libopus"
     ];
     provides = [ "baresip-mod-opus-any" ];
-    sha256 = "88256a4a659862ff24e33225a284a7a326eb950cf9724a7a46ab62713d18f370";
+    sha256 = "f05beeff6ad6c5facd238857f835e6aaa3bfa4a42656f9cff946f50050fd3691";
   };
   baresip-mod-opus_multistream = {
     version = "3.16.0-r3";
@@ -3530,7 +3530,7 @@
       "libopus"
     ];
     provides = [ "baresip-mod-opus_multistream-any" ];
-    sha256 = "9bcd3c7c2f6b4d9c3a2336d7c04db70a30bd32469ea790cc7949d162174fa7a6";
+    sha256 = "5ac4af5522a7926aecb3c905a1b6b5a832f4c80fbcf5a045bb173311aab9a567";
   };
   baresip-mod-pcp = {
     version = "3.16.0-r3";
@@ -3540,7 +3540,7 @@
       "libc"
     ];
     provides = [ "baresip-mod-pcp-any" ];
-    sha256 = "ed651d71ef8c25608860ce8a19dfec89398da3f3c8fb91c980b78e9a1c53bab2";
+    sha256 = "64263aede469888aba635e5d1b3ef9720c4e61ec017353a77837164fd451c63a";
   };
   baresip-mod-plc = {
     version = "3.16.0-r3";
@@ -3551,7 +3551,7 @@
       "libspandsp"
     ];
     provides = [ "baresip-mod-plc-any" ];
-    sha256 = "b7ab7dcbe6ab2d2e170c7d404c0f8b6bca42ec24f74c929fd21bf7cda4d8a044";
+    sha256 = "f8179ba0c410984de9cf3fe7116248e113ba99368f21fd944be228fc35ebc8d9";
   };
   baresip-mod-portaudio = {
     version = "3.16.0-r3";
@@ -3562,7 +3562,7 @@
       "portaudio"
     ];
     provides = [ "baresip-mod-portaudio-any" ];
-    sha256 = "4d52436657259ad7b0090157b8a0d17871c862c880531ee9158ffa26ec8bf940";
+    sha256 = "ab89bc8e416185357cfce798ee5ca2ae276ab435432e1aca5d21514ecded780f";
   };
   baresip-mod-presence = {
     version = "3.16.0-r3";
@@ -3572,7 +3572,7 @@
       "libc"
     ];
     provides = [ "baresip-mod-presence-any" ];
-    sha256 = "277ec9e08fc30e4be79f5fbdf57aa824557202d2dd06162d37e6fc661c9925a0";
+    sha256 = "b6f4216cd3ac4bcf8c9fe3034a56bf6507f27c970c0aa6bf7f4e60c007a90c1c";
   };
   baresip-mod-pulse = {
     version = "3.16.0-r3";
@@ -3583,7 +3583,7 @@
       "pulseaudio"
     ];
     provides = [ "baresip-mod-pulse-any" ];
-    sha256 = "580653e996928bf73cecada85f75b354691223a260bc558b01f0ab0ed5376fb0";
+    sha256 = "7018f8db17f8df7b5b1e23cc7aa5db441ae2f9b694b263d5e39b695df35eef6d";
   };
   baresip-mod-rtcpsummary = {
     version = "3.16.0-r3";
@@ -3593,7 +3593,7 @@
       "libc"
     ];
     provides = [ "baresip-mod-rtcpsummary-any" ];
-    sha256 = "e98fcba3fd688652ae54ae84bf588761e5cc1070d99c06e6b95c96d207fa13e5";
+    sha256 = "4b2714dede18fbb7d1af37b362d5db22a2dcf03fafedc9aee0286eee86c4ade8";
   };
   baresip-mod-selfview = {
     version = "3.16.0-r3";
@@ -3603,7 +3603,7 @@
       "libc"
     ];
     provides = [ "baresip-mod-selfview-any" ];
-    sha256 = "576a97e5ba8ebfcfdd4c170e4547f83bf2b5d459f13e4162e73c63ed6f8d6b03";
+    sha256 = "d55219dbc1cc475d1f2c4727b754f2dbe1062684cd21d1852e8450bd58d149ff";
   };
   baresip-mod-serreg = {
     version = "3.16.0-r3";
@@ -3613,7 +3613,7 @@
       "libc"
     ];
     provides = [ "baresip-mod-serreg-any" ];
-    sha256 = "0363787df1696e0aae44f7b3b350b4c8be9424efb9811cdc5433ebece27c99a9";
+    sha256 = "878ccbb9efcbacfad0ddb3f449e1c2d13aff10fe1450893c6d3f3595311c6040";
   };
   baresip-mod-snapshot = {
     version = "3.16.0-r3";
@@ -3624,7 +3624,7 @@
       "libpng"
     ];
     provides = [ "baresip-mod-snapshot-any" ];
-    sha256 = "e2e993af5edd84a09a94fa53156189cc5f7c19877270e541b882f940151a0b02";
+    sha256 = "3d1dfc6ab4101f25a59bd667979b9f2ec1d022f061326a622f0311d6da24bb5c";
   };
   baresip-mod-sndfile = {
     version = "3.16.0-r3";
@@ -3635,7 +3635,7 @@
       "libsndfile"
     ];
     provides = [ "baresip-mod-sndfile-any" ];
-    sha256 = "07c4d8d46227f67638c315af1b8864014bce2f47e0b0f9787b7b300e8ef98d92";
+    sha256 = "466d02cd34fb9a0a1cc383ce02d58b50df7e10e09ca0cda1c2d98a60076ce0ef";
   };
   baresip-mod-srtp = {
     version = "3.16.0-r3";
@@ -3645,7 +3645,7 @@
       "libc"
     ];
     provides = [ "baresip-mod-srtp-any" ];
-    sha256 = "173c1910a985a6370569de0eb6305caa11084777c64ab410a6b351cb58fd61ac";
+    sha256 = "9e096bb131648e3f1570f85a36ecd483356dd53140e2ec9fca01aa2c75dfc03a";
   };
   baresip-mod-stdio = {
     version = "3.16.0-r3";
@@ -3655,7 +3655,7 @@
       "libc"
     ];
     provides = [ "baresip-mod-stdio-any" ];
-    sha256 = "ecf04a4d75523b753f2ab41e56dd5b46660de1c57f5f11fee6bb83a6be94a163";
+    sha256 = "0b7755d2e736b25f921b593e2732cb17f3133dcd7e8191ac032f939f9947710c";
   };
   baresip-mod-swscale = {
     version = "3.16.0-r3";
@@ -3666,7 +3666,7 @@
       "libffmpeg-full"
     ];
     provides = [ "baresip-mod-swscale-any" ];
-    sha256 = "370ae150d95981dbf407cb040ad126c2f560f4233c7cd5b9bd4e028797aa6678";
+    sha256 = "2e911702b421b21851d6e0a42bbe869044e41d327214c8a9fb1cba6e1a4eb4ba";
   };
   baresip-mod-syslog = {
     version = "3.16.0-r3";
@@ -3676,7 +3676,7 @@
       "libc"
     ];
     provides = [ "baresip-mod-syslog-any" ];
-    sha256 = "077acb4e8a1323eba75328a6f32327b89def6adfc720ad582982266741676ff8";
+    sha256 = "b2565b1c3431ed4de011e7efb2c41111baf97c40504a83e7fb35eb94c01f9b45";
   };
   baresip-mod-uuid = {
     version = "3.16.0-r3";
@@ -3686,7 +3686,7 @@
       "libc"
     ];
     provides = [ "baresip-mod-uuid-any" ];
-    sha256 = "a274a5c223f3872f571d8c3471ae69a37b6d57763508bc6cb8b24ac95235b7bf";
+    sha256 = "ba25c15021aac5ecbf0b0a63cf30d19a22c553795142c1438a1b15814b2c0d7e";
   };
   baresip-mod-v4l2 = {
     version = "3.16.0-r3";
@@ -3697,7 +3697,7 @@
       "libv4l"
     ];
     provides = [ "baresip-mod-v4l2-any" ];
-    sha256 = "6fc378d6abec82b5778c120002c3f843cd6d5dd131d4031bc2c54631ff52a7bc";
+    sha256 = "432523548deb9b48b1c18f39c73ae7762e81fe3f4b7a5e4c7f6780cd631884e2";
   };
   baresip-mod-vidbridge = {
     version = "3.16.0-r3";
@@ -3707,7 +3707,7 @@
       "libc"
     ];
     provides = [ "baresip-mod-vidbridge-any" ];
-    sha256 = "b87a3a74daf46adf63a1c1764afc04d83f8c37af190bb7d14769929354600a97";
+    sha256 = "7b4e2d581c25a5595d7c5e6bb28cf8eb4a786790a264cb10da522112aba914b8";
   };
   baresip-mod-vidinfo = {
     version = "3.16.0-r3";
@@ -3717,7 +3717,7 @@
       "libc"
     ];
     provides = [ "baresip-mod-vidinfo-any" ];
-    sha256 = "022ef384ea2296a58559e19e2eb88670f70eeda267591f63e4f7e5963fd57149";
+    sha256 = "4b549d9d503ca371610fe7bd0d98f2e8307c410ec250b1acb2150aae7b40c59d";
   };
   baresip-mod-vp8 = {
     version = "3.16.0-r3";
@@ -3728,7 +3728,7 @@
       "libvpx1.14"
     ];
     provides = [ "baresip-mod-vp8-any" ];
-    sha256 = "045fa82fedf049a23b30c442801ebb406739634c2912ea14f514ea4d24230bdb";
+    sha256 = "b1789da3ece7211ed1ede85e8827e741ee3f1a2af5ac4cde7a60ab53de932102";
   };
   baresip-mod-vp9 = {
     version = "3.16.0-r3";
@@ -3739,7 +3739,7 @@
       "libvpx1.14"
     ];
     provides = [ "baresip-mod-vp9-any" ];
-    sha256 = "c08acb2c3e0f7bf421380154d57e1c7961958a41c629bfd69240a82613c07af2";
+    sha256 = "6bc90ada706d6e7790a5d8c6a0324f86bf04a2044e1e108a3d048957f98ff8aa";
   };
   baresip-mod-vumeter = {
     version = "3.16.0-r3";
@@ -3749,14 +3749,14 @@
       "libc"
     ];
     provides = [ "baresip-mod-vumeter-any" ];
-    sha256 = "fb1aae2c38a5d28c3e0f847693559a52b806003e70e413a2bb769610872404dd";
+    sha256 = "f7eaf90e0507b0856c3becf48954c58265268971a4400b2541e9596a85c8c416";
   };
   bcg729 = {
     version = "1.1.1-r1";
     filename = "bcg729-1.1.1-r1.apk";
     depends = [ "libc" ];
     provides = [ "bcg729-any" ];
-    sha256 = "57bde4c8fff7e30d13fcefffa748de2564443df3447354dd129a2ca113590a70";
+    sha256 = "f6330196429f218a3802651998a07292ae00a27e109e4e85a8466068d64732d0";
   };
   coturn = {
     version = "4.6.2-r1";
@@ -3771,7 +3771,7 @@
       "libsqlite3-0"
     ];
     provides = [ "coturn-any" ];
-    sha256 = "6d3cb28f6d99f2e740912b73efab9374465e5b2a9df917e6036df8dafc5bcf4b";
+    sha256 = "3e21862c4355026fd804398eb4152ed6e20914f641e4db41a3f95fb0acb88d95";
   };
   dahdi-cfg = {
     version = "3.4.0-r3";
@@ -3783,7 +3783,7 @@
       "libpthread"
     ];
     provides = [ "dahdi-cfg-any" ];
-    sha256 = "bb599ce8074e54719dab16647cdd7640ca8b0175994a82dee6dd29f9849362e5";
+    sha256 = "4cd649b65711e54e127b8faea8204b089e4c4bbb6bae9806c70b7896f56af907";
   };
   dahdi-monitor = {
     version = "3.4.0-r3";
@@ -3793,7 +3793,7 @@
       "libc"
     ];
     provides = [ "dahdi-monitor-any" ];
-    sha256 = "d487472a0ddd5ac7eeb415dc81ac37ad96a9e5f9e58b1a6aa25cee32345e96cf";
+    sha256 = "1cbc19394345f4a8b103a3391e0853b8e2f7f909ae07afcb5bb7979887c1f572";
   };
   dahdi-tools-libtonezone = {
     version = "3.4.0-r3";
@@ -3803,7 +3803,7 @@
       "libc"
     ];
     provides = [ "dahdi-tools-libtonezone-any" ];
-    sha256 = "434f9145ded07ce52362fe71820111023ac6860798df4e23b5787ba2e704dcef";
+    sha256 = "974142af356e51f995468527ab3b7f1c5191da8505bd5505ba3c497b03955015";
   };
   freeswitch = {
     version = "1.10.12-r3";
@@ -3828,7 +3828,7 @@
       "zlib"
     ];
     provides = [ "freeswitch-any" ];
-    sha256 = "ac9245cfb59301fc039179afd0d5d09ca7f6f4cc13eee37745b48faa76c34698";
+    sha256 = "07a5b2f6d823e4a07ef2140df6d73b0b965627aef8b640e60a3fe7f310cde1a0";
   };
   freeswitch-example-curl = {
     version = "1.10.12-r3";
@@ -4029,7 +4029,7 @@
       "python3-light"
     ];
     provides = [ "freeswitch-misc-python3-esl-any" ];
-    sha256 = "1c726bc8f8af8c895fe1e9c0df13dd6627b66e456221b3a561f89593752884a3";
+    sha256 = "a6b2283f73cd84f142dc5f92d2587348a769f9cc23d89a236fe42132a9fd0ea6";
   };
   freeswitch-misc-timezones = {
     version = "1.10.12-r3";
@@ -4049,7 +4049,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-abstraction-any" ];
-    sha256 = "7c95ee1a030b90af581069229e427ce8ac8d2ea5da6d019a87733be91b680b16";
+    sha256 = "369172582109df93d08ac4a38d77f718bf14c44d585ca43241c502e589e39ca8";
   };
   freeswitch-mod-alsa = {
     version = "1.10.12-r3";
@@ -4060,7 +4060,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-alsa-any" ];
-    sha256 = "3a9388599d8f44bd724cb6ae8df6d3317568f5c2fa03ebc075fb59d7d3282024";
+    sha256 = "9684e981bb72ca2aebbb714534978999e77c4e874518de0ab4bc140a8e390c50";
   };
   freeswitch-mod-amr = {
     version = "1.10.12-r3";
@@ -4070,7 +4070,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-amr-any" ];
-    sha256 = "6f485f32dc92abed6dc927ae57bd3d761fe0e10e6ac24d3c81d0e08042f0e7d1";
+    sha256 = "a2d9c6d369e44cf6ce5e991b5995c2f37315face6dbbabc00783a1648c92cbd0";
   };
   freeswitch-mod-amrwb = {
     version = "1.10.12-r3";
@@ -4080,7 +4080,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-amrwb-any" ];
-    sha256 = "75d85dd5ea1bab2a302a934eed64f1321d55258bb30e6a50e1a0869aeb048801";
+    sha256 = "d09055942f7fea0831645d647652cbd16a06f6aa3a52aaeddbc9c6680e34d8ae";
   };
   freeswitch-mod-avmd = {
     version = "1.10.12-r3";
@@ -4090,7 +4090,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-avmd-any" ];
-    sha256 = "b970023c0d2ac0ff0d71689f495ef36213c6e698b5f4829da6ec281b7362a333";
+    sha256 = "52ae2110070d78bd862a51750c7e2f53c44dc8c5838279b0326463b0ca390e4c";
   };
   freeswitch-mod-b64 = {
     version = "1.10.12-r3";
@@ -4100,7 +4100,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-b64-any" ];
-    sha256 = "6e19871098ec6daa5d3a65f28301659501458ba3b33199175f00b03ffd1417b5";
+    sha256 = "af0b46fab629948bace5b1896176de7e870f2452fbeab8b6a07f8261b28bac26";
   };
   freeswitch-mod-basic = {
     version = "1.10.12-r3";
@@ -4110,7 +4110,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-basic-any" ];
-    sha256 = "7e96515e99973cbaee1a267e2ca183bd7dabb2f472763fed8e01a831c757f44b";
+    sha256 = "ca4faca6a6a7224f4c94ee5e673a375b6175e4832805511cde1432657309cf39";
   };
   freeswitch-mod-bcg729 = {
     version = "2017.06.29~686eb06d-r1";
@@ -4121,7 +4121,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-bcg729-any" ];
-    sha256 = "d2a1cfe0fec32bec646521aa857d1c4dd610a06157d90e048f56a7ffa3bd949c";
+    sha256 = "2a9c815db22f3121cb6a568770674237bdaa6222ed6e84ea89cb1087b9e0650e";
   };
   freeswitch-mod-bert = {
     version = "1.10.12-r3";
@@ -4131,7 +4131,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-bert-any" ];
-    sha256 = "79244d15c6112e1af28269abdce2a548fd05f2d3e8f3716b15eb7546a2019e8d";
+    sha256 = "0f83c8e3cffba390393592248b14ca587b9e71cabbbd3da339f57df409a705b7";
   };
   freeswitch-mod-blacklist = {
     version = "1.10.12-r3";
@@ -4141,7 +4141,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-blacklist-any" ];
-    sha256 = "2f92ec3c2eb18d4a713974fe44d4be94ed1b7e3babedcd6a31ca33986f32669d";
+    sha256 = "ecc81d71aaf657adbe7595dcdca7b33defc65a9f88c2bbe7f3669243dc764251";
   };
   freeswitch-mod-callcenter = {
     version = "1.10.12-r3";
@@ -4151,7 +4151,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-callcenter-any" ];
-    sha256 = "09fc196837d0316f9020bb9e552287765809a0e57bfc5b6153a31341d9fbd578";
+    sha256 = "066d00715bcaf869e5607c042c65bac54afafceb4719238e73d42cf600cbaace";
   };
   freeswitch-mod-cdr-csv = {
     version = "1.10.12-r3";
@@ -4161,7 +4161,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-cdr-csv-any" ];
-    sha256 = "3cf674c6acb876abafa5df19a31fd55d53c96635920884afde1501fff2624b5b";
+    sha256 = "27dffde6108d9ecb2e41e8aba129479860e10befa09910549d379f4a2a8bd3dd";
   };
   freeswitch-mod-cdr-mongodb = {
     version = "1.10.12-r3";
@@ -4171,7 +4171,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-cdr-mongodb-any" ];
-    sha256 = "8f752099444635e9e5a5c8f078ef34dc71cf37920c01a078a271e4c4365c99c9";
+    sha256 = "15b785fc7f4331065dc416918ab169dace44a0a56933b90c8e94298517998c4d";
   };
   freeswitch-mod-cdr-pg-csv = {
     version = "1.10.12-r3";
@@ -4182,7 +4182,7 @@
       "libpq"
     ];
     provides = [ "freeswitch-mod-cdr-pg-csv-any" ];
-    sha256 = "9a168817c180ba332391ac3bebdca159341df408913f5a1dac59df9836b84122";
+    sha256 = "36a13b9816add54237dd01d74b28bf2207a07edef82f226374b6eeecfd6141fc";
   };
   freeswitch-mod-cdr-sqlite = {
     version = "1.10.12-r3";
@@ -4192,7 +4192,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-cdr-sqlite-any" ];
-    sha256 = "174054b4577dcbcd35a37f9e6ff99bda2880bc075c69fd84a4c0207ef2b84ec0";
+    sha256 = "02fb78c8e4902454f95a3b95dcf9c0d0b603b69562cb7dd63bd9ec553784b24b";
   };
   freeswitch-mod-cidlookup = {
     version = "1.10.12-r3";
@@ -4202,7 +4202,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-cidlookup-any" ];
-    sha256 = "89fe4715357a0915b4200644e87f45932662b997845003701b1d9752eb6e0533";
+    sha256 = "2405cd513bf7443ffc4260d80842db50b3e4928193514a5892bf9fc8130e4933";
   };
   freeswitch-mod-clearmode = {
     version = "1.10.12-r3";
@@ -4212,7 +4212,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-clearmode-any" ];
-    sha256 = "b79c842eceac619f94e2f5f91d4ba9394f2f30d3bdc0bd04d56da7a136691e9b";
+    sha256 = "d2cbfbaa3e0ff2c5e6b247976600865bc30d420779e49d744f7eb6244b8464a7";
   };
   freeswitch-mod-cluechoo = {
     version = "1.10.12-r3";
@@ -4223,7 +4223,7 @@
       "libncurses6"
     ];
     provides = [ "freeswitch-mod-cluechoo-any" ];
-    sha256 = "13aaca8eb628e3378968b71c42bb4b43ee65a738d19a67733a482854263326f1";
+    sha256 = "69e53a95eea37148f83163f798078059ba83dc73f4422a3455ff45f01da565e4";
   };
   freeswitch-mod-commands = {
     version = "1.10.12-r3";
@@ -4233,7 +4233,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-commands-any" ];
-    sha256 = "40feecd5d15ebb7121abc3b334b96e5e609275d6fd74fd12c108c796350b04fc";
+    sha256 = "102acea3f5a06dd42801213b4569c0cd9640f5feeaf89e9f7f570521cc1fa309";
   };
   freeswitch-mod-conference = {
     version = "1.10.12-r3";
@@ -4244,7 +4244,7 @@
       "openal-soft"
     ];
     provides = [ "freeswitch-mod-conference-any" ];
-    sha256 = "85507b9ea804d06e40c6f03c2a3788f5ec270397e47178449bd23edc7464bb71";
+    sha256 = "b3d4768ddae597201c80d3a4920afe6d117136e4e61633cc0736cc032fb672ce";
   };
   freeswitch-mod-console = {
     version = "1.10.12-r3";
@@ -4254,7 +4254,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-console-any" ];
-    sha256 = "b9490155ca26eb733f8bb78ae589c0a180e38835cf7b24cf72a7019d53c013bf";
+    sha256 = "de112f88e77c591e7b60c60d4207bf894b08d6563bbf0e859abb9d38de9cca20";
   };
   freeswitch-mod-curl = {
     version = "1.10.12-r3";
@@ -4264,7 +4264,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-curl-any" ];
-    sha256 = "216f4c291d0e0ecbe9fa6ca0226cf368fc81056c1f94fff9aea02d4836b247fe";
+    sha256 = "9163c894bbe189f30834cd9bcc91f1e4e2e67b2620b330a46cad8295ac00ce6e";
   };
   freeswitch-mod-dahdi-codec = {
     version = "1.10.12-r3";
@@ -4274,7 +4274,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-dahdi-codec-any" ];
-    sha256 = "ca4658d3340fa540c060e7d77ca9feb5c6fe4639ac8872c4d57eee0cf8ee4b73";
+    sha256 = "bdd53abbb4226f0c7736303764eeff991131931979bc3cbc3b04d88297ec7b8e";
   };
   freeswitch-mod-db = {
     version = "1.10.12-r3";
@@ -4284,7 +4284,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-db-any" ];
-    sha256 = "f3d7a0608bdda415a1addacf8ad31c9f7eff5c00e7e5142c754fa92f78d52a5b";
+    sha256 = "58f681eee269fa1862ac870a32883e2a38f568a30cacedc8fbe6682893d2ffbf";
   };
   freeswitch-mod-dialplan-asterisk = {
     version = "1.10.12-r3";
@@ -4294,7 +4294,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-dialplan-asterisk-any" ];
-    sha256 = "c5c81d4ab977a245806d2a2533df212c3466637074454fe07d213c4c6f56e149";
+    sha256 = "0d125c2b08d679e70d6b36fc885e2c1053b7a49af04291d7457c2b0699bb66a6";
   };
   freeswitch-mod-dialplan-directory = {
     version = "1.10.12-r3";
@@ -4304,7 +4304,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-dialplan-directory-any" ];
-    sha256 = "9d4fedb0ada326b417b1f3a5abf9dbe2111c0bf678344075f8211a3f8807205d";
+    sha256 = "4bbde20ca9b9bace199f5c16b62475c03218c68b0be23ca061fa28fea9ba20ae";
   };
   freeswitch-mod-dialplan-xml = {
     version = "1.10.12-r3";
@@ -4314,7 +4314,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-dialplan-xml-any" ];
-    sha256 = "0e6a1587fa94236c4f69e5021c13e5cfde01055bad4bc757b8dfdf5f38bb605f";
+    sha256 = "a5204b339caeea5353c5a38b59854a47058b631ca9affbc52205b72809b22168";
   };
   freeswitch-mod-directory = {
     version = "1.10.12-r3";
@@ -4324,7 +4324,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-directory-any" ];
-    sha256 = "fc59a431ee2652d347a8a85583e9287cfc95b4b67c4b783732b5223533634afb";
+    sha256 = "c3c0680f4f6a8d89cd06cec179af6cecbdb4359686c400a65a7768a557e1e152";
   };
   freeswitch-mod-distributor = {
     version = "1.10.12-r3";
@@ -4334,7 +4334,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-distributor-any" ];
-    sha256 = "8ddb90ca4eacd2416210dee2a261e3a6dce2d9e9fe0a502dc4e5cf22178541c2";
+    sha256 = "1ca628072e705d5ae3a345d52ce1ace3dfb2d745ee6167f9520b60734905ef3d";
   };
   freeswitch-mod-dptools = {
     version = "1.10.12-r3";
@@ -4344,7 +4344,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-dptools-any" ];
-    sha256 = "c951a6364c1d733949f5bba552e75ba07768ba5e12face0bf5d2baffa94628d0";
+    sha256 = "f9bbb1554ec731610f2283fbc68d128edb56861e48b5144c0187860fad786fb4";
   };
   freeswitch-mod-easyroute = {
     version = "1.10.12-r3";
@@ -4354,7 +4354,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-easyroute-any" ];
-    sha256 = "0b27403e9d067e4b32fa285448035a279015dc8af41a0c1a32a21243bf2d953d";
+    sha256 = "86825a7c80dca52e065c114352344d6d453cefd52c9d3cb1f581cb77b7e7967a";
   };
   freeswitch-mod-enum = {
     version = "1.10.12-r3";
@@ -4365,7 +4365,7 @@
       "libldns"
     ];
     provides = [ "freeswitch-mod-enum-any" ];
-    sha256 = "8825b74a4c3d8d65c396d25436b60dfed546355842a36fdc65d75923f109cf4e";
+    sha256 = "75ef9a9df16958a8c608110cb93a4f1e4f49944bb4e3f3bb38b37e4d4204fd17";
   };
   freeswitch-mod-erlang-event = {
     version = "1.10.12-r3";
@@ -4376,7 +4376,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-erlang-event-any" ];
-    sha256 = "22774879dfe32d5f174c674fb4cbde73f0f6309017060e087fbdabc3a8539381";
+    sha256 = "e375ad2c04ddf49bf04369a9d6a03daf742d99cf31e159ed924594f8e0eece11";
   };
   freeswitch-mod-esf = {
     version = "1.10.12-r3";
@@ -4386,7 +4386,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-esf-any" ];
-    sha256 = "3301add501a0682d931b99c9debdc3b4a1232fb2c0eb539a7124f67314a57f40";
+    sha256 = "0c73016fc75c9443cae8cc51a602f9efe21a661daea64513b902bc9b78be4fd3";
   };
   freeswitch-mod-esl = {
     version = "1.10.12-r3";
@@ -4396,7 +4396,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-esl-any" ];
-    sha256 = "5c944431eade9bf732c0af264a47c37140fbfac1c61d893fd7e3a3ec8301f7ea";
+    sha256 = "a4c1c784a2d871ff2afe33f42cc0697174d7e3f5ecbe90aebd4a10e3def49b2e";
   };
   freeswitch-mod-event-multicast = {
     version = "1.10.12-r3";
@@ -4406,7 +4406,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-event-multicast-any" ];
-    sha256 = "fc0225a8b3a2d0cdc941e8c82eadb311c19b54e27fcd46e54b40442aea7e5c00";
+    sha256 = "d0b25fdff7f7a25e3f0f17137c41d7fc5e9be00cf39b08f35e9c8b5bfda8d64d";
   };
   freeswitch-mod-event-socket = {
     version = "1.10.12-r3";
@@ -4416,7 +4416,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-event-socket-any" ];
-    sha256 = "74ebb9a5adee6a81cab49df26dbb84135a9263f2f511b06b2641de1dcbd9ea2f";
+    sha256 = "f6964f63c4a8a89bef41e813488d0cb3b73174801121be0a183073e1e0aa94a8";
   };
   freeswitch-mod-event-test = {
     version = "1.10.12-r3";
@@ -4426,7 +4426,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-event-test-any" ];
-    sha256 = "b184bc30a44b5e62bd83a992bb066b08a578c762049a76ff1da9c60d7cf8b6c6";
+    sha256 = "ee94223379b48049a10191ffc1bf923cb94cdeb1b695a6d36733c336fbc65b8e";
   };
   freeswitch-mod-event-zmq = {
     version = "1.10.12-r3";
@@ -4436,7 +4436,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-event-zmq-any" ];
-    sha256 = "2a9046d39af1c8a5c95e07ce643db801f8977639e3f9322b179d223e5a0c3a11";
+    sha256 = "02895193f2d36e369c72bcd001a0e30aa08c7cb2f951a4d5f95820db465d77a3";
   };
   freeswitch-mod-expr = {
     version = "1.10.12-r3";
@@ -4446,7 +4446,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-expr-any" ];
-    sha256 = "3d38227a0e822a0cf63fbc606ca1f54bdbfa4c3385eda66da62afe34287b0ddd";
+    sha256 = "35fbe0400bff540af3f28cb0454e147bc5a2314f0deef57df6f4d4298f1020c4";
   };
   freeswitch-mod-fail2ban = {
     version = "1.10.12-r3";
@@ -4456,7 +4456,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-fail2ban-any" ];
-    sha256 = "362133526e9012556cb9814c363e96488bf04518d42d5c399ae8ebca27c78a79";
+    sha256 = "b102f8da956bba1995cf64730a4f94062051d048bd37f99fd35a835062a544f3";
   };
   freeswitch-mod-fifo = {
     version = "1.10.12-r3";
@@ -4466,7 +4466,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-fifo-any" ];
-    sha256 = "0fbae6645a71b32b2e8b20f328e2d74eb8c02a21be95a3b046b5d1c6d9e3416d";
+    sha256 = "3c66789bde2523837693a67d050dec94551781dd0e44b5a4b407220cc17411a4";
   };
   freeswitch-mod-format-cdr = {
     version = "1.10.12-r3";
@@ -4476,7 +4476,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-format-cdr-any" ];
-    sha256 = "0b3fd50b38f078c2a331670ee1eb047e1e7811e960597f26435ad9de26155c5c";
+    sha256 = "bbd67d33f87ea4649588b9f90fca4e0f36be8c686178c19317fc4ca1d3cc1672";
   };
   freeswitch-mod-freetdm = {
     version = "2021.08.30~8918ee1c-r3";
@@ -4487,7 +4487,7 @@
       "libfreetdm"
     ];
     provides = [ "freeswitch-mod-freetdm-any" ];
-    sha256 = "a8fbd77455693733bdd670a614c8eacb5172ca55efe63c9f07861d3aa47efa11";
+    sha256 = "6410bb5d1780cbf561ac72287aea9e2fb4288a44b72137767cbb7bab3428c9ba";
   };
   freeswitch-mod-fsk = {
     version = "1.10.12-r3";
@@ -4497,7 +4497,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-fsk-any" ];
-    sha256 = "a8a9a086a56e4a5f85661d8f1413d5f3056b31552fc60b8147677d83d61436c6";
+    sha256 = "552600430b38672dca3beae4d0e917fd85c8d704c6b7c2002d76e6b23ff30eb0";
   };
   freeswitch-mod-fsv = {
     version = "1.10.12-r3";
@@ -4507,7 +4507,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-fsv-any" ];
-    sha256 = "9524a174e84e1e8943cee00c3a0bdcba01deada31ae7a199f05ec9678e0c54ed";
+    sha256 = "a4eeb30fa56b22c41e439858ecc7caa31dbb2e779a1510a90e130cc5c59fafc3";
   };
   freeswitch-mod-g723-1 = {
     version = "1.10.12-r3";
@@ -4517,7 +4517,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-g723-1-any" ];
-    sha256 = "2591bda48664cc3e4fce6b803e1d340147d6f3bb94072e2f98a5e2a1dec565a9";
+    sha256 = "34df889e7d2f59d5aad5c58cc87af8cf20f39948bca872210d8769d8ef4ff62f";
   };
   freeswitch-mod-g729 = {
     version = "1.10.12-r3";
@@ -4527,7 +4527,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-g729-any" ];
-    sha256 = "dcc3097cd7aac2a23767d28039ebc6b369e5315e00480f9ee8ec9e473762c78c";
+    sha256 = "7fe4c47705bbfd7643c4feac0778b2ab064932580e2979fba6c059bc67725137";
   };
   freeswitch-mod-graylog2 = {
     version = "1.10.12-r3";
@@ -4537,7 +4537,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-graylog2-any" ];
-    sha256 = "4405d5d1f7ba51040530d1b8f4295d8b78d2f90256e562cd0a32bf0193d4ba3e";
+    sha256 = "38bb0077341c5660c891223d732e8b2171ca14a8236437a74c536b928b96b3a4";
   };
   freeswitch-mod-gsmopen = {
     version = "1.10.12-r3";
@@ -4551,7 +4551,7 @@
       "libtiff6"
     ];
     provides = [ "freeswitch-mod-gsmopen-any" ];
-    sha256 = "f8b31cf78b26a5adbff3d73ae91a9e0c2c76417d4e573acb5aa4af6f1bb0e839";
+    sha256 = "1055eb9fe658ac7e796bec4a8d6a98087cd6adce9313ed84ebe4d19d90e194d0";
   };
   freeswitch-mod-h26x = {
     version = "1.10.12-r3";
@@ -4561,7 +4561,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-h26x-any" ];
-    sha256 = "46bef8421f8ff72f2b9621341d846c6d8a0e5e772694aa431286fa280ad559bc";
+    sha256 = "dfaf0f9d325bd6093094b4f32fc3363d5ce02ba600b883278c0faf9aabd7f46c";
   };
   freeswitch-mod-hash = {
     version = "1.10.12-r3";
@@ -4571,7 +4571,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-hash-any" ];
-    sha256 = "7365c6405730b53d8c2d0e0e9408ab58a7ef8d54205f5c111c52a5b246f6e53a";
+    sha256 = "1deea81e33704c8340e5a80a5fd8f06becbef9531cec2c48a18cb3ef35ad0aaf";
   };
   freeswitch-mod-hiredis = {
     version = "1.10.12-r3";
@@ -4582,7 +4582,7 @@
       "libhiredis"
     ];
     provides = [ "freeswitch-mod-hiredis-any" ];
-    sha256 = "13862047a1617bf4546d3f3867f183c0a7dfbe50d50765060774747610928a9a";
+    sha256 = "e1bc8425eb9bed02d3040c7b9e6afd2235d306367a7d8760e73e14f27fcac743";
   };
   freeswitch-mod-httapi = {
     version = "1.10.12-r3";
@@ -4592,7 +4592,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-httapi-any" ];
-    sha256 = "2d2aacec768755a50e4a9a019a2429ebcc3e56ecf809e6ca0a0aa97c048f4e02";
+    sha256 = "d32c3213bc8d5c0fbc1010e15f77eb4bcf377ff13651437ca794c28da72119fc";
   };
   freeswitch-mod-http-cache = {
     version = "1.10.12-r3";
@@ -4602,7 +4602,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-http-cache-any" ];
-    sha256 = "711d2a310420315345431c04bcd183c6a8c3f36700325bcbbf728091fa38ab39";
+    sha256 = "fc49b94747c0059ab27ee5268be22a6bbd935ac4cff22f9d848af7de8321537a";
   };
   freeswitch-mod-json-cdr = {
     version = "1.10.12-r3";
@@ -4612,7 +4612,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-json-cdr-any" ];
-    sha256 = "f25e2d59c7de094556af20fcfbc509ed4b2e94c891930d6f38998de629d1bef3";
+    sha256 = "088cfaadbb4e52f9c535e6f0abeeeac1e2ed307f0aa26309757fed62a1dae8e0";
   };
   freeswitch-mod-lcr = {
     version = "1.10.12-r3";
@@ -4622,7 +4622,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-lcr-any" ];
-    sha256 = "e044a532933d1b748f6ae6d92b29f93d392292e69f0f741a295e11c7b39f18e0";
+    sha256 = "baf20842d15776554fbb69149dc279ae937cd8a5df00755e526e47473174badc";
   };
   freeswitch-mod-ldap = {
     version = "1.10.12-r3";
@@ -4633,7 +4633,7 @@
       "libopenldap"
     ];
     provides = [ "freeswitch-mod-ldap-any" ];
-    sha256 = "ca581aa8dce8b2d17bebc02beb3843ea1bd016399856a9ca48dac226fef876a7";
+    sha256 = "fab818fbd49c26f93ab19e8b0371c12b714dc47072eca503bd3d256dee94a64f";
   };
   freeswitch-mod-local-stream = {
     version = "1.10.12-r3";
@@ -4643,7 +4643,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-local-stream-any" ];
-    sha256 = "dbf0a5843b6e4362b5b3402e9bc08cd510f77af432c5293e0d1766c160defa6e";
+    sha256 = "186e24b42e7c66dfcc149aafbad18b665a1c5963617d1200eab7b4ee1376f2d5";
   };
   freeswitch-mod-logfile = {
     version = "1.10.12-r3";
@@ -4653,7 +4653,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-logfile-any" ];
-    sha256 = "51167d13641a96bb8ac2cf2a1ffadb6c2481c388e705bf82a5be8d0c0c739f41";
+    sha256 = "609d932dafdd5d14f93c1aed0882c1e1584a0e8a9b6715bbfb1fc8fa1bed1da4";
   };
   freeswitch-mod-loopback = {
     version = "1.10.12-r3";
@@ -4663,7 +4663,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-loopback-any" ];
-    sha256 = "d72de04922e62ab3ddc83178ffc36a0896dafeebd1dd41e060833ce775d0e387";
+    sha256 = "1e8653e5903451c57dee58b9f2d2c0d118b9ea869d7cc1deaff842a341b8db99";
   };
   freeswitch-mod-lua = {
     version = "1.10.12-r3";
@@ -4674,7 +4674,7 @@
       "liblua5.1.5"
     ];
     provides = [ "freeswitch-mod-lua-any" ];
-    sha256 = "a78665f2e11f4bdac44407547bd0055b140101f61d6597bbc20a5f07cddf83e8";
+    sha256 = "bcd71f1ca2aed80eea3910ff70d89ac63732c61d8870601b0a87d8c21d33924b";
   };
   freeswitch-mod-mariadb = {
     version = "1.10.12-r3";
@@ -4685,7 +4685,7 @@
       "libmariadb3"
     ];
     provides = [ "freeswitch-mod-mariadb-any" ];
-    sha256 = "e3428c8a309523d0b4e2ab0d6646d97521221f89fd43a90b4a4339cb8783df96";
+    sha256 = "2baf14e4204629b00b27e1e978d9eb9a21e80585c43c9ee168f5de8d6e02a887";
   };
   freeswitch-mod-mp4v = {
     version = "1.10.12-r3";
@@ -4695,7 +4695,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-mp4v-any" ];
-    sha256 = "56212fd178d4c2bb7596dc6f49827c5879e87ca41c1917247fd7599d42d92c64";
+    sha256 = "f2ac3f61beeec88acc4f9a3c19bdd648a05b1cbb043f92ba651d25681eb813b3";
   };
   freeswitch-mod-native-file = {
     version = "1.10.12-r3";
@@ -4705,7 +4705,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-native-file-any" ];
-    sha256 = "b97eef088b9824489d4bd82fee7f0f1fb4ee892fb3c65f03685a13dbba4eca4f";
+    sha256 = "793f03d12006b4a68f32dcbfdc788047b64764526c367bdbc8684c731771f547";
   };
   freeswitch-mod-nibblebill = {
     version = "1.10.12-r3";
@@ -4715,7 +4715,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-nibblebill-any" ];
-    sha256 = "6c2fddca070d8014bb8ebfc2113e19e843998e3899059eb5d8f708747fd15132";
+    sha256 = "4898e9666f46af0d38e1992666519bc001b362c0c5e030ba2f3323ad9fd5bf57";
   };
   freeswitch-mod-odbc-cdr = {
     version = "1.10.12-r3";
@@ -4725,7 +4725,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-odbc-cdr-any" ];
-    sha256 = "c26a855e22a65b99ad00d4cf755b0b1be6f159f04bc6e1ea8747544533e0185e";
+    sha256 = "7780d4aafe362feda08cfeb52d6fd71dabd5cdc889fd93017a8d26cfa89fdc72";
   };
   freeswitch-mod-opus = {
     version = "1.10.12-r3";
@@ -4736,7 +4736,7 @@
       "libopus"
     ];
     provides = [ "freeswitch-mod-opus-any" ];
-    sha256 = "6e48dd5dfb3f4d1e22ff3035fa2c03ecebd74f255f8d0f54ef34b652990cb0b0";
+    sha256 = "972231ea1b890efa9a6cd541a313c9f4b4c45a83b3158f2d3bf7994e4bcca650";
   };
   freeswitch-mod-opusfile = {
     version = "1.10.12-r3";
@@ -4748,7 +4748,7 @@
       "libopusfile"
     ];
     provides = [ "freeswitch-mod-opusfile-any" ];
-    sha256 = "c7f6a0ff28d9e9a5b24e5485132c45f8c681ce430edb812571cb8d12ab30adf2";
+    sha256 = "1486de000bb71488de860f3996ceb85c625f824e40aaf7aa55d4cf9b6de7e27b";
   };
   freeswitch-mod-oreka = {
     version = "1.10.12-r3";
@@ -4758,7 +4758,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-oreka-any" ];
-    sha256 = "298fbff2fd14f2780e363efccca78b08de886a067a25edad5406fcae3083f09a";
+    sha256 = "deb1670584fd38614ccd64725cb34231fd4325abe1ce053e9eea9e0e8060e4e7";
   };
   freeswitch-mod-pgsql = {
     version = "1.10.12-r3";
@@ -4769,7 +4769,7 @@
       "libpq"
     ];
     provides = [ "freeswitch-mod-pgsql-any" ];
-    sha256 = "11993ba1921098dea6d11b1dfff88352b7305f1e7480dbae105418d4b22a6e78";
+    sha256 = "967dc6d0faeed235e540d2906c967749b346f032da28e50c5e5d10e1f1cbf666";
   };
   freeswitch-mod-pocketsphinx = {
     version = "1.10.12-r3";
@@ -4780,7 +4780,7 @@
       "libsamplerate"
     ];
     provides = [ "freeswitch-mod-pocketsphinx-any" ];
-    sha256 = "2e1869b3c4890b36e1c7537f1787bdc6b9377d3afb0729210c216d77b16813f5";
+    sha256 = "a378fc2d1283b54aedbd2a181ede5d12f791b87ca08b4e57985cb1b393c9201f";
   };
   freeswitch-mod-portaudio = {
     version = "1.10.12-r3";
@@ -4791,7 +4791,7 @@
       "portaudio"
     ];
     provides = [ "freeswitch-mod-portaudio-any" ];
-    sha256 = "1af8b89a23aa72b6555c68f7ad3ddeb4a82d09fe2b428d4e4ef56c54a6004423";
+    sha256 = "8b7edb46362f026ef582c088209062f8bece8b307e5486cd0a1aed5191bbbe93";
   };
   freeswitch-mod-portaudio-stream = {
     version = "1.10.12-r3";
@@ -4802,7 +4802,7 @@
       "portaudio"
     ];
     provides = [ "freeswitch-mod-portaudio-stream-any" ];
-    sha256 = "fc58c6e3f702654150feda2eb5ac573fbad1dc77f6f5275647103f698b7b83a6";
+    sha256 = "e3f3f6d7d0225e862ebd59a5c3450ba4923e7b79b5df6eee2c39c754942a8da1";
   };
   freeswitch-mod-posix-timer = {
     version = "1.10.12-r3";
@@ -4812,7 +4812,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-posix-timer-any" ];
-    sha256 = "b236d15e61197d269518cd9347409acb2a4293acff832683e8aede0cd145dbf8";
+    sha256 = "edbddb7ba2a21bc50be6e0925b7182e18fe861c851e6a510cf350b49d81bfe44";
   };
   freeswitch-mod-prefix = {
     version = "1.10.12-r3";
@@ -4822,7 +4822,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-prefix-any" ];
-    sha256 = "877d214289e2d87c9b060084773b26baed8f6267a01e839737931731c95502d4";
+    sha256 = "478dce143eff4331afc23359b86222368de1d5588cda322ff8e3d3931c7c075e";
   };
   freeswitch-mod-python3 = {
     version = "1.10.12-r3";
@@ -4833,7 +4833,7 @@
       "python3-light"
     ];
     provides = [ "freeswitch-mod-python3-any" ];
-    sha256 = "45f7ae7b7408624f6f3d54548da4ef84135b83e05578d2ce949f72af1ae041e8";
+    sha256 = "191c2405915bced3bb1ead7d478bebf5fd401f96882fe727b825ffe7450b07a0";
   };
   freeswitch-mod-radius-cdr = {
     version = "1.10.12-r3";
@@ -4843,7 +4843,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-radius-cdr-any" ];
-    sha256 = "3f1d43e7d499bfa6834d5c9ba0c2d1eca769d13ad996884c2c2cbd6c70ddab33";
+    sha256 = "9762b24873b56c6b0ffdd0dfa19c1e58967267ef69208ad1ee101417f419d7a5";
   };
   freeswitch-mod-random = {
     version = "1.10.12-r3";
@@ -4853,7 +4853,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-random-any" ];
-    sha256 = "85065666a534e58f13a1dbdc9bf6a26c29ba09a27c043367908c89f6949fa135";
+    sha256 = "38ace0a6c0e46b154c0cab66ae150f61a7b1ce04687cfe9cb55c9335655c439b";
   };
   freeswitch-mod-raven = {
     version = "1.10.12-r3";
@@ -4863,7 +4863,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-raven-any" ];
-    sha256 = "dac1f310fe7ba5d1c1e5b56e87501bffc646e1d2fd75799bfc24eccb58e6ecf4";
+    sha256 = "37602f062497fae40798f764bce460a8dc8b9462ba0dab7a358b58cfdbad52b0";
   };
   freeswitch-mod-rayo = {
     version = "1.10.12-r3";
@@ -4874,7 +4874,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-rayo-any" ];
-    sha256 = "44bb9996aa4dd0eb68d78a2fde0403ae7cca350bc9c1c09f0c08cdb43471119e";
+    sha256 = "47cac27ea2a6b82a037f7572a982b5e37816f86a18bf211a4f7d45b03e943613";
   };
   freeswitch-mod-redis = {
     version = "1.10.12-r3";
@@ -4884,7 +4884,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-redis-any" ];
-    sha256 = "8e4340d2a79844848cc3a8ac0e7e2c14374484ef2d6ce8455197566c971c75b5";
+    sha256 = "8f73942cc342facbe8386f606606b50ed0f2c0b86c8671ad88df70ebd5e031ec";
   };
   freeswitch-mod-rss = {
     version = "1.10.12-r3";
@@ -4894,7 +4894,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-rss-any" ];
-    sha256 = "9d64c6256f5db717f3877aa2c0667ec4b4f1274bcd0fd8aab65e59f103e9bf93";
+    sha256 = "954998d9c89dbc666bb8f4401c16cde348fd2f5fb6f4878a79611e98ea2b0b35";
   };
   freeswitch-mod-rtc = {
     version = "1.10.12-r3";
@@ -4904,7 +4904,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-rtc-any" ];
-    sha256 = "3c6dd3027e790b8eb538b8d9df6b00f3e4f5d6e6613ed200dff87f781ddb91b4";
+    sha256 = "0e955cc0a6d436eee2425e0024da7eafcf0f0fcfb6d6870e2d6a4b7c8d2aa3df";
   };
   freeswitch-mod-rtmp = {
     version = "1.10.12-r3";
@@ -4914,7 +4914,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-rtmp-any" ];
-    sha256 = "0523fa3e7c621c6457e8a2826ff4f8651101a583af280315be7db34b869ea2b7";
+    sha256 = "9aa5c96709b8f97fed40d4dd6a5e85add733c4889e5341ebfc0e4173a2197ce6";
   };
   freeswitch-mod-say-de = {
     version = "1.10.12-r3";
@@ -4924,7 +4924,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-say-de-any" ];
-    sha256 = "4ea4b196cdcf4ccb62801691430c99b313ba90687de697be40861bd17d48a70f";
+    sha256 = "4863f2ec5a26d23e10a8741bdfc3fae05e77043e11569e68d2717ec8ce52e51e";
   };
   freeswitch-mod-say-en = {
     version = "1.10.12-r3";
@@ -4934,7 +4934,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-say-en-any" ];
-    sha256 = "a05fd58f1347f16de649b86cc97f7f194b9e9941040d6a017eaefa5350efdd47";
+    sha256 = "f76e9072a33068d759e5d240cc4b92e0cdc0482979d40a1f69f6a0eb51da3d4c";
   };
   freeswitch-mod-say-es = {
     version = "1.10.12-r3";
@@ -4944,7 +4944,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-say-es-any" ];
-    sha256 = "7e95c7ee8fdb441cb59ee6c76728fb31fddf0520695b06db0c3f0ed71ee7be72";
+    sha256 = "77e7ef57d3d429a3a5d3b35e000761f3ee426a8c3f4779a22be5cb22bea1a0c6";
   };
   freeswitch-mod-say-es-ar = {
     version = "1.10.12-r3";
@@ -4954,7 +4954,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-say-es-ar-any" ];
-    sha256 = "732cf945973960d79d47857b96d1cf7a1b6334f1a16e17ed39cfeb493359b2bd";
+    sha256 = "d65ea0693604ed5c283b15e16ef4a5f88262acd02b2556fb1219de1930a3dc08";
   };
   freeswitch-mod-say-fa = {
     version = "1.10.12-r3";
@@ -4964,7 +4964,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-say-fa-any" ];
-    sha256 = "719b2eab0363fc6ee18d6eaad934c02d787deced24131530bea36909e73b2813";
+    sha256 = "b6f68b3ee254557d4ca061f28e080bfacbd4e1e19743b669b5cf8e416deafed8";
   };
   freeswitch-mod-say-fr = {
     version = "1.10.12-r3";
@@ -4974,7 +4974,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-say-fr-any" ];
-    sha256 = "832b72043206c9ee1d9ea41f2cb6076189295359bc52131422bde329031b6b03";
+    sha256 = "2e2ef9e63fc8a363d5ae2abd000ea75df75bdd41b13aebe3380e1ce9fcb0321e";
   };
   freeswitch-mod-say-he = {
     version = "1.10.12-r3";
@@ -4984,7 +4984,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-say-he-any" ];
-    sha256 = "4bd3af402f3c1d0ee30884e2f93b2ba95287248a8ed9cc78cf38d4f5ff64db60";
+    sha256 = "92f0287b3323311c3784b07a72f231459f50a943f174bde837dba5d864b743b6";
   };
   freeswitch-mod-say-hr = {
     version = "1.10.12-r3";
@@ -4994,7 +4994,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-say-hr-any" ];
-    sha256 = "fcb73a7bd97f63d674ef24f63f24ed7914448e465a15d34a55d3033120f29c05";
+    sha256 = "e8f2d22847e80dba86e9c9c2a0ce7f204e530dae5f39ca83cd3ed03b2675d615";
   };
   freeswitch-mod-say-hu = {
     version = "1.10.12-r3";
@@ -5004,7 +5004,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-say-hu-any" ];
-    sha256 = "081869b8af851f19ae751cbbfd129c385aaa7cf928174b221a95e75c6f0c10a3";
+    sha256 = "f4dac9ffb664abc941321e21ad2d3a421be617629ba6c621da9fe423001f7dfb";
   };
   freeswitch-mod-say-it = {
     version = "1.10.12-r3";
@@ -5014,7 +5014,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-say-it-any" ];
-    sha256 = "ad64c7975374772b71f5e8697a01ad23ea632843821f5b5657584e6167faaa65";
+    sha256 = "439c7cc9cb13d6b6ea271fabae207b42664d18f5da7641a78b217c5af560c527";
   };
   freeswitch-mod-say-ja = {
     version = "1.10.12-r3";
@@ -5024,7 +5024,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-say-ja-any" ];
-    sha256 = "8f95bfaf251d18aff444c7724d078f341f58010b775cc01f34b2eb9aa632087d";
+    sha256 = "6bf2b83bf684c5e819c68ce7b0658b2399aebb3f8ad3f6034217177a3b2db0e4";
   };
   freeswitch-mod-say-nl = {
     version = "1.10.12-r3";
@@ -5034,7 +5034,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-say-nl-any" ];
-    sha256 = "8e38766170fcaa44220c7a5ca89b1a05e358ae0beb0de8f678e2fc94e13dee3a";
+    sha256 = "786ea86f5ed5421030dd6829d6148dbb2476ba3d8d47922c7b80f4883fbf6b68";
   };
   freeswitch-mod-say-pl = {
     version = "1.10.12-r3";
@@ -5044,7 +5044,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-say-pl-any" ];
-    sha256 = "9976e8279fcfa3574c04ef4f73b92e9553719c0358a6a445782d26e1814f24ff";
+    sha256 = "f7c451fa0005da3ae60649e29600d64c8b5c824c569cd66aaef4780b7e92fa1d";
   };
   freeswitch-mod-say-pt = {
     version = "1.10.12-r3";
@@ -5054,7 +5054,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-say-pt-any" ];
-    sha256 = "9ad45b2bbac89171565b6fe3551dd89763b0d3fb8ae4ec7ae2ba72111a14041e";
+    sha256 = "8a50f683488d8680178e60b9935e18482ce634eab18ccc6c5fb05d99d7c0e676";
   };
   freeswitch-mod-say-ru = {
     version = "1.10.12-r3";
@@ -5064,7 +5064,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-say-ru-any" ];
-    sha256 = "eeeb8d76c5f8675bc2d2dd90461676b78ddb738d7a560a4238cb2b8e73803045";
+    sha256 = "d849e22d42d9eed17583512f2ea5b4b30283a099a663403c06c0b6674ae84861";
   };
   freeswitch-mod-say-sv = {
     version = "1.10.12-r3";
@@ -5074,7 +5074,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-say-sv-any" ];
-    sha256 = "5294c383595f20838e314cdcb719641ca6a8b692aa080bdcbccd25e709e05de7";
+    sha256 = "ed796345acc2de58138d278ada47f25ab8e73649308e6b92236486b5f363ef57";
   };
   freeswitch-mod-say-th = {
     version = "1.10.12-r3";
@@ -5084,7 +5084,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-say-th-any" ];
-    sha256 = "c2a0b05596d94cc0fc9613d97c77064c10a13d0953adf5f5b69b929f18617d95";
+    sha256 = "b371cda381b5c41e9e64ee21594176816c570855acb781626cdc675c786ce325";
   };
   freeswitch-mod-say-zh = {
     version = "1.10.12-r3";
@@ -5094,7 +5094,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-say-zh-any" ];
-    sha256 = "7b8c3911f970c9ead870eb23f30734b40633d03df3823bba28e7fbc9baba8f8d";
+    sha256 = "ff73fd0502e7838f9829b7f275e25b9e3cc96b29f877fdbde6690352d7add625";
   };
   freeswitch-mod-shell-stream = {
     version = "1.10.12-r3";
@@ -5104,7 +5104,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-shell-stream-any" ];
-    sha256 = "43b27170bd9710c6c4946ceaed6bba713fcefcc097ca2be398f45987f9b8e95e";
+    sha256 = "c002579ab32b445163a69f8104a05894180df13a798e8c7e05c464138f7dff9f";
   };
   freeswitch-mod-shout = {
     version = "1.10.12-r3";
@@ -5117,7 +5117,7 @@
       "libshout"
     ];
     provides = [ "freeswitch-mod-shout-any" ];
-    sha256 = "c1e8e031b2f69fe3f1fa713824192d6d387ee50b3454bbe7a52a8b70919f4ab6";
+    sha256 = "460836050bacdd6d55fc27fb2e74ca5756df1441a497850f92665215b8b94311";
   };
   freeswitch-mod-signalwire = {
     version = "1.10.12-r3";
@@ -5128,7 +5128,7 @@
       "signalwire-client-c2"
     ];
     provides = [ "freeswitch-mod-signalwire-any" ];
-    sha256 = "05478d2c7adaeb2ead0c6dc10e2ad1d80f6b26b6af534f17ecd869f2509f446c";
+    sha256 = "7b06308e09e1d747eaf7c321296fb429772a9be11eff1418bc33882521ec72dc";
   };
   freeswitch-mod-skinny = {
     version = "1.10.12-r3";
@@ -5138,7 +5138,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-skinny-any" ];
-    sha256 = "66eaf9b6564e61745e5334da13ff3da409af0825b99ccf81d7c2ec857edbbff4";
+    sha256 = "1478fe0fabcdbc4829231296df6fa8608f6ec240d8a7e888a28eec68124fb0b2";
   };
   freeswitch-mod-sms = {
     version = "1.10.12-r3";
@@ -5148,7 +5148,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-sms-any" ];
-    sha256 = "0dde77566c75d1b354ad0fcd9339b8ced9946d4eea46190a08501393bd41f5e0";
+    sha256 = "1a217874b7b2e12b7418dee2fe6e6469efb732e345177dcef831eb08726c7a30";
   };
   freeswitch-mod-snapshot = {
     version = "1.10.12-r3";
@@ -5158,7 +5158,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-snapshot-any" ];
-    sha256 = "f63b19492a3d26e58526f82b28354620b2b5eba25beafdda82d298d1ebaa70ef";
+    sha256 = "e5a2980c47ce11475a9d5bf4a6c831593d36925aa28ef9cf4770a24c17acdad7";
   };
   freeswitch-mod-sndfile = {
     version = "1.10.12-r3";
@@ -5169,7 +5169,7 @@
       "libsndfile"
     ];
     provides = [ "freeswitch-mod-sndfile-any" ];
-    sha256 = "eca4b07489ed1ea51c909d389ab317971ea3743ecdf51f8f48e2ab39886f6e51";
+    sha256 = "b1b6d9a46c043f9e8a6bcb76998e11b91d69ff1f68f280a37dce7771b709f45a";
   };
   freeswitch-mod-snmp = {
     version = "1.10.12-r3";
@@ -5180,7 +5180,7 @@
       "libnetsnmp"
     ];
     provides = [ "freeswitch-mod-snmp-any" ];
-    sha256 = "21cc1f841ce79aea547cc35ffbdaff52e9852537da0cec792086a50ec2ac143d";
+    sha256 = "32c3cc1d8ba2b98c2e9793b837cef57746ce344afd5f6971ecf2b25aef2bbfe9";
   };
   freeswitch-mod-snom = {
     version = "1.10.12-r3";
@@ -5190,7 +5190,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-snom-any" ];
-    sha256 = "208e36ef5b86cf6ec7cd276564e32457e8450bcebf87f0a31fcce01934a7136c";
+    sha256 = "ac752100144d099e9dc2319b66772930989ba2ff5b3bcdb4206a43f4414c096c";
   };
   freeswitch-mod-sofia = {
     version = "1.10.12-r3";
@@ -5200,7 +5200,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-sofia-any" ];
-    sha256 = "87e5f03385828039d2ce96f7a7c413f2f670aadbc769c104a904a12f1e2f94d4";
+    sha256 = "c0e0f14fc495ccc5cb2e9ceb20f9a46e3529c081a013b72f1b781725ae2b69db";
   };
   freeswitch-mod-sonar = {
     version = "1.10.12-r3";
@@ -5210,7 +5210,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-sonar-any" ];
-    sha256 = "bf2f1d270bf39568f9ec6f5888fe8eeaa0af46c1cbb2446cf280f5a42afc1092";
+    sha256 = "ed308265f03e3f6a8f026f2da8b294afa0e94070ca886de50b70429b4c0c1dcf";
   };
   freeswitch-mod-spandsp = {
     version = "1.10.12-r3";
@@ -5223,7 +5223,7 @@
       "libtiff6"
     ];
     provides = [ "freeswitch-mod-spandsp-any" ];
-    sha256 = "96fb29e32069f42b57a1fa3da1492d23f992e03f3c1cc0ea66ef9d3b0bd0f98c";
+    sha256 = "51a4ee7085a89503c03c2b16892f9f018401a172a78fdee293b4e79a3cbd2965";
   };
   freeswitch-mod-spy = {
     version = "1.10.12-r3";
@@ -5233,7 +5233,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-spy-any" ];
-    sha256 = "7595b2f99a65e68a57aa8f5fce183a41ae20a72387d51c177f79a2251be6fdea";
+    sha256 = "610e1eb62611e73138803dc9781a7d3060d6eb51c0519d06a8718901c9ff03be";
   };
   freeswitch-mod-ssml = {
     version = "1.10.12-r3";
@@ -5243,7 +5243,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-ssml-any" ];
-    sha256 = "e68f53bafea1f38cebf7eadc85be0cbc587897320324482d51acacbcba517d50";
+    sha256 = "057fd2c9a92312a21d44db187eb21705a2054c75cefe07f7b75fee40bf56115d";
   };
   freeswitch-mod-stress = {
     version = "1.10.12-r3";
@@ -5253,7 +5253,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-stress-any" ];
-    sha256 = "0c2100200c4f4a38a663766c9cbb368f2853a448390d0dcc77c46df60305932c";
+    sha256 = "8664b1771185bf68b1b90a3469cca96c1559dfa7b5fb056084f94a6c505a33d8";
   };
   freeswitch-mod-syslog = {
     version = "1.10.12-r3";
@@ -5263,7 +5263,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-syslog-any" ];
-    sha256 = "4e3cf848400ab542bebde9166a054e190e74238499379365b695d97b6b07fa44";
+    sha256 = "d95a9a959d668101fcefdd47e32b6422d4fb82cf9d76a0c34eb259dd1d93c98d";
   };
   freeswitch-mod-theora = {
     version = "1.10.12-r3";
@@ -5273,7 +5273,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-theora-any" ];
-    sha256 = "f1b596c1bf7bf7ec53be9bab6d55a3bf7fcb1c942923b40ce9373ad0d77ba9d4";
+    sha256 = "3f6c9eb2a8c77530032ee378f234b71662720fda003bedb58d3328309a1cc7f4";
   };
   freeswitch-mod-tone-stream = {
     version = "1.10.12-r3";
@@ -5283,7 +5283,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-tone-stream-any" ];
-    sha256 = "de5fa4df2d4cc34ca6b290bf13b63431724094132f233ab2d95902a637d8ac3b";
+    sha256 = "749c59e3819211d881e79f6deb8eed24f3589045171613abd38f52c1b6be3aa9";
   };
   freeswitch-mod-translate = {
     version = "1.10.12-r3";
@@ -5293,7 +5293,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-translate-any" ];
-    sha256 = "f7e4cce500579184fcabd3361007a26b1610251cd6968c906b095a839b20a45c";
+    sha256 = "bf83bade2f3579f66ddbd3fdb757f3b054b49b83582a52a3d156ea34a6bc5ed4";
   };
   freeswitch-mod-tts-commandline = {
     version = "1.10.12-r3";
@@ -5303,7 +5303,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-tts-commandline-any" ];
-    sha256 = "fe452b678e591805411f844a24fcad4134d345f20869d29b06ae83404800f1f5";
+    sha256 = "4109dcfd03ec73b1c71ee3473cce7a952f50aea8586049196a7a385b2770ce30";
   };
   freeswitch-mod-valet-parking = {
     version = "1.10.12-r3";
@@ -5313,7 +5313,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-valet-parking-any" ];
-    sha256 = "f133df20932270e9306eda16222a687edde36ecae385813eaaf8d06b3204a447";
+    sha256 = "12348cc3920395082b131bd7ff6fdec1c55c98450b0672bed21bb41cc2f8550d";
   };
   freeswitch-mod-verto = {
     version = "1.10.12-r3";
@@ -5324,7 +5324,7 @@
       "libks2"
     ];
     provides = [ "freeswitch-mod-verto-any" ];
-    sha256 = "c11c1f870e8c186f5e996e56934681dc9ade3aad2886a2b737c0380c007daf34";
+    sha256 = "6b689cc87dc9c5b8c2c2ac53de0f1c7b852398dca745e65dea6852fedd6cd835";
   };
   freeswitch-mod-video-filter = {
     version = "1.10.12-r3";
@@ -5334,7 +5334,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-video-filter-any" ];
-    sha256 = "3052c19d928f47d8fcc4b1ef75c7ecfdf60745e2f1ffeb24af4d6d0269c15039";
+    sha256 = "b7929427adfa7ec2209837a7f5374cb7672e9560122bcaf7e1b13312fac896ec";
   };
   freeswitch-mod-vmd = {
     version = "1.10.12-r3";
@@ -5344,7 +5344,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-vmd-any" ];
-    sha256 = "f57d7406dcf394819669a1ce93f952bb075cc652868e0c7f16582cc836e0e0d5";
+    sha256 = "d7cf7babfbbef297449989eefe8a26d0e4ebf779e54bfc9af8c6573e3bc126ca";
   };
   freeswitch-mod-voicemail = {
     version = "1.10.12-r3";
@@ -5354,7 +5354,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-voicemail-any" ];
-    sha256 = "541fb0c672da828f2697a3cab3aec5c7b7c49f1a1a5a25e70742c13e236c619e";
+    sha256 = "495f935dd71ac3db479fb2ce2de1c8331653d2d842d0d360f381db8d3079009d";
   };
   freeswitch-mod-voicemail-ivr = {
     version = "1.10.12-r3";
@@ -5364,7 +5364,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-voicemail-ivr-any" ];
-    sha256 = "0e8479454d08c3baf9583217c83afdc9d5765a8989f76889a180faa3be1fc29d";
+    sha256 = "d9ee14293365f8051b7561b283db810b311061e9901ba58bc4f2f938bdcd2d57";
   };
   freeswitch-mod-xml-cdr = {
     version = "1.10.12-r3";
@@ -5374,7 +5374,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-xml-cdr-any" ];
-    sha256 = "ee6bb69c262c479c6dc168a88d262edaa0cba5f6b99c128da012683724f1db4e";
+    sha256 = "933be10c5852b4762da6f96cfe77818b4aa5033b0c1cf1cc86fa35567762027d";
   };
   freeswitch-mod-xml-curl = {
     version = "1.10.12-r3";
@@ -5384,7 +5384,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-xml-curl-any" ];
-    sha256 = "22b6ee14f4e705ff082669ada5de716f70b246d0516e2160ce97024cf4959fda";
+    sha256 = "a28c46797e89769cceab2f2e90ffa21343cd6d2bce44efae13ac7c7dc83af3da";
   };
   freeswitch-mod-xml-ldap = {
     version = "1.10.12-r3";
@@ -5395,7 +5395,7 @@
       "libopenldap"
     ];
     provides = [ "freeswitch-mod-xml-ldap-any" ];
-    sha256 = "dcb36d2d1d03336bc0d5a9525e0c536e134f7cbac801ea7aba427e18757bd013";
+    sha256 = "8dd36861a1f9a81b8e12537b07a263ddcd0620e26e2a8e1a9824845be96f64a7";
   };
   freeswitch-mod-xml-rpc = {
     version = "1.10.12-r3";
@@ -5405,7 +5405,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-xml-rpc-any" ];
-    sha256 = "15f025fe5b842ce1249c7e990219d6ec33fb84fd64606c4c098ed9f1ac3b2458";
+    sha256 = "a8fae15e6cda081e338ddc33d34554ae51c2f607f5e22f44e511aa0600ae658e";
   };
   freeswitch-mod-xml-scgi = {
     version = "1.10.12-r3";
@@ -5415,7 +5415,7 @@
       "libc"
     ];
     provides = [ "freeswitch-mod-xml-scgi-any" ];
-    sha256 = "3897adda06ee52bfdd5619dd9aa88dfec35b6eab850b15d46c8ea38dbbfd0c62";
+    sha256 = "f58de1cca9818ebf504271d72da25cbc2eefbee7f4556fb5ffb6f9a9346cf73f";
   };
   freeswitch-mod-yaml = {
     version = "1.10.12-r3";
@@ -5426,7 +5426,7 @@
       "libyaml"
     ];
     provides = [ "freeswitch-mod-yaml-any" ];
-    sha256 = "2ec3e78215d0cfb05e71ff918ddf26cb104b4db5e297581454067d0d2c8eefbc";
+    sha256 = "6ec37db9939280d039aec281b315c21df227deb8efec4ddb4eafb99371248646";
   };
   freeswitch-util-fs-cli = {
     version = "1.10.12-r3";
@@ -5436,7 +5436,7 @@
       "libc"
     ];
     provides = [ "freeswitch-util-fs-cli-any" ];
-    sha256 = "3568b80d6b946eb38e7234ea7a72bdd9367098dad4e01ed4dc4ff48f3fbabe33";
+    sha256 = "c1ea3b4cb004a4c49724eec7a6f1d0ebd6b28a68904d7f487b55fe15d48f649a";
   };
   freeswitch-util-fs-encode = {
     version = "1.10.12-r3";
@@ -5449,7 +5449,7 @@
       "libc"
     ];
     provides = [ "freeswitch-util-fs-encode-any" ];
-    sha256 = "0a56c840bbda23118227cc1e099bd6f62e8727f44511cf47cd0465f792875908";
+    sha256 = "46055583592c0caa486125cb568baee8c64d4c8c7804fbe0263aa8fbc8f20266";
   };
   freeswitch-util-fs-ivrd = {
     version = "1.10.12-r3";
@@ -5459,7 +5459,7 @@
       "libc"
     ];
     provides = [ "freeswitch-util-fs-ivrd-any" ];
-    sha256 = "65178224d926fb2ebba0eeb972d63fde7ccecbd4a0b1358688f825e8f3e537a9";
+    sha256 = "71df4a1e5f88f3fa468a6f9ee526d78d48bba69abacd8c8a210de9b1518eb482";
   };
   freeswitch-util-fs-tts = {
     version = "1.10.12-r3";
@@ -5469,7 +5469,7 @@
       "libc"
     ];
     provides = [ "freeswitch-util-fs-tts-any" ];
-    sha256 = "65364592bc8635ff709c1e2b71573896fd0e91c089c6d89562a1e3d0dc76ee53";
+    sha256 = "2369f34f68d8048229ce65c5bb649ca8c5406c45f96a6104fd4582c94a9ae956";
   };
   freeswitch-util-gentls-cert = {
     version = "1.10.12-r3";
@@ -5491,7 +5491,7 @@
       "libc"
     ];
     provides = [ "freeswitch-util-tone2wav-any" ];
-    sha256 = "b9ee626898ab2e9d367266fb6bc20a4bc5f1ac5bc50b0b687cfdbe28733289ef";
+    sha256 = "f54833e400aae624f7d27e923b5446cdd672ce75392d8b7a457c4dea5aae5bce";
   };
   gsm-utils = {
     version = "1.10.20140304-r6";
@@ -5501,7 +5501,7 @@
       "libc"
     ];
     provides = [ "gsm-utils-any" ];
-    sha256 = "57eccd1b24c9ec13c1d380baad3989465da1f3a40cac646f6d7592ff75764a67";
+    sha256 = "1f92fbc4d8e99bb6d3efa104cc932e08221269f4e56e5831015a6e4a548fdfad";
   };
   gsmlib = {
     version = "1.10.20140304-r6";
@@ -5511,7 +5511,7 @@
       "libstdcpp6"
     ];
     provides = [ "gsmlib-any" ];
-    sha256 = "0f3ab0472f2a807761258d818058a2bbe26cf3a9f0c33d546bca0be29679b9d0";
+    sha256 = "52d0800bd4415116ef0814c729a7cb819964b07ff9e709bb68da0e6c41368580";
   };
   iptables-mod-rtpengine = {
     version = "11.5.1.49-r1";
@@ -5521,7 +5521,7 @@
       "libxtables12"
     ];
     provides = [ "iptables-mod-rtpengine-any" ];
-    sha256 = "6d1283e4fe28ae542eaaf60f41bb6903d9800ce7d2076f68b94c9141f8339d4f";
+    sha256 = "71405ae9e057d52884076a8c1074790dc301374c5183eff82d914ed145c87df6";
   };
   kamailio = {
     version = "6.0.1-r2";
@@ -5534,7 +5534,7 @@
       "libxml2-16"
     ];
     provides = [ "kamailio-any" ];
-    sha256 = "d9bca0a21fab765aac70d88779e5abf97cc7d2a353053a3b59d4cf13b7270f48";
+    sha256 = "2cab60255bb37f759d5fe85e9d61d1abc08c09f9ddbf1a4979a5ad0827a7059b";
   };
   kamailio-mod-acc = {
     version = "6.0.1-r2";
@@ -5545,7 +5545,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-acc-any" ];
-    sha256 = "ed1412dd84b4de4abe00c7a463bfb486c5561134c4e10cbd4a08b5fe279365b4";
+    sha256 = "fccd89b9d0d0f1bf3509637e7bf4f2510bfc122bcbc214153c112978ddca429f";
   };
   kamailio-mod-acc-diameter = {
     version = "6.0.1-r2";
@@ -5556,7 +5556,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-acc-diameter-any" ];
-    sha256 = "0e16b895af77bc7a9aff5f6cf3d4549af0cbdd54adcfb48f63a39b8ad6236ddb";
+    sha256 = "0e521766fcf1ba13c5b1cef555fdc3a6e49ac28e81f17a84626a9311ed8cea41";
   };
   kamailio-mod-acc-json = {
     version = "6.0.1-r2";
@@ -5568,7 +5568,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-acc-json-any" ];
-    sha256 = "6b7c34ecc04811895cc9e5c8bf59ce3abf4ac44977a41988d49630de1692cd2f";
+    sha256 = "e3c277f54ecd6d471812398d39d3233e937a53c2e97cb28a434b6ab0d07f2956";
   };
   kamailio-mod-alias-db = {
     version = "6.0.1-r2";
@@ -5578,7 +5578,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-alias-db-any" ];
-    sha256 = "8471a42c15a47cf0a4ae62f1e312517247001f3eb6ac92765ec2481952778bd8";
+    sha256 = "6e73512d0ec615f4de2809e7d2bf6921550b69291598fd17c881e2a473d8b1ee";
   };
   kamailio-mod-app-jsdt = {
     version = "6.0.1-r2";
@@ -5588,7 +5588,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-app-jsdt-any" ];
-    sha256 = "814857e379ff493417f9b59e91f21a505bbc5e8d16b217141c2a9ce51903016b";
+    sha256 = "ff0c2a5cde3fe2a75c3d30ce531f4f375c0947627887cb1eec40f05f10e35ca2";
   };
   kamailio-mod-app-lua = {
     version = "6.0.1-r2";
@@ -5599,7 +5599,7 @@
       "liblua5.1.5"
     ];
     provides = [ "kamailio-mod-app-lua-any" ];
-    sha256 = "956e27e85a4a6b83b1163b4afc5f20f0bbf15fd9b678e25183d4939c358a6ec6";
+    sha256 = "43b0c504b64f4b8a5e751dc7719d2256605aadb3df46fe4eb3dbf87d8539bacf";
   };
   kamailio-mod-app-python3 = {
     version = "6.0.1-r2";
@@ -5610,7 +5610,7 @@
       "python3-light"
     ];
     provides = [ "kamailio-mod-app-python3-any" ];
-    sha256 = "f1245f6a0d2dc84643608f6ea7f34d7f4e38e746822ee8a025d550a6f08146bf";
+    sha256 = "aa6565ed297fe78c7f431d1cc37e6d0169effc4e5f7f2e9696d23ecaa8d14ade";
   };
   kamailio-mod-app-ruby = {
     version = "6.0.1-r2";
@@ -5621,7 +5621,7 @@
       "libruby3.4"
     ];
     provides = [ "kamailio-mod-app-ruby-any" ];
-    sha256 = "56956211955dd0315e541e6c2245f9858064d896991ec49e6a00b5e360a98ae1";
+    sha256 = "b306b20f5bba9b2d296e3268ceb4b026de5cafa408e93ba50f298d8bcdb2a0da";
   };
   kamailio-mod-async = {
     version = "6.0.1-r2";
@@ -5633,7 +5633,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-async-any" ];
-    sha256 = "777f1b1055e62401b83606ecf07e4085ec767cba533aa6fd887c4b49d52dd9b9";
+    sha256 = "96ff125cbe8f8cb952114966c979ad3446edced9a76048fe00a449084f989be3";
   };
   kamailio-mod-auth = {
     version = "6.0.1-r2";
@@ -5643,7 +5643,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-auth-any" ];
-    sha256 = "21c4537530561ac8db469089d169eae411da6d782afb5987063ac22492fd9601";
+    sha256 = "4766f05981facd164d810e9cffaa238906f0945651775d67067bfaf11562c5dd";
   };
   kamailio-mod-auth-db = {
     version = "6.0.1-r2";
@@ -5654,7 +5654,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-auth-db-any" ];
-    sha256 = "0af15b9aa6de8aeacbcbdc3e48da025c9d336e8ecd315cce7455ad053074b96d";
+    sha256 = "db10e2039077a0c4624970a8c75b8f1aa1f5402815173db1fda1cd0c2bec2746";
   };
   kamailio-mod-auth-diameter = {
     version = "6.0.1-r2";
@@ -5665,7 +5665,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-auth-diameter-any" ];
-    sha256 = "244f2127af2e87a9e3c55414f8416f8af4b2c0d1e2722a3b310515123dd2fd51";
+    sha256 = "cab8f354c3599f037a2966f6b008c0ec386db21ff63a91eb5cf54c6b212b973d";
   };
   kamailio-mod-auth-ephemeral = {
     version = "6.0.1-r2";
@@ -5676,7 +5676,7 @@
       "libopenssl3"
     ];
     provides = [ "kamailio-mod-auth-ephemeral-any" ];
-    sha256 = "f5a379a1ba3ffe07a7d6342e80da578764675db4b74e721d1ae1f83767099886";
+    sha256 = "2ffe24076d0dbf05176dc55f5e1a4868328988a81f9808cb07e53e1031c641dc";
   };
   kamailio-mod-auth-xkeys = {
     version = "6.0.1-r2";
@@ -5687,7 +5687,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-auth-xkeys-any" ];
-    sha256 = "6b4359979acde74210599b45a8be1e790923b1a5f6edb3def6499a3304933259";
+    sha256 = "48644f1fc967f4388239c6da1b1d30b48eb4ec65c46fbff0028d1cb8f60ee059";
   };
   kamailio-mod-avp = {
     version = "6.0.1-r2";
@@ -5697,7 +5697,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-avp-any" ];
-    sha256 = "ce6dbc18cce6aec4f7e28baa05845373dd211274a1da395eaf9160970158d66f";
+    sha256 = "d3b2568171ef7b27032746c3414e2f427881afc9b58bb339354b5bdad880cba2";
   };
   kamailio-mod-avpops = {
     version = "6.0.1-r2";
@@ -5707,7 +5707,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-avpops-any" ];
-    sha256 = "7b6101cb3010b18393baf9f5d2aca3975ec844aca5dcd85071d67f8d23241f5a";
+    sha256 = "28e55ff04959418f52b08b132883f2dffc4c014e273162584b600ebcdd1e952f";
   };
   kamailio-mod-benchmark = {
     version = "6.0.1-r2";
@@ -5717,7 +5717,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-benchmark-any" ];
-    sha256 = "8aca90a8d26d1a85e29f666c73f40337302109b543110c3fc935f54abad27d9f";
+    sha256 = "1392109839cadea5c51c41b39585ad68f62850b8abd4d89b583bb1aa3c2f5fba";
   };
   kamailio-mod-blst = {
     version = "6.0.1-r2";
@@ -5727,7 +5727,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-blst-any" ];
-    sha256 = "0c83f50c81e3948282e1a33211b7265aeef9b554c37cc323dd8ccddee25bf0fb";
+    sha256 = "2690a6688c29e6581c33d93da1be54900b397925fa61dd11a48e889725e5d320";
   };
   kamailio-mod-call-control = {
     version = "6.0.1-r2";
@@ -5739,7 +5739,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-call-control-any" ];
-    sha256 = "17c079025d0e8346e487443a6e6c7c933f4e48f10ebfa965d56b7a2f523bc2f8";
+    sha256 = "ec9000e80283f5a899508ae22860925b1b8ccc03759aae3ec007f9464cf63fd2";
   };
   kamailio-mod-call-obj = {
     version = "6.0.1-r2";
@@ -5749,7 +5749,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-call-obj-any" ];
-    sha256 = "d497acfec24cd94d53b4576a7dfd8b338aa189c13b45a4fdf51951a7a030b14b";
+    sha256 = "c0aeb202018b8dde1c68620902f4aa3f5b23c540b7ad7c118d97c152a718a119";
   };
   kamailio-mod-carrierroute = {
     version = "6.0.1-r2";
@@ -5759,7 +5759,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-carrierroute-any" ];
-    sha256 = "9c0efc71dbfc6f71944342a90d6bc0ded145f67443f6fb378089b3437ac234cd";
+    sha256 = "0fb65f6c14ff2b3144ad7cba662e8522c3c16a9eb9b6681b8855418798d53443";
   };
   kamailio-mod-cdp = {
     version = "6.0.1-r2";
@@ -5770,7 +5770,7 @@
       "libopenssl3"
     ];
     provides = [ "kamailio-mod-cdp-any" ];
-    sha256 = "d69128a81a35792d1e5ec184a63b8988537bce9615c210ad236a66f6906c1452";
+    sha256 = "ff48fb5aed49ffb24c6f7a679ebc0d821c257b078b9f9ded407de7448fff3086";
   };
   kamailio-mod-cdp-avp = {
     version = "6.0.1-r2";
@@ -5781,7 +5781,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-cdp-avp-any" ];
-    sha256 = "de16a748560973aada0ea924c935acc2e76332ebd3f38d2ba5bd9d111316d241";
+    sha256 = "4bc30cb9a59c0454f173b1c1497780d3999b467f304d42b292d63d6b99fb71c6";
   };
   kamailio-mod-cfg-db = {
     version = "6.0.1-r2";
@@ -5791,7 +5791,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-cfg-db-any" ];
-    sha256 = "b0440e90ddc0ebf0d350cc2e07c674d163f979ce47cf0394f6f0599bb2e69195";
+    sha256 = "c8616d300d2430214ce8efc16aeb7bff0eaaa7e0f8844cf1b2dc27e150003b41";
   };
   kamailio-mod-cfg-rpc = {
     version = "6.0.1-r2";
@@ -5801,7 +5801,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-cfg-rpc-any" ];
-    sha256 = "067eeb87e7b316ab1f481974bc5ed1221b6b18e7f22efde34d9d528eb9ac8b4b";
+    sha256 = "657eef8dee8dd2747bcb441a779acfa01db1ce831c6d25cfdf8d775bd96093d6";
   };
   kamailio-mod-cfgt = {
     version = "6.0.1-r2";
@@ -5811,7 +5811,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-cfgt-any" ];
-    sha256 = "d5b6e4a07571c9943e76eeef45de1b950393e734436bd82cefb500a6367148fd";
+    sha256 = "6c064a28541948aee7c0ca1457279c0bd3e6955b3446aa36358f383e2f737178";
   };
   kamailio-mod-cfgutils = {
     version = "6.0.1-r2";
@@ -5821,7 +5821,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-cfgutils-any" ];
-    sha256 = "53d38dc0bac41309eb8bb2c82a4da6457f7fef10d68ae9ddbda4fe3453e19dfa";
+    sha256 = "1a8e2c09348e43e546d0107461a96d7e04f0dc520e6c6931388724dd53cedc0a";
   };
   kamailio-mod-cnxcc = {
     version = "6.0.1-r2";
@@ -5834,7 +5834,7 @@
       "libhiredis"
     ];
     provides = [ "kamailio-mod-cnxcc-any" ];
-    sha256 = "1c69586f251ddcb831099246307c552b1b1e7b5eec702144f51131263eb76d27";
+    sha256 = "6dfa2f630e4c55fa213c66f3ff7b9801c502beb4292e662c085ac7539ad8aad2";
   };
   kamailio-mod-corex = {
     version = "6.0.1-r2";
@@ -5844,7 +5844,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-corex-any" ];
-    sha256 = "b5ebb78b7f1adf73017b09220f20093f530705291ffaa044f201a046006c1298";
+    sha256 = "c1f35915e791fff97979b3d3949b702ec648b13503c373054469b8eefe1636d3";
   };
   kamailio-mod-counters = {
     version = "6.0.1-r2";
@@ -5854,7 +5854,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-counters-any" ];
-    sha256 = "cceff5f46ba8993233ceb0e9de8325769a4bfee2b419c313b4617a172dd45f66";
+    sha256 = "f5aa04cce0072a421d3f1c403c0b8be1bf45a0ad25583c35ce6d930408aa1a64";
   };
   kamailio-mod-cplc = {
     version = "6.0.1-r2";
@@ -5867,7 +5867,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-cplc-any" ];
-    sha256 = "7e9395d69e1062d9c55e6e7c292120bf66de0c6aa603fb144e0fc423c727e6c0";
+    sha256 = "7bb189e34a04616ec6be695509b47cfb08d0bc007428deccdf7c6ae78b54c7e6";
   };
   kamailio-mod-crypto = {
     version = "6.0.1-r2";
@@ -5878,7 +5878,7 @@
       "libopenssl3"
     ];
     provides = [ "kamailio-mod-crypto-any" ];
-    sha256 = "7cd3f841d8c03637cbc65dd0778a743cec49d77655fd0887459917c5eafbf1ee";
+    sha256 = "3a5a0964788c8a3ded3952bdf690cefdbe3f3576b8bb81ac50c5c0a895f855a5";
   };
   kamailio-mod-ctl = {
     version = "6.0.1-r2";
@@ -5888,7 +5888,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-ctl-any" ];
-    sha256 = "7b3940cab29f2ecbba6d7e0584003fb2ac4422ecb0505ba8b79afbbeee861821";
+    sha256 = "e1de1393a04aeaec7705f613d0905ace7f976724405a5ad8c1bcc2c1536aae70";
   };
   kamailio-mod-db-berkeley = {
     version = "6.0.1-r2";
@@ -5899,7 +5899,7 @@
       "libdb47-5"
     ];
     provides = [ "kamailio-mod-db-berkeley-any" ];
-    sha256 = "39faf392c95217337467395d447ee89e172d762e7bf471335f7aba9f1b059945";
+    sha256 = "866783d53d5b5c751bc56b70a0bd95a677ccd0783dc8fc6fc2fc49388eeb6258";
   };
   kamailio-mod-db-cluster = {
     version = "6.0.1-r2";
@@ -5909,7 +5909,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-db-cluster-any" ];
-    sha256 = "88e82a5b8b24e023c84d1fc14d365569af9702f17dad113e064597ac8ead0ae2";
+    sha256 = "6ade75574f7c42f7715afba247e19a17e9005b10ff7915baf4fef63893501a60";
   };
   kamailio-mod-db-flatstore = {
     version = "6.0.1-r2";
@@ -5919,7 +5919,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-db-flatstore-any" ];
-    sha256 = "17ad45b2c481e33feed086174ba2fb9bd6acb9080851c76a771f0898443a3957";
+    sha256 = "705eb5e5a36611fcc7417deccf628ade8015be8dcb8bd513070aff0a626f07c7";
   };
   kamailio-mod-db-mysql = {
     version = "6.0.1-r2";
@@ -5930,7 +5930,7 @@
       "libmysqlclient3"
     ];
     provides = [ "kamailio-mod-db-mysql-any" ];
-    sha256 = "98ccfe6a8424fc127847e4e42ef4b129274a73954bce56262e775904cd961c73";
+    sha256 = "6248aa8421dd8dac0fb7eb7356fb06be03549225611ae73b9f5aad16106677dd";
   };
   kamailio-mod-db-postgres = {
     version = "6.0.1-r2";
@@ -5941,7 +5941,7 @@
       "libpq"
     ];
     provides = [ "kamailio-mod-db-postgres-any" ];
-    sha256 = "3a5916026488272e21548b398ea0699e03db11e308cb8d726d5a410dd345e941";
+    sha256 = "5339230d564f73fc49c9b1ac81b8a83726ce57ed4e4cf817c6ddae0f259c2203";
   };
   kamailio-mod-db-redis = {
     version = "6.0.1-r2";
@@ -5952,7 +5952,7 @@
       "libhiredis"
     ];
     provides = [ "kamailio-mod-db-redis-any" ];
-    sha256 = "f7b740d04b12b126bef6c5bf91574fa21b1c3fa6be417ea80a0c81ddc2ff8d54";
+    sha256 = "267c953a9846a24d282bdeee755645d29c5a400c7b48b505d58933ac92f3fc2b";
   };
   kamailio-mod-db-sqlite = {
     version = "6.0.1-r2";
@@ -5963,7 +5963,7 @@
       "libsqlite3-0"
     ];
     provides = [ "kamailio-mod-db-sqlite-any" ];
-    sha256 = "976b1442f63ad48a8fda739f5b5142695452380d8167cbb1c694552369357ef6";
+    sha256 = "3f7166cea0449b7a65aef6492c232bd198fe8409c38c482935e992b0cd0c15b1";
   };
   kamailio-mod-db-text = {
     version = "6.0.1-r2";
@@ -5973,7 +5973,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-db-text-any" ];
-    sha256 = "2e5c06d1e3ed0d4230ea43d8459ee2401c2586f055ec87a99e15cb92abdd2398";
+    sha256 = "8d184237649e8530fa0f73775aa0d8e57a301f32a58d00db1ae0440eebf15f00";
   };
   kamailio-mod-db-unixodbc = {
     version = "6.0.1-r2";
@@ -5984,7 +5984,7 @@
       "unixodbc"
     ];
     provides = [ "kamailio-mod-db-unixodbc-any" ];
-    sha256 = "37f31706c01a13cd3e148a11dc5d754685638fdd4411de3946e7d305a4044263";
+    sha256 = "faf76fede931cddfc54ebf07b36727e7633548a89b06bf731c4c994b474016f1";
   };
   kamailio-mod-db2-ldap = {
     version = "6.0.1-r2";
@@ -5995,7 +5995,7 @@
       "libopenldap"
     ];
     provides = [ "kamailio-mod-db2-ldap-any" ];
-    sha256 = "1de68b2b124f4aa1af15c428f3e28b9e2dd569a625849428cd14dc4b622a00d4";
+    sha256 = "7f9cd6414622de94c4a5d37c7a8c9df4ea4ffb092c866d785dce0a937a7f738a";
   };
   kamailio-mod-db2-ops = {
     version = "6.0.1-r2";
@@ -6005,7 +6005,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-db2-ops-any" ];
-    sha256 = "416edbd7ebe3b3ed5079dc86f045bbc03cd8b5a386d1a824e04d5eb9e8e79d93";
+    sha256 = "7e9c66e402d0c9e277b221dfecb012ac89309d83cd957f9038dc59a41c137ccf";
   };
   kamailio-mod-debugger = {
     version = "6.0.1-r2";
@@ -6015,7 +6015,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-debugger-any" ];
-    sha256 = "cdab623d035f25620ba9eac1cb05fbd38a4bbb6c56878e2c52cf1c80e888350f";
+    sha256 = "a266af00e004fd3ccdcf44700327b2b5b301b8ec606faf52bb33d43e315700e7";
   };
   kamailio-mod-dialog = {
     version = "6.0.1-r2";
@@ -6027,7 +6027,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-dialog-any" ];
-    sha256 = "9abdab237a3386b08c8e7ecb84d5b583562f8f0968acd3409e983b4af181ab8c";
+    sha256 = "7afef0b86273a96310018e19183aad8394dc1c3e8bb275fde015c7336b3921b5";
   };
   kamailio-mod-dialplan = {
     version = "6.0.1-r2";
@@ -6038,7 +6038,7 @@
       "libpcre2"
     ];
     provides = [ "kamailio-mod-dialplan-any" ];
-    sha256 = "ce28800e2ab548adb358fe45a843cbbaf7c3854543f824e31cc746a76be69b9a";
+    sha256 = "fbe124cafec5d41e2ba6625af66ade49d6075081b2387340e38dafb5d8cfb579";
   };
   kamailio-mod-dispatcher = {
     version = "6.0.1-r2";
@@ -6048,7 +6048,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-dispatcher-any" ];
-    sha256 = "08483fb948d5458542b9493eac617bcd420175f161c41438fbb4da98e3413582";
+    sha256 = "9ae0a781dae227d79b94c0b21e0e745defc5e13d399e604d46725d12707d4d78";
   };
   kamailio-mod-diversion = {
     version = "6.0.1-r2";
@@ -6058,7 +6058,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-diversion-any" ];
-    sha256 = "9c097eee2079f0948c61ca6e0eaa8b9e06ab3347751172779cf217ad8d1e20ac";
+    sha256 = "3ca3cf27f34b14f9f99a91d621944aea1defdb01f87d7c07c607ad194cb789d0";
   };
   kamailio-mod-dlgs = {
     version = "6.0.1-r2";
@@ -6068,7 +6068,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-dlgs-any" ];
-    sha256 = "6387d3189fef60d700a761a4b9d7ff25c64d994cedaff66d20a4dde11133d0ec";
+    sha256 = "8da4ea7d2589095a4c1adc91c4e4c9e7343074098b9e7768dfffc023406057a3";
   };
   kamailio-mod-dmq = {
     version = "6.0.1-r2";
@@ -6080,7 +6080,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-dmq-any" ];
-    sha256 = "b1aa214bae300a54acf5b5b3f2a9662177bde05e56e8bce76c624ce1bf1e2530";
+    sha256 = "870b9f79f2b0fddcdf6df4643782a9e756cb54f5341faa470b12afa885f78c3d";
   };
   kamailio-mod-dmq-usrloc = {
     version = "6.0.1-r2";
@@ -6092,7 +6092,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-dmq-usrloc-any" ];
-    sha256 = "95eabcb8d395303c35acf6c54a73e22f9e34ffea1a0910ac99cf6fbf769b38a6";
+    sha256 = "4713906f19597738675691bb2b85bfc10cfd028a7423e47d131ea78c62e8e58e";
   };
   kamailio-mod-domain = {
     version = "6.0.1-r2";
@@ -6102,7 +6102,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-domain-any" ];
-    sha256 = "a8fd66eee25aef6f32dfc710301fd04862636b812ffa9f03ff81b5353aed1ced";
+    sha256 = "332c8b656386cb27e948f5dd4152a1aad98d52faed70c5fae6291cf1c86349aa";
   };
   kamailio-mod-domainpolicy = {
     version = "6.0.1-r2";
@@ -6112,7 +6112,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-domainpolicy-any" ];
-    sha256 = "3482899285f94803c167786f5e93075e5c01aab046bae9058861597b4b524cca";
+    sha256 = "65c19ca796ecdc0caf9eb3b010d0b49e8b19e393ac4911a1fcb1be280b47ea02";
   };
   kamailio-mod-drouting = {
     version = "6.0.1-r2";
@@ -6122,7 +6122,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-drouting-any" ];
-    sha256 = "4cc4ca9be4a1a3e9d480e31e1383cd6b3c5a04689f4534d54b0c32d011338359";
+    sha256 = "c057d3406fe0ba5e8879ff7631ad06f7941787ceeb36153980c9e1dfd321f7c1";
   };
   kamailio-mod-enum = {
     version = "6.0.1-r2";
@@ -6132,7 +6132,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-enum-any" ];
-    sha256 = "bcd2fc44dabe29e85b5f17b96303fa59ffb0838f45d3e27db744559de14b839a";
+    sha256 = "915ec2c0c5a5314364fe08d0e9ee8ada0ec46b62c974185c9d977819088f84a7";
   };
   kamailio-mod-evapi = {
     version = "6.0.1-r2";
@@ -6143,7 +6143,7 @@
       "libev"
     ];
     provides = [ "kamailio-mod-evapi-any" ];
-    sha256 = "d719f89055ab042cd8879054cd1ddb82d9b466be4303f751fd50375f00af5bb2";
+    sha256 = "dd3a1de8a469f23cfbb71d3c91bb08858a36b9865ba8001aa2f8b10d8b769d95";
   };
   kamailio-mod-evrexec = {
     version = "6.0.1-r2";
@@ -6153,7 +6153,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-evrexec-any" ];
-    sha256 = "5b9b89913f941a7d5317fcefbc0d459363f49ec88b8b6ed6eaa2e564dcd43dde";
+    sha256 = "9c5814fa4f46014aefa190e0c4bdf2262192315d495df162ddbc614bdcc4fabb";
   };
   kamailio-mod-exec = {
     version = "6.0.1-r2";
@@ -6163,7 +6163,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-exec-any" ];
-    sha256 = "8f6d29d17e858a99e000ef1e782d9fc0c41804337f1a3dbb9f032bb861c32b96";
+    sha256 = "d3a950777ba948474b740f377fd26654e80a3369ed57a0568f0b365486bc6bc3";
   };
   kamailio-mod-group = {
     version = "6.0.1-r2";
@@ -6173,7 +6173,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-group-any" ];
-    sha256 = "244761916acfc8934cc8f85ad7e5d9ffe54d247bd152addfefeee0a55bdca72a";
+    sha256 = "156990c89e36283f764faa2e89fbf4b5e34e8e8e1dd6602075e4dfa94a8a8b5e";
   };
   kamailio-mod-gzcompress = {
     version = "6.0.1-r2";
@@ -6184,7 +6184,7 @@
       "zlib"
     ];
     provides = [ "kamailio-mod-gzcompress-any" ];
-    sha256 = "04ebecd562230b47301ade96328429a4bee06d9358aaf69beb75413e7584ced6";
+    sha256 = "ff77e14b03d6e2e3f3c6d1edbc941c3b92562ab6265ca77a251a2790acead3cf";
   };
   kamailio-mod-h350 = {
     version = "6.0.1-r2";
@@ -6196,7 +6196,7 @@
       "libopenldap"
     ];
     provides = [ "kamailio-mod-h350-any" ];
-    sha256 = "3304ef39dacebf4991050d7460faae026e95c5d182e304500b53c9d559a74069";
+    sha256 = "c40807ad7fea146546fa3b55756d2a9415cf5224ce91d4a2aa6fc2c9e8d1c88f";
   };
   kamailio-mod-htable = {
     version = "6.0.1-r2";
@@ -6206,7 +6206,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-htable-any" ];
-    sha256 = "7119c57b6d8480bab2e5584335d6e49442f9e29af3778872a41c868634767af6";
+    sha256 = "c8eb4eaf47a8d62fa0618abd0d94a3ce784d4bf00cbaea4132917b24c57f5dac";
   };
   kamailio-mod-http-client = {
     version = "6.0.1-r2";
@@ -6217,7 +6217,7 @@
       "libcurl4"
     ];
     provides = [ "kamailio-mod-http-client-any" ];
-    sha256 = "593b98072ab2dfd026e13852e1374db5f1cc67669aa491735f4e363d4aaeabd5";
+    sha256 = "45b9aa313b628a47458b766834fb05422909d6c1cee60c8b9f6b58cd19374c72";
   };
   kamailio-mod-imc = {
     version = "6.0.1-r2";
@@ -6229,7 +6229,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-imc-any" ];
-    sha256 = "d1032e0de7909734fe0bfb504205aded0329c6878f1a1467175c2a863d9f988c";
+    sha256 = "367170874d4f1f23e9acc40d30ef6754c90eb5c75e0740dc69be0e0146df9b52";
   };
   kamailio-mod-ims-auth = {
     version = "6.0.1-r2";
@@ -6242,7 +6242,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-ims-auth-any" ];
-    sha256 = "8f14085180c3b7191e45e6d70cd9498dde672f3e8ef93051f37234be193b86be";
+    sha256 = "75799332cc17f6b6416918dd93d30696ea39b696085f628e76b64940f49bc8b4";
   };
   kamailio-mod-ims-charging = {
     version = "6.0.1-r2";
@@ -6255,7 +6255,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-ims-charging-any" ];
-    sha256 = "97de31ea943ac8ff175fbafa1763ab035fd25bbcaa1627a3242efcee9470c80b";
+    sha256 = "79431d9a8d53e793c4e0020ad0ce38521061b2f34d0890a1a7777313ec975544";
   };
   kamailio-mod-ims-dialog = {
     version = "6.0.1-r2";
@@ -6267,7 +6267,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-ims-dialog-any" ];
-    sha256 = "062952917be2f82290028ab689eda59b1f740b6db5e5a3eaac937a3ce6ee2f88";
+    sha256 = "4ce62cdef11483a0127473aee414ca293b3497d8923b8c636690d74edbc87fc5";
   };
   kamailio-mod-ims-diameter-server = {
     version = "6.0.1-r2";
@@ -6279,7 +6279,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-ims-diameter-server-any" ];
-    sha256 = "4f9b20518096e96d3475ed245e6ca33bfaa2080eb0ab0d257ecd4df6566d4e26";
+    sha256 = "1f0aa043016705bb5e881077db0a702cf227d2c5bbefbfed672c7f7e740e6d91";
   };
   kamailio-mod-ims-icscf = {
     version = "6.0.1-r2";
@@ -6293,7 +6293,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-ims-icscf-any" ];
-    sha256 = "857d15294d51d42c4ca79c23455ea50a09f4bf9e4496c836373074cd9f8086fb";
+    sha256 = "02609e1d0d166a5498dd0a66ba7b973246adae600ef133a9fb32886d501a4ea0";
   };
   kamailio-mod-ims-ipsec-pcscf = {
     version = "6.0.1-r2";
@@ -6306,7 +6306,7 @@
       "libmnl0"
     ];
     provides = [ "kamailio-mod-ims-ipsec-pcscf-any" ];
-    sha256 = "613a1350bc01ac8e4809267490a2791bde076c9351e9e284ef56032034b6e88f";
+    sha256 = "df48f67b1ee78e7b5eca842292a3ba25a59998499771d6bcbd68b37b00596c53";
   };
   kamailio-mod-ims-isc = {
     version = "6.0.1-r2";
@@ -6318,7 +6318,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-ims-isc-any" ];
-    sha256 = "6782db900793a9904e13be76a32548a5fea0665ba934464ef2466dd22e51dc3e";
+    sha256 = "2a032ebcb10bc722d5676e2e85307ff0e6a88bc4ec9ea0934f99b7cf2c4d8a9e";
   };
   kamailio-mod-ims-ocs = {
     version = "6.0.1-r2";
@@ -6330,7 +6330,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-ims-ocs-any" ];
-    sha256 = "4acc18d5618f9b6a5c54ef4fbe27718b2b6dc80e581cb12cf07488d3db84c58f";
+    sha256 = "2f77d10c9434e132e94dba03d2f0f4d0ae43321260a14c4e81c7f374a01aee03";
   };
   kamailio-mod-ims-qos = {
     version = "6.0.1-r2";
@@ -6345,7 +6345,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-ims-qos-any" ];
-    sha256 = "b26ce4892c405032b701a21df99df3d92a6a9d2c3390bb1c0991774f0e1fa73f";
+    sha256 = "52d8bbc061c85935bb4f85da7b341424abf61dce9fd0432c851611fafc241f08";
   };
   kamailio-mod-ims-qos-npn = {
     version = "6.0.1-r2";
@@ -6359,7 +6359,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-ims-qos-npn-any" ];
-    sha256 = "7a19d879e10f67f74b2a675f57b78a23c8696123a4b70f062be3067b933c94ba";
+    sha256 = "3e7f8a7c22e42c41e6c7cc7c2927fcf3bacf3a6e8669192305d2192e75ef9a24";
   };
   kamailio-mod-ims-registrar-pcscf = {
     version = "6.0.1-r2";
@@ -6370,7 +6370,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-ims-registrar-pcscf-any" ];
-    sha256 = "dc6192d17b8e3e1e6e91114deb04d3dc3b5b94cd31c0e087c87885468045343c";
+    sha256 = "1322e6f6dcca2b03474ede87355ca45f40bda6616d82a3dfbf9b436ccd3b22aa";
   };
   kamailio-mod-ims-registrar-scscf = {
     version = "6.0.1-r2";
@@ -6384,7 +6384,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-ims-registrar-scscf-any" ];
-    sha256 = "76b60d86ce225048a1094db44781e194ece8a4640de7f7842da94c347b83ba5a";
+    sha256 = "2756e8ef1bfdbd3c7b84645b7fea1cb7f46eaf2505004707bafdc9d05f97bc64";
   };
   kamailio-mod-ims-usrloc-pcscf = {
     version = "6.0.1-r2";
@@ -6394,7 +6394,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-ims-usrloc-pcscf-any" ];
-    sha256 = "ab0f4ee87c1a182a96af1286ff6abbc0e2856be8ddcae20b01c5edb3a730e2ae";
+    sha256 = "77ebc0c28f9f09deca165affcc8e317fc990be20831292754043e2c591feefd1";
   };
   kamailio-mod-ims-usrloc-scscf = {
     version = "6.0.1-r2";
@@ -6404,7 +6404,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-ims-usrloc-scscf-any" ];
-    sha256 = "dbaec53ace89827d27f359392303bb4586336caebf86689e99d691885fcd126a";
+    sha256 = "d09e4bcd865e92d2d5114a2d7a0565b8cf2952b93a38e8f48ddee31b9172ac9d";
   };
   kamailio-mod-ipops = {
     version = "6.0.1-r2";
@@ -6414,7 +6414,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-ipops-any" ];
-    sha256 = "ceba896fddb40263c290047bec1df996cba6063c9ad8bc0dfd8836de2ad45b8f";
+    sha256 = "e4ac186670734fae064d07139ddfc9286804b9305327c42586cc7825271c9de6";
   };
   kamailio-mod-jansson = {
     version = "6.0.1-r2";
@@ -6425,7 +6425,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-jansson-any" ];
-    sha256 = "8a4e941d5c4e5ce334bba004b087b19b63335ddfafc52891d5a13254a06908d7";
+    sha256 = "5aebdc541280d5e8e6693518dbfe1c93a7b25bd51f49f3e791353e0a5ac47609";
   };
   kamailio-mod-janssonrpcc = {
     version = "6.0.1-r2";
@@ -6437,7 +6437,7 @@
       "libevent2-7"
     ];
     provides = [ "kamailio-mod-janssonrpcc-any" ];
-    sha256 = "21c2d278a74bd8c816d3e796233fa2b6da4d71b8773afc80bc7233f8a9dd1239";
+    sha256 = "bcdc9f253d51321c56b41df63ac9a2228d526e799d856b3239905134e0e3b202";
   };
   kamailio-mod-json = {
     version = "6.0.1-r2";
@@ -6448,7 +6448,7 @@
       "libjson-c5"
     ];
     provides = [ "kamailio-mod-json-any" ];
-    sha256 = "21738e0284d4bc05f7dd4448a5db33d095e4a69952f8519eb78bf1fefc33ce40";
+    sha256 = "a462f41f40578ed3e426c945f2bcd5fe6b39a5a4630f14ddd4589471dcb16931";
   };
   kamailio-mod-jsonrpcs = {
     version = "6.0.1-r2";
@@ -6459,7 +6459,7 @@
       "libevent2-7"
     ];
     provides = [ "kamailio-mod-jsonrpcs-any" ];
-    sha256 = "bb2de4d90e2bbc19214c7ef705c7089463ae0d61adeff6ebbef4ed33f1a2856a";
+    sha256 = "09ea78cbaa7e62bef15c7e7b23953e253d12c6e3a51424f535e7a78de94fad89";
   };
   kamailio-mod-keepalive = {
     version = "6.0.1-r2";
@@ -6470,7 +6470,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-keepalive-any" ];
-    sha256 = "ae7ee8a6161bc83514d285825f9464bf61cd4f637939f85d99f26c316b9cc3dd";
+    sha256 = "73c33da6facbf2233c92100f159196e5f17bdf95111ff8fb05038d37068720fc";
   };
   kamailio-mod-kemix = {
     version = "6.0.1-r2";
@@ -6480,7 +6480,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-kemix-any" ];
-    sha256 = "10ebc8d82bc0bac51e993179127484a97ceb7f4dd249dc129333a8aec4021d2f";
+    sha256 = "6c1d97e27737b008c2f8849074831f553bf63ed97c82941e42126da2a6c6006c";
   };
   kamailio-mod-kex = {
     version = "6.0.1-r2";
@@ -6490,7 +6490,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-kex-any" ];
-    sha256 = "092e966b4012e23bca433b32c20b41c58799ecf05ce254847a47df7e897a609c";
+    sha256 = "38a646b195809632a68fb5073e898f298189d240e750e366b3223fd33d288e67";
   };
   kamailio-mod-lcr = {
     version = "6.0.1-r2";
@@ -6502,7 +6502,7 @@
       "libpcre2"
     ];
     provides = [ "kamailio-mod-lcr-any" ];
-    sha256 = "549e8b9d328c5779108f9532d1b8167f9c4f7b2da6091ecbe4e88b02de9012c9";
+    sha256 = "63b6a2bdde58270a7e27d144170b7b66728315b5725b391f450a64d2cbbacaad";
   };
   kamailio-mod-ldap = {
     version = "6.0.1-r2";
@@ -6513,7 +6513,7 @@
       "libopenldap"
     ];
     provides = [ "kamailio-mod-ldap-any" ];
-    sha256 = "382f334ffc011bdbd3b651275feb25527cd912de00b351f833d326036644600d";
+    sha256 = "7887289fc5c77e8e6273a352827cf4f45d561189d144bbfc6cca8da8942a352a";
   };
   kamailio-mod-log-custom = {
     version = "6.0.1-r2";
@@ -6523,7 +6523,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-log-custom-any" ];
-    sha256 = "1ebdb57afd61761f4827ed5b3508e62331f907eaadb43b1d18d73e36c284e05b";
+    sha256 = "1fd316a825790414dedd371c263fcd29119984da61e06af4a50cfe98c07ab6a5";
   };
   kamailio-mod-lost = {
     version = "6.0.1-r2";
@@ -6534,7 +6534,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-lost-any" ];
-    sha256 = "a20bc9c09e1207dee7c90fc9429b45793e2146d7ca22778f3ae741f4770f5214";
+    sha256 = "8b28878a64fd94e17d9f27bddf87242dca9f70d9e934b361219d0ab4eac7257c";
   };
   kamailio-mod-lrkproxy = {
     version = "6.0.1-r2";
@@ -6544,7 +6544,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-lrkproxy-any" ];
-    sha256 = "c56b0792f7be22136d6496aa5fafa50b051fea1b95beb075c33f8b2efd05f305";
+    sha256 = "e28650adc5bb7529e5b42d3a84132fa61ecd14c5b4e12ac6047b9823fb5c7014";
   };
   kamailio-mod-mangler = {
     version = "6.0.1-r2";
@@ -6554,7 +6554,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-mangler-any" ];
-    sha256 = "7bb6fe73beb33f289bfee96a041efe5ff5ad33d7ec28c866c8902474a64c96d3";
+    sha256 = "4c1298a6948efef7dda468e839369a6eac8b3a6f6aaca61f4f6dce5a4c0ff224";
   };
   kamailio-mod-matrix = {
     version = "6.0.1-r2";
@@ -6564,7 +6564,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-matrix-any" ];
-    sha256 = "556ddd8886d9401e676f729d925ea89ca951f31ab0a85aef0ac6534b217c9bbd";
+    sha256 = "ffcf63f218c9b31488c70636973b924be283813773e943bf8c94dabd7002af35";
   };
   kamailio-mod-maxfwd = {
     version = "6.0.1-r2";
@@ -6574,7 +6574,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-maxfwd-any" ];
-    sha256 = "2fa61c7c25e8c74f85ec3340e3a83ecb43a9ab37ae978b2037718a615826f016";
+    sha256 = "752370fbbc00ea305e70662018fea243e3fa1b7acfa6cc6e15fc14c8a22b30c3";
   };
   kamailio-mod-mediaproxy = {
     version = "6.0.1-r2";
@@ -6585,7 +6585,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-mediaproxy-any" ];
-    sha256 = "00147f481b341b992ee449fa6f2b9b46c7f049648cd8cde9d0a73aab5936d4f3";
+    sha256 = "a33980f1a57bb5f13639c51a1e8ab26ac664d2f7a82d86f49667c1702dd80b46";
   };
   kamailio-mod-misctest = {
     version = "6.0.1-r2";
@@ -6595,7 +6595,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-misctest-any" ];
-    sha256 = "719621b374454d1397587ba17985a25388ded3e96a6e30cdb15bbb62d856843d";
+    sha256 = "ee0219107671b5350e6b5efdbc5ff17ecc5643b582009d77fe95c9b73d6c2d32";
   };
   kamailio-mod-mohqueue = {
     version = "6.0.1-r2";
@@ -6608,7 +6608,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-mohqueue-any" ];
-    sha256 = "ea84554562b99a3db2783c2d5a0950bc2caf537d1c47ff5bbbe33a4095996820";
+    sha256 = "3fce9a922b25bf23a4abe236096c0e47c86f5a9bfb1481f8f4781195806f299c";
   };
   kamailio-mod-mqueue = {
     version = "6.0.1-r2";
@@ -6618,7 +6618,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-mqueue-any" ];
-    sha256 = "7f1bac6293307105fb7197982ec26e3c760ff88cfdef24bdd6b8e41eadd557d9";
+    sha256 = "df670b53917b1d16b5445d4db9601afbb0ab2e7b3e9713804131704b2b6bc48c";
   };
   kamailio-mod-msilo = {
     version = "6.0.1-r2";
@@ -6629,7 +6629,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-msilo-any" ];
-    sha256 = "fefcb9a384d9b7d238e4a1771c206ee8c3043fd4f6c84122afbf6171d60a45a8";
+    sha256 = "d85a8250a2b3ce0cc40d134de4ac6222772c07e12f26785972eae2d13acbede8";
   };
   kamailio-mod-msrp = {
     version = "6.0.1-r2";
@@ -6640,7 +6640,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-msrp-any" ];
-    sha256 = "e227a1cb02ce9eb619d03fb896f3aae67c4b41a9adc6c70e2d5725772a985e65";
+    sha256 = "2302e99a121a63de9f5a2eaad59f21985efac2ca6149e31456c82727079c13fe";
   };
   kamailio-mod-mtree = {
     version = "6.0.1-r2";
@@ -6650,7 +6650,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-mtree-any" ];
-    sha256 = "265c9780c65232f51a54137c92237daa8ebde1d3fd62bc6d8f21ab9ff784c985";
+    sha256 = "202f7d5ce2f8e1384ac33e579399f52277a5b0b595ca07cc2300c393c8758abf";
   };
   kamailio-mod-nat-traversal = {
     version = "6.0.1-r2";
@@ -6663,7 +6663,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-nat-traversal-any" ];
-    sha256 = "ec5730e93f284062d55d380f1b073c4b14e0efcc855bfcc488cd0c15ca54dc24";
+    sha256 = "4ce68c679937775ec108f19a216d6bfb732b5fe5c6bb6de1f31ca11995cd0eac";
   };
   kamailio-mod-nathelper = {
     version = "6.0.1-r2";
@@ -6674,7 +6674,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-nathelper-any" ];
-    sha256 = "c915f858e3adb291350744d9ec392fba498b6efb0d99035ad70bbc6794bcf4f6";
+    sha256 = "e7afec597a61a50a9103968bcfab1c03156bfd2c95af99722914338d42c475ce";
   };
   kamailio-mod-ndb-redis = {
     version = "6.0.1-r2";
@@ -6685,7 +6685,7 @@
       "libhiredis"
     ];
     provides = [ "kamailio-mod-ndb-redis-any" ];
-    sha256 = "2205ad5134a4c13e5673f7665fa19b086615e9a2920b61ee24f14f1b197bc5ab";
+    sha256 = "e19da465daa5bdd2b8b84687fac53aa63093bbb6e833fbe6507d5522359ce219";
   };
   kamailio-mod-nghttp2 = {
     version = "6.0.1-r2";
@@ -6699,7 +6699,7 @@
       "libopenssl3"
     ];
     provides = [ "kamailio-mod-nghttp2-any" ];
-    sha256 = "1c7e2240c352fa30dbb768f4c9cf2aeb3b9e3e45eb2cff1854d613bb13f4a4a3";
+    sha256 = "7fb38c8997254ccb6305113d8c3d3985a7e046b6cb57b956a2a0043e55f3d397";
   };
   kamailio-mod-nosip = {
     version = "6.0.1-r2";
@@ -6710,7 +6710,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-nosip-any" ];
-    sha256 = "70ba415678dccf3da00b715e93c929bb9ab7334b88b5098a7ebc21c7cefba3d2";
+    sha256 = "f0be40d1561672a82ed1e103241cc04f5a19786e9776988d383ae48978123db8";
   };
   kamailio-mod-outbound = {
     version = "6.0.1-r2";
@@ -6722,7 +6722,7 @@
       "libopenssl3"
     ];
     provides = [ "kamailio-mod-outbound-any" ];
-    sha256 = "c9e22d375e7dd43975e396b91d4990a4373fabe233a7a284bc82d4e4cd200645";
+    sha256 = "1f694c314c68943fe025704ea3d4847d8574fe71be170d0b696be5a1ec1020d0";
   };
   kamailio-mod-p-usrloc = {
     version = "6.0.1-r2";
@@ -6732,7 +6732,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-p-usrloc-any" ];
-    sha256 = "f0b58f016c2282ac89f53cefd75d89c7b619ea230b533dcab5b7e841dcc12471";
+    sha256 = "b2368ae15adf43c211bb2b12e0bae4fd3b3bfc91b259866f077352a7ba6cdcf9";
   };
   kamailio-mod-path = {
     version = "6.0.1-r2";
@@ -6743,7 +6743,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-path-any" ];
-    sha256 = "fe00895bca8315a34a54ad3b813946d50416fcc26c2a5cd1334bc0773ab9ac32";
+    sha256 = "eb26bd8ef5013cd629bc0746ce4279a0783baa6162ca68555763255f765b3391";
   };
   kamailio-mod-pdb = {
     version = "6.0.1-r2";
@@ -6753,7 +6753,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-pdb-any" ];
-    sha256 = "5863762e390865162865b61886863d5c507f3705b53a320eb75e9072b84fa87d";
+    sha256 = "846259282a88c5c01cf9e158c90742d41826cec86f77db029e2b7352d90c25a5";
   };
   kamailio-mod-pdt = {
     version = "6.0.1-r2";
@@ -6763,7 +6763,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-pdt-any" ];
-    sha256 = "eedd2e9bc8a9839a4d3cb1d253caf6af7ae0e0063b4799a745e6f73e769e8ff9";
+    sha256 = "da2c26452ac454e692779c9004464f58cf00a9f7a704ed1ea8ab5f3454aae877";
   };
   kamailio-mod-permissions = {
     version = "6.0.1-r2";
@@ -6773,7 +6773,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-permissions-any" ];
-    sha256 = "3a89d42c9cef17d3386aeb9d475c86ba86560afaa41deff3a52bc32134bb1392";
+    sha256 = "6f85f0b6d879e25777ef67af632b068082c6d98edaf92b15a06efc341d2f1693";
   };
   kamailio-mod-pike = {
     version = "6.0.1-r2";
@@ -6783,7 +6783,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-pike-any" ];
-    sha256 = "19119a2dc72421d72ac009fe477159949d8591946403898034e57e12495cfff2";
+    sha256 = "4f8b7169f075de648f8aea56fb6fb45c7b849d4d5d3148e0107de632f2331688";
   };
   kamailio-mod-pipelimit = {
     version = "6.0.1-r2";
@@ -6794,7 +6794,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-pipelimit-any" ];
-    sha256 = "4e114c97c3c30429415cbbda8e464ad6af3a8c726be8ba4317052b62811ae15e";
+    sha256 = "04136452d743d4cb02ddce6210af39cf1f4fc705730ca295dbe952aafe4d7c19";
   };
   kamailio-mod-posops = {
     version = "6.0.1-r2";
@@ -6804,7 +6804,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-posops-any" ];
-    sha256 = "f2a1b05e7988a17d76f9416ab0859875a1c7a49ad5b70ff94f1dd3da136de795";
+    sha256 = "22794de6d22f1fc9073a724ae45f5d847c0ee93f5e78b6cfbe8f50c70882dfbe";
   };
   kamailio-mod-prefix-route = {
     version = "6.0.1-r2";
@@ -6814,7 +6814,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-prefix-route-any" ];
-    sha256 = "e206361880d07b23cd584c1c3ea52360ec6d13f34c777d29d004963203625feb";
+    sha256 = "a648acfe37d68c96f7531a61ebec9ad322e864852ddcb028ffb42b5ae4b07c93";
   };
   kamailio-mod-presence = {
     version = "6.0.1-r2";
@@ -6826,7 +6826,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-presence-any" ];
-    sha256 = "9210ab343cb0ca35186e5abbc4fc34f2b82a55cf8b469ad415a10a242b909ad2";
+    sha256 = "e3413eedc87616439c8473001398938cd9abeb7d4c83b4c3336f20d2eeb02ba7";
   };
   kamailio-mod-presence-conference = {
     version = "6.0.1-r2";
@@ -6837,7 +6837,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-presence-conference-any" ];
-    sha256 = "5900b107f0839e2e63d5f07cd7b74856bc5eadc58c9cc4f3b853c49c02b72384";
+    sha256 = "0024a88f4ce35c37f3ecdab5b894c32e535b32a20fec8b0173e14d4bcd703165";
   };
   kamailio-mod-presence-dfks = {
     version = "6.0.1-r2";
@@ -6850,7 +6850,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-presence-dfks-any" ];
-    sha256 = "668bf56d41a7668682e789cae40ff768dd1d904993906ef3f573e2f7215fc6f1";
+    sha256 = "07f14f2409d8158cded7f3582751699a7e7774efe39aa42efb43a48bc9daba53";
   };
   kamailio-mod-presence-dialoginfo = {
     version = "6.0.1-r2";
@@ -6861,7 +6861,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-presence-dialoginfo-any" ];
-    sha256 = "4195fd93fe5d3e0163f076db74948b1252ec7544b3c62f3c55de2e8151b1d77c";
+    sha256 = "7dccb8a15ee4ab0a2feed571833b0b67557e43b374dd29160b09825a36b38846";
   };
   kamailio-mod-presence-mwi = {
     version = "6.0.1-r2";
@@ -6872,7 +6872,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-presence-mwi-any" ];
-    sha256 = "bea892dfbdaaaf64dfdd6ff086fe4187d3f563af744c83be505717e47b7a65b9";
+    sha256 = "321b696742031a40f8a2defb6c5ccb7cef86df9bb7da11dca579c51ce1c3e504";
   };
   kamailio-mod-presence-profile = {
     version = "6.0.1-r2";
@@ -6883,7 +6883,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-presence-profile-any" ];
-    sha256 = "b0f4c3929538d58715cfb5e2364b4d1301ea8caddeaf91bed71c8126963482da";
+    sha256 = "b6023b895cb1b3ad41c29e69aa0ad94f052665854bcf4d522e3744909d7d134a";
   };
   kamailio-mod-presence-reginfo = {
     version = "6.0.1-r2";
@@ -6894,7 +6894,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-presence-reginfo-any" ];
-    sha256 = "a9b721dea004625ac4bb27f71078c333647154f4132e8d34ac329be881b04923";
+    sha256 = "d0a0d78dad2ff48634c19df8d3aa28aacf1a8acebb78f84d104d246fd72418be";
   };
   kamailio-mod-presence-xml = {
     version = "6.0.1-r2";
@@ -6906,7 +6906,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-presence-xml-any" ];
-    sha256 = "fcf126db80b50689313111ca1046e3e01ca9ebcab1907a44bec6cc2c93001bfa";
+    sha256 = "b2e835cc02e336e8ce65011f084d4e9fea03cbed57a78f011139344e4798fe13";
   };
   kamailio-mod-pua = {
     version = "6.0.1-r2";
@@ -6917,7 +6917,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-pua-any" ];
-    sha256 = "f4e30df51b231ee04f52e81d9e998b1f7afe68cd1c52a46d4db71c8f837bf8c9";
+    sha256 = "321d94823ca60bbc6051b4c4f6432ba0de00cb18f886ff3b27223b8e42aeb360";
   };
   kamailio-mod-pua-bla = {
     version = "6.0.1-r2";
@@ -6930,7 +6930,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-pua-bla-any" ];
-    sha256 = "79c0655cb22f08e9eae7a96d48584e63de42220098e37851b730e84a8d70810f";
+    sha256 = "d8f9b211e5739076a2a55fdcd09f61d2d6dcc75d3b4e79e3327c64e5e2596294";
   };
   kamailio-mod-pua-dialoginfo = {
     version = "6.0.1-r2";
@@ -6942,7 +6942,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-pua-dialoginfo-any" ];
-    sha256 = "27dd07113f435aee7a756556508a5081696b783894dc1f64ef6b97354f63f001";
+    sha256 = "e9a94f142e16ea018e18bca124874598474e7d0638eaf89ef0e6b2079ae09bef";
   };
   kamailio-mod-pua-json = {
     version = "6.0.1-r2";
@@ -6953,7 +6953,7 @@
       "libjson-c5"
     ];
     provides = [ "kamailio-mod-pua-json-any" ];
-    sha256 = "440eb5bdc5b2f4825dd29408cbb58d4cfb58fe56211b4586a9440469ef6eec72";
+    sha256 = "c68fe9c83ed2f41a4897235dc04e1c27f8c5feefd5d06a9252ce5351731cc39c";
   };
   kamailio-mod-pua-reginfo = {
     version = "6.0.1-r2";
@@ -6965,7 +6965,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-pua-reginfo-any" ];
-    sha256 = "58ab588dbcbab8aa7b29a90181d217884ecde28984611785e1ba146f2940498d";
+    sha256 = "c8a7e8b65290e01b216832a73fa7fcb98b3ea2f3735eb1b888438affeeb9b7c8";
   };
   kamailio-mod-pua-rpc = {
     version = "6.0.1-r2";
@@ -6976,7 +6976,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-pua-rpc-any" ];
-    sha256 = "5786c0ed67dc3624ce29261042d4fc6541de4a3ce4261ad92b3d0075d7b5e047";
+    sha256 = "6cf1b29e98820f7ae40cba6419d7ad0894f9b33cabe526d2bee664242eb5a6de";
   };
   kamailio-mod-pua-usrloc = {
     version = "6.0.1-r2";
@@ -6988,7 +6988,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-pua-usrloc-any" ];
-    sha256 = "be155890858bad3f9bb0bfc7dc7fb604da6c4073c3bc82afb7f7225695295aac";
+    sha256 = "09ed5a94721abe77966c449466d3795a7d239c7299b861ab9ecd7534128cb722";
   };
   kamailio-mod-pua-xmpp = {
     version = "6.0.1-r2";
@@ -7001,7 +7001,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-pua-xmpp-any" ];
-    sha256 = "496a424de519c606a5797ffd732efd1bf29f00629e9b9033c1e3e5715466589c";
+    sha256 = "4ffc150c7b07d51a4451e5e8712047893f565f0730f004aed285e438489e6e63";
   };
   kamailio-mod-pv = {
     version = "6.0.1-r2";
@@ -7011,7 +7011,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-pv-any" ];
-    sha256 = "d1b0118440e4dba7addfb9040d534b12cbbae40b926f99e697d4fba79465ecf2";
+    sha256 = "ace174e83a19de93f2e3683fec91885b4dc29a83cbb296852891c30d40c247bb";
   };
   kamailio-mod-pv-headers = {
     version = "6.0.1-r2";
@@ -7021,7 +7021,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-pv-headers-any" ];
-    sha256 = "8adfd47899cc5bd28a4ac81994f676d42f687eea5f1d858dfb07d256fd8714c9";
+    sha256 = "788617f229efa059df88069ec923e652f4a868216528d1b743effa0ea27a3c2b";
   };
   kamailio-mod-pvtpl = {
     version = "6.0.1-r2";
@@ -7031,7 +7031,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-pvtpl-any" ];
-    sha256 = "fd735a178e2395f7f8d12b09edfdbd195de3253477bb00431cbcbf17e15cd20e";
+    sha256 = "11769671d53567749d33baca516266568d0a28b5a0af32a4be2c47b7af1227dd";
   };
   kamailio-mod-qos = {
     version = "6.0.1-r2";
@@ -7042,7 +7042,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-qos-any" ];
-    sha256 = "a2f2474bdda1de7c2375c6765f6e425c6c8a2db5bc7da33a6f6591756ebb4aec";
+    sha256 = "bfde97513cda1260dc4d6870fbd23528dbd2802f1246255979921373a76ee730";
   };
   kamailio-mod-ratelimit = {
     version = "6.0.1-r2";
@@ -7052,7 +7052,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-ratelimit-any" ];
-    sha256 = "10f862b8da324b44a472732feb744a5faea6c97eee477e1539c25c9d0ce3d535";
+    sha256 = "4c9153d3711ff5ce20ae380ee5a835b338913d02b792dd5912237840cef3ecc5";
   };
   kamailio-mod-regex = {
     version = "6.0.1-r2";
@@ -7063,7 +7063,7 @@
       "libpcre2"
     ];
     provides = [ "kamailio-mod-regex-any" ];
-    sha256 = "c77eb64a3d88bab0c818eed0c0fc70f9e0a3807bafeac4568d5ba73f731be015";
+    sha256 = "7f0e6a2d045aefccc4a2b8759343af0ce7e7681069d7ee8997149e3201fceab0";
   };
   kamailio-mod-registrar = {
     version = "6.0.1-r2";
@@ -7074,7 +7074,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-registrar-any" ];
-    sha256 = "d2fbe18c0873e22b33c2ba53911ecd809639da85c65af73e91e70c4956dba149";
+    sha256 = "72887611a1d6a8c832ab84dc36ae775ca853e62a98eef1ebb704787b31d6032e";
   };
   kamailio-mod-rls = {
     version = "6.0.1-r2";
@@ -7087,7 +7087,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-rls-any" ];
-    sha256 = "f40fac14ac60c9dd7d6880de7dc3caaa8a1c79092afab3980a09aec3efea7ce8";
+    sha256 = "6132fb2be06fdd338dabf4315a94f588d4ebb5678cc88aa227056e9ff92813a8";
   };
   kamailio-mod-rr = {
     version = "6.0.1-r2";
@@ -7097,7 +7097,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-rr-any" ];
-    sha256 = "b5fc54246742958d196717e82136ca9dc7584a0f0cbfa653f634bf4c958dbe4b";
+    sha256 = "b6efd75e99602705fda3d7709174c422b96a8f45d89902546ec6c08d1cd26508";
   };
   kamailio-mod-rtimer = {
     version = "6.0.1-r2";
@@ -7107,7 +7107,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-rtimer-any" ];
-    sha256 = "3861196f08604cd7dd4c3deb761fa13a6bb522e9eb4713d73bc3ef802a0b31d6";
+    sha256 = "2e74f2b0e9d67305d8df0da7cdfe940039b0a65475eebde99d703984f70cc73b";
   };
   kamailio-mod-rtjson = {
     version = "6.0.1-r2";
@@ -7117,7 +7117,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-rtjson-any" ];
-    sha256 = "214f3aa007263181f4934d948a8de308f2988e33380d3ad870720ac95563320a";
+    sha256 = "6fbb1b76901fb94e7c228fa33dbf0d2b0ba1025b54d5198970f8d0bd7b0059c4";
   };
   kamailio-mod-rtpengine = {
     version = "6.0.1-r2";
@@ -7128,7 +7128,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-rtpengine-any" ];
-    sha256 = "8e1c050bf38c445cab1bfca1ab45acc63979c7bfb5042dd564574c3e8188271c";
+    sha256 = "76fa50f8fd89495880508960a625efd6e43cabb4e25dff0b4c2c4922f5824e68";
   };
   kamailio-mod-rtpproxy = {
     version = "6.0.1-r2";
@@ -7139,7 +7139,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-rtpproxy-any" ];
-    sha256 = "4b8344fcf1e6754699f0be3e5cd1ea4b544c918dd51af0d726871549327eed39";
+    sha256 = "97ad2774f44db6213440ff5e1f3ff2f38bafa9fda26b308b1491bd6191203d6b";
   };
   kamailio-mod-sanity = {
     version = "6.0.1-r2";
@@ -7150,7 +7150,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-sanity-any" ];
-    sha256 = "24a55a8bff9ead6477f4e792ba29d4ce6d443e5b89f1005cca0599de963ee9e6";
+    sha256 = "fc17ce24149e8ab035100beab99254880b66986e02c612a119d357f09bf39a7c";
   };
   kamailio-mod-sca = {
     version = "6.0.1-r2";
@@ -7162,7 +7162,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-sca-any" ];
-    sha256 = "fd33f48556218cd99d637757e6730efcdc3ea76055b65a5ea947172b3b68145b";
+    sha256 = "41d69dfd7ed85b9b1a6286ae62632978d628d3f909e4be0c409ac3c76743771f";
   };
   kamailio-mod-sctp = {
     version = "6.0.1-r2";
@@ -7173,7 +7173,7 @@
       "libsctp"
     ];
     provides = [ "kamailio-mod-sctp-any" ];
-    sha256 = "8032b023e17bb417e090a78e42e875339184ce8fcb115d456aaa17cc223776be";
+    sha256 = "ea0de29dc7e0e05d1640ddcc52069b5fb1f3b5cad6ca96f887f9c18acd5df398";
   };
   kamailio-mod-sdpops = {
     version = "6.0.1-r2";
@@ -7183,7 +7183,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-sdpops-any" ];
-    sha256 = "7bf34dd1f101c71bbca1c8ea9171548c1801606eeb9dddf9f4a4f84723aa60ce";
+    sha256 = "4d945a460e4f4151fccb882e4cb9cfd6ec856775568ac842d646548151a92794";
   };
   kamailio-mod-seas = {
     version = "6.0.1-r2";
@@ -7194,7 +7194,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-seas-any" ];
-    sha256 = "361175c565004e718499cc285f7a553ee7079ad6af9c37aede0ccfe1db6d85fb";
+    sha256 = "26e1dcac1ef80c8a36f788dd9310f04f7da9fac0f071baee0e45d05e4fcfc953";
   };
   kamailio-mod-secfilter = {
     version = "6.0.1-r2";
@@ -7204,7 +7204,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-secfilter-any" ];
-    sha256 = "69183e47d8a24cbc69cab00721b82e34eb6374b9e7b829c34aa424198cf4d682";
+    sha256 = "2d24fee19fd1bf5b05bf334ce43437ad0de3b3cb6eb07503d74ba500c482a944";
   };
   kamailio-mod-sipcapture = {
     version = "6.0.1-r2";
@@ -7214,7 +7214,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-sipcapture-any" ];
-    sha256 = "06586716ea75095e30c1497458ed65eb77a806bf76fd8c99fdc25fbe81f71c2d";
+    sha256 = "8df8156c284aa5406fb3dd918f979077a12525ddf3fa61366694126d5394a412";
   };
   kamailio-mod-sipdump = {
     version = "6.0.1-r2";
@@ -7224,7 +7224,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-sipdump-any" ];
-    sha256 = "68b21a1cc6192881135e75f00c380bfeab39f451264b9ae7b12cf14ca223c2dd";
+    sha256 = "26ba678a9f80f522679bba13ae113ed84a84d1761de0fcdac2e967623b0a24f9";
   };
   kamailio-mod-siprepo = {
     version = "6.0.1-r2";
@@ -7234,7 +7234,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-siprepo-any" ];
-    sha256 = "1d40adc7541477f578a05071e1434cfbc4395102a7cff3b5b3795a0938b4cc4f";
+    sha256 = "65db63e7bb28a8a599486110cdf1bc25a17ad88db113ef4a503f7a70cd553927";
   };
   kamailio-mod-sipt = {
     version = "6.0.1-r2";
@@ -7244,7 +7244,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-sipt-any" ];
-    sha256 = "42dcaf7eb875537ce11713dbb620002cb44ce7c93c696d2f99e0afa6887157aa";
+    sha256 = "5581db33827fa58168b1a2f3cc1b122c047fe7986b78f1b9a4238225e570c5b4";
   };
   kamailio-mod-siptrace = {
     version = "6.0.1-r2";
@@ -7254,7 +7254,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-siptrace-any" ];
-    sha256 = "b6f77f2be25429ab52752cc593c7de3aa9ba6aa465eb5ca43c071a647b4b936b";
+    sha256 = "324a655348996784923d6c582c2a641c17e15db7c30b7c0bc95c99f4a810dd6c";
   };
   kamailio-mod-siputils = {
     version = "6.0.1-r2";
@@ -7265,7 +7265,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-siputils-any" ];
-    sha256 = "bc7911a493ef7a73357a8f56bab8ed847141eee93c2a530385386a1388d40539";
+    sha256 = "805335c14d7ff404b69ef6a1aa57a199e9c985914a624867d9ad49d2239c5af8";
   };
   kamailio-mod-sl = {
     version = "6.0.1-r2";
@@ -7275,7 +7275,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-sl-any" ];
-    sha256 = "90134f0bc8579a62866a177efb277c28bc4884b3e3527b550fcaead64746318d";
+    sha256 = "6bd5d7349b857da8e0cded622cf133a2eef69213874a491c1a8999889d320844";
   };
   kamailio-mod-slack = {
     version = "6.0.1-r2";
@@ -7286,7 +7286,7 @@
       "libcurl4"
     ];
     provides = [ "kamailio-mod-slack-any" ];
-    sha256 = "2d75a1b7fd127b245e17f76bf654a40dd5d46c590ceb66dcda395cab20aa2f94";
+    sha256 = "8f9d23b4bce2ff45306bf42733d19ddc7fcadf667738c422832bdd21a33dc526";
   };
   kamailio-mod-sms = {
     version = "6.0.1-r2";
@@ -7297,7 +7297,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-sms-any" ];
-    sha256 = "fa487db3e5f95e6cded062b80be3b12870666ca814545f1598eacc0a12024ac0";
+    sha256 = "877eef434427d70a0ce250e3681c06fa973a320b2e1f2269d1a0bdf3d6fbaac3";
   };
   kamailio-mod-smsops = {
     version = "6.0.1-r2";
@@ -7307,7 +7307,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-smsops-any" ];
-    sha256 = "f25ff96241a8a3c3927c2f8a06edc8cd5a1a7ee28681f7036a7cceb20e79a0ce";
+    sha256 = "f9b60c1d78baed87aa1b8b53fa2909195696f76cdccfc11ec0f5f64e236d185b";
   };
   kamailio-mod-snmpstats = {
     version = "6.0.1-r2";
@@ -7318,7 +7318,7 @@
       "libnetsnmp"
     ];
     provides = [ "kamailio-mod-snmpstats-any" ];
-    sha256 = "a27a3875a105c21bb435c395946532b73a15d932bb72508b4cfadc6021dcea39";
+    sha256 = "85346ec1493aa2ba9db9f4fa76f2a43de9b1efa349204608e79e57033322b825";
   };
   kamailio-mod-speeddial = {
     version = "6.0.1-r2";
@@ -7328,7 +7328,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-speeddial-any" ];
-    sha256 = "a52d6c9efae3c2b3bc83b0456cfc3c53c6c028b760ef622a34ba81627bdb633c";
+    sha256 = "15b2d22053efd201886d447b9d51482d08512ecca7c1f3a488736f57b2e459fc";
   };
   kamailio-mod-sqlops = {
     version = "6.0.1-r2";
@@ -7338,7 +7338,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-sqlops-any" ];
-    sha256 = "76118da9a9e89957e5f6b80d183ef11d2b1e475e9157c86661ab56c0ea6ce87a";
+    sha256 = "9c1ff9158ceb0814e90a6e332ddcdcaab4564ff07a6159f8686d4e7de9314a4b";
   };
   kamailio-mod-ss7ops = {
     version = "6.0.1-r2";
@@ -7348,7 +7348,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-ss7ops-any" ];
-    sha256 = "6be0f23c94c97f2e6eb65307ee30a07bf053bdaddafa2839232788d218f2b38c";
+    sha256 = "b15b1e660e85fa77e8edae1843034adc541cd4c0a15ee259363650ce9d354405";
   };
   kamailio-mod-sst = {
     version = "6.0.1-r2";
@@ -7360,7 +7360,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-sst-any" ];
-    sha256 = "21f01a781cd74281277b6c4d6fc0710a95a7eafdd26ee1c7475557f079644931";
+    sha256 = "3a39c6de6fa0e300a5b0d3f7e7169d401664a9f51f17520610ace4c063063c74";
   };
   kamailio-mod-statistics = {
     version = "6.0.1-r2";
@@ -7370,7 +7370,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-statistics-any" ];
-    sha256 = "27b5b0aebf6e62fdd5f3a6578035a6902168b0b50f3c2551b5f363430330748f";
+    sha256 = "e68d6a25788625fc09ec54af433764f587c38a1a7e9fe3a8b4893f56e15e75d1";
   };
   kamailio-mod-statsc = {
     version = "6.0.1-r2";
@@ -7380,7 +7380,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-statsc-any" ];
-    sha256 = "640f3952c72ec0baae8426c8f8bad6239dbd8de12c8a810283c081d8712d1660";
+    sha256 = "0713a3314054c0ddc76d5ef37c8aa4dcf3e14a16e1cbafa35b1b59f3ff7a56b8";
   };
   kamailio-mod-statsd = {
     version = "6.0.1-r2";
@@ -7390,7 +7390,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-statsd-any" ];
-    sha256 = "ff488d2a2ec00af4db44d727bb8a38c6f9ce15e3277da5a0b449f4de534f8241";
+    sha256 = "8d260f139b25a10c51cab2484c59bf859561455c6ad98bd2b54f24cc2f38ed64";
   };
   kamailio-mod-stun = {
     version = "6.0.1-r2";
@@ -7400,7 +7400,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-stun-any" ];
-    sha256 = "baab6d595cb82021e54e3a4dc14e0c60f0b56ee3b0c1264de6bd52d3499ad38c";
+    sha256 = "794a26f719fd738605d0bab22d1b9327f322eb445d64ea0835ff498fe50bbd22";
   };
   kamailio-mod-tcpops = {
     version = "6.0.1-r2";
@@ -7410,7 +7410,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-tcpops-any" ];
-    sha256 = "ba7895381889b7db2d10a0c4c019942404e710c72e254edde2c5ca2776e0a4f1";
+    sha256 = "b35d8dc09701891d59d2970f91910754c4881b002ab401357aad7a99bae08453";
   };
   kamailio-mod-textops = {
     version = "6.0.1-r2";
@@ -7420,7 +7420,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-textops-any" ];
-    sha256 = "e62d1a10b5cc64e903a5a5efcb4b24af8093353493403df48d6324eba1386840";
+    sha256 = "cfebf0a3daf2732e079c721267abf32491479a99eaf25950cec38f46fe49c22a";
   };
   kamailio-mod-textopsx = {
     version = "6.0.1-r2";
@@ -7430,7 +7430,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-textopsx-any" ];
-    sha256 = "33712c0dc24b4b46fed1cdd4bac1b6bdade01f8d81f652299b801e447f108d50";
+    sha256 = "e8379d91db611b4ebae57a463546823e8df40739c9f6c811c59786e24e9df7c0";
   };
   kamailio-mod-timer = {
     version = "6.0.1-r2";
@@ -7440,7 +7440,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-timer-any" ];
-    sha256 = "ceb439166888e7f50244f950977f549e4d72f985be95a0834a182f32bd6d547c";
+    sha256 = "3765de529025d430c4d0149352a50e834c166329553dac14853263d0d5cd6be6";
   };
   kamailio-mod-tls = {
     version = "6.0.1-r2";
@@ -7451,7 +7451,7 @@
       "libopenssl3"
     ];
     provides = [ "kamailio-mod-tls-any" ];
-    sha256 = "c9ef9d309535f86654793c96baf19743137ee616cb655b2ae7f545403936190e";
+    sha256 = "71a154b2f2551c421d9613f76e2a5cf1a52de1c88178113b60bc8deeaa19d854";
   };
   kamailio-mod-tm = {
     version = "6.0.1-r2";
@@ -7461,7 +7461,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-tm-any" ];
-    sha256 = "947a1d21c85a08602db1a9c9b91d76055b09fc4f65a1fe72758aae892dd9749b";
+    sha256 = "6359c5702ed77610ac0c9a25085c8e86f5bf3f83172b32e1a2707402abeaadf2";
   };
   kamailio-mod-tmrec = {
     version = "6.0.1-r2";
@@ -7471,7 +7471,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-tmrec-any" ];
-    sha256 = "024a26f6cc4d680104d116114290e4646c58ae1953345455749cfa28624c7e33";
+    sha256 = "3141afcb84268668140e5bb3a5f26991f741550a51d721da3d12aef30698a78c";
   };
   kamailio-mod-tmx = {
     version = "6.0.1-r2";
@@ -7481,7 +7481,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-tmx-any" ];
-    sha256 = "292c03a856d7d2d382aa8cb406c08109a49da817fd1def86afe0f7c0cf325ad6";
+    sha256 = "2b213ba189ccc7f111eb5c27c958e32b837447152ca7339a3f5ce5f0937d516c";
   };
   kamailio-mod-topoh = {
     version = "6.0.1-r2";
@@ -7492,7 +7492,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-topoh-any" ];
-    sha256 = "6b0fc0a9379b70c05769d7daeea22115aa6f54b728d256dd8fcd49b97dabcb5a";
+    sha256 = "1100d5165f0a4ef1584640f3b353265bf5e7b71baaffe1ec9d16061de3794f98";
   };
   kamailio-mod-topos = {
     version = "6.0.1-r2";
@@ -7503,7 +7503,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-topos-any" ];
-    sha256 = "47815dcea1a6b796645a65e3ff5b8217bca54f4b4af73f68ad5f2d7f81eab3c3";
+    sha256 = "690272e5d4944932db2d05f81fd9413fc97f5fb94cd6bfb4ac91ee515f1dd303";
   };
   kamailio-mod-topos-htable = {
     version = "6.0.1-r2";
@@ -7515,7 +7515,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-topos-htable-any" ];
-    sha256 = "cf12e3025962b71c708c602a99fe94d2f97ccdf6e46cd2d70f94699cd9c575bb";
+    sha256 = "d9bc9a43725733770025e0af0af11bb0a7ae8551b2e915ddb776f09878f6c117";
   };
   kamailio-mod-topos-redis = {
     version = "6.0.1-r2";
@@ -7527,7 +7527,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-topos-redis-any" ];
-    sha256 = "a72578bfcf2394f8ecd6974d8be9441d3202ac1aa5ff04df611b08021292567c";
+    sha256 = "a2595ab2beca1bda42d8b2b6649a8d5a2f5e4c7d40209477c090493a59d5a063";
   };
   kamailio-mod-tsilo = {
     version = "6.0.1-r2";
@@ -7540,7 +7540,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-tsilo-any" ];
-    sha256 = "a721063ee0f31791827c55d8ac499373141d6452b298d1e6b77750b114c023eb";
+    sha256 = "0b3eeb4b9790c7891385681d2f0714badd7dbbbccaf5ca950f91045906173fac";
   };
   kamailio-mod-uac = {
     version = "6.0.1-r2";
@@ -7551,7 +7551,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-uac-any" ];
-    sha256 = "5b15a36cc750370663abae383862fa9381c6b1bd1b95c8f7fcb22ecedbc14e0c";
+    sha256 = "4b804c05531580b4ede7e2eb3d926b112e04b9cf9a13a74966bdba479f84bd70";
   };
   kamailio-mod-uac-redirect = {
     version = "6.0.1-r2";
@@ -7562,7 +7562,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-uac-redirect-any" ];
-    sha256 = "3ee5626a6d62e4ef6ab65aaa249721e0954ef1a5c0f4e8042cab0e911fe9b416";
+    sha256 = "b57aaa4c085eb508e02f9a56c53fd9e4b071ba87ba459c4fb5922da343f9d6f5";
   };
   kamailio-mod-uid-auth-db = {
     version = "6.0.1-r2";
@@ -7573,7 +7573,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-uid-auth-db-any" ];
-    sha256 = "0021210d9fb033d03716694e2cbc4aa51ca7bdc0df6d07bf0be61f40bee00170";
+    sha256 = "b5e09e2e30023e5f4df4e912b7dcbc1840b16b03a174fce08b18f0434931e8fc";
   };
   kamailio-mod-uid-avp-db = {
     version = "6.0.1-r2";
@@ -7583,7 +7583,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-uid-avp-db-any" ];
-    sha256 = "ba4a177ef49ff4b45c571742fc43ae720315f6eedec4cda56d629ffdae1794e9";
+    sha256 = "563fc02789fc0f4c2ce11bf9757d2986003bbbbc20b5b38642d80a17a1d6d316";
   };
   kamailio-mod-uid-domain = {
     version = "6.0.1-r2";
@@ -7593,7 +7593,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-uid-domain-any" ];
-    sha256 = "80625bcf6741bbb48f711c5888331c2aa4924a703d6502cd7f969c898fc2d7c8";
+    sha256 = "066017c0380be36d48f7d4b6a23637aec711ad083a1a62a72f727d3a5915abf9";
   };
   kamailio-mod-uid-gflags = {
     version = "6.0.1-r2";
@@ -7603,7 +7603,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-uid-gflags-any" ];
-    sha256 = "3089420f94bbfac609f174cec56518bcb945b22f61c82b8145922385f13efc50";
+    sha256 = "3e4d28cca81c1fa48415bd031b6c0d1b8f099d919f8b65386a87803565d6397a";
   };
   kamailio-mod-uid-uri-db = {
     version = "6.0.1-r2";
@@ -7613,7 +7613,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-uid-uri-db-any" ];
-    sha256 = "b222660e6ba7535865c8edba9d42fb0a741cee6c78aa914a280347b32a02e5c1";
+    sha256 = "107e895cb6564bf09d5ebe642b0620ab3e35d3c5b6234c0ae98da04d6a8f1967";
   };
   kamailio-mod-uri-db = {
     version = "6.0.1-r2";
@@ -7623,7 +7623,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-uri-db-any" ];
-    sha256 = "0f21108ceed193eac904440a2d703db52ecb714ea4c59e67f7db2cf3e806fd4a";
+    sha256 = "6023d2402c87e6b0a85dd51c0de2673b68c5dae6cbbb3196dde27ccc7731e23e";
   };
   kamailio-mod-userblocklist = {
     version = "6.0.1-r2";
@@ -7633,7 +7633,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-userblocklist-any" ];
-    sha256 = "4607d54c6c83eddf7608e9235d1b070266c2aca6161752fafb256af6001e0092";
+    sha256 = "4f928340690c9bd8ae5f0ffc3b1982e939570328a2714374087c4976b89d4800";
   };
   kamailio-mod-usrloc = {
     version = "6.0.1-r2";
@@ -7643,7 +7643,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-usrloc-any" ];
-    sha256 = "b624936fd758558defa8e426672da8db9a482a2ee20126cb102f27aab1180c66";
+    sha256 = "5e27ee84e7cabe3ed2c7c71eb2e3ded11f14e1f4c2fb13929ba33df7559dbb76";
   };
   kamailio-mod-utils = {
     version = "6.0.1-r2";
@@ -7654,7 +7654,7 @@
       "libcurl4"
     ];
     provides = [ "kamailio-mod-utils-any" ];
-    sha256 = "4f6ab4923c6f0e88e556e421752c61b63d9cfe206e03e98e45738d09250d3ff0";
+    sha256 = "27324860dc9b6269221749f9bf1cc92a0923502a4a0df73d72361233c8e9d744";
   };
   kamailio-mod-uuid = {
     version = "6.0.1-r2";
@@ -7665,7 +7665,7 @@
       "libuuid1"
     ];
     provides = [ "kamailio-mod-uuid-any" ];
-    sha256 = "00a05406c973d5e977da7a1d99579cce0de815a8c8d30bc1b22fbd66dafb5bd3";
+    sha256 = "f20418d02530b54448c515f21fe638e319a28c669e111b7dd7b42e826e3d4c75";
   };
   kamailio-mod-websocket = {
     version = "6.0.1-r2";
@@ -7679,7 +7679,7 @@
       "libunistring"
     ];
     provides = [ "kamailio-mod-websocket-any" ];
-    sha256 = "b6b3460cd377cf3c6c1886ebd77ad87c4eeec021012857c9052f7c82ccb33679";
+    sha256 = "79a1ff69764b7f46e6b39b36853013b2838362c73290ef7e29340fd844b00beb";
   };
   kamailio-mod-xcap-client = {
     version = "6.0.1-r2";
@@ -7690,7 +7690,7 @@
       "libcurl4"
     ];
     provides = [ "kamailio-mod-xcap-client-any" ];
-    sha256 = "18c0fc399165d169c0a2c6f4fb3557b480df442276801952adc3a88900510d10";
+    sha256 = "2a07379e123ee32bd852a228de4c2d98d7a8d8be1d90a4358cf2a9778d880844";
   };
   kamailio-mod-xcap-server = {
     version = "6.0.1-r2";
@@ -7702,7 +7702,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-xcap-server-any" ];
-    sha256 = "ce03e44b52b03625785a16571944dfcea3583b2f9a44665700ad9046f936a256";
+    sha256 = "da2d249f3faf890cb7651bc64acb633913e8c58a8513c1a6224e6ba61192f05e";
   };
   kamailio-mod-xhttp = {
     version = "6.0.1-r2";
@@ -7713,7 +7713,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-xhttp-any" ];
-    sha256 = "047be1349a07392b840f8060f55700654f83ecce357c4529f8a02d7c486b2e42";
+    sha256 = "27f2f9263b9b1bd25301b3114886d227069d7f7dc350c31ad5b65cfff5296ffb";
   };
   kamailio-mod-xhttp-pi = {
     version = "6.0.1-r2";
@@ -7724,7 +7724,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-xhttp-pi-any" ];
-    sha256 = "8140569ac04d383921de0f44186cad4d001b31e686ae80f46460d35b6e201ecb";
+    sha256 = "2b6f0fc9efa8b8d9284fb5d96938741444511f0a729b41c067d35a4e186c4c2d";
   };
   kamailio-mod-xhttp-prom = {
     version = "6.0.1-r2";
@@ -7735,7 +7735,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-xhttp-prom-any" ];
-    sha256 = "4f78ca2e3da84bef08c009be372004de61d0a9504bc703a442a7e6fce769eafb";
+    sha256 = "54a248562d2b796dd031135a7992b97fba7a5f504b64efe19b1acbf31e64409f";
   };
   kamailio-mod-xhttp-rpc = {
     version = "6.0.1-r2";
@@ -7746,7 +7746,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-xhttp-rpc-any" ];
-    sha256 = "cc022c0d0fb83a079c2dccc0b98db7f1f024f00ffb594139d0ddf0d1b641813b";
+    sha256 = "9ea2a9bc951d365cbd6ae9947f78ede6f15c5c229301046205419a64aa08fff1";
   };
   kamailio-mod-xlog = {
     version = "6.0.1-r2";
@@ -7756,7 +7756,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-xlog-any" ];
-    sha256 = "40fd0a0f80f2d1ac6242b2b2c59dba64cd39e154085e1ec66b4d7fb0d748e86a";
+    sha256 = "836cba96c7c5129c7be12cd78d7845b3a2e5e813ad165c73e4b5ac6ec22e6cfe";
   };
   kamailio-mod-xmlops = {
     version = "6.0.1-r2";
@@ -7766,7 +7766,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-xmlops-any" ];
-    sha256 = "7ac2ca88ec19f6b85b81d3b2ead02013dceeaab2915d042ff09f4057c882afc6";
+    sha256 = "b5798bdbfc5f81f4c00e97b2b605ea10f93572bb9fc2476b991d30ab78eeb5db";
   };
   kamailio-mod-xmlrpc = {
     version = "6.0.1-r2";
@@ -7776,7 +7776,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-xmlrpc-any" ];
-    sha256 = "6dcb62c500df7bc7dd7976ea32c7b1d9147e72c485a7ee0fdc85bd2e0fcbceef";
+    sha256 = "00a7316c5c3c19a6c277b35c164b2acfbd68ea78568e2751839b75aecbc43233";
   };
   kamailio-mod-xmpp = {
     version = "6.0.1-r2";
@@ -7788,7 +7788,7 @@
       "libexpat"
     ];
     provides = [ "kamailio-mod-xmpp-any" ];
-    sha256 = "fae462b87c094403820a01817ab60c11230c8a7893532ececa1f20da6775da88";
+    sha256 = "7f4cf3f1b99b2b0c490b7f90c925b98fb5b62728ab3e4c7ffee5f6828078c8bf";
   };
   kamailio-mod-xprint = {
     version = "6.0.1-r2";
@@ -7798,7 +7798,7 @@
       "libc"
     ];
     provides = [ "kamailio-mod-xprint-any" ];
-    sha256 = "776ccd235d0824a42a8753a0ab07528becd6e9b2ea984c156fe058ec6c4b58f5";
+    sha256 = "33ed0877fe92c20852a9ba86f3a82b649a4c296545f42d269a132251c9e41cfc";
   };
   kamailio-util-kambdb-recover = {
     version = "6.0.1-r2";
@@ -7809,7 +7809,7 @@
       "libc"
     ];
     provides = [ "kamailio-util-kambdb-recover-any" ];
-    sha256 = "a1b6bb21a75bba2698f4836ccd6d5c00f40f6d70840f70542a32037ce4ac9fb8";
+    sha256 = "5b210d29fc2ede94d3c1272b388224ebe9e601b9827715b513dd392e5f2334ac";
   };
   libctb = {
     version = "0.16-r3";
@@ -7819,14 +7819,14 @@
       "libstdcpp6"
     ];
     provides = [ "libctb-any" ];
-    sha256 = "d03868f2fbc8c3d1b83ec5d5495a8b164d61c3e43c0caacfbbbaeecc3da28556";
+    sha256 = "0ccefd64f7f2ecad01fa7241fcfbfe2f21e19d55ebe99a09f18271f3f9d3f16a";
   };
   libfreetdm = {
     version = "2021.08.30~8918ee1c-r3";
     filename = "libfreetdm-2021.08.30~8918ee1c-r3.apk";
     depends = [ "libc" ];
     provides = [ "libfreetdm-any" ];
-    sha256 = "6e660ea8420ec737d9e2d3ac2c28353db3b05d8035e5f7b4952ed62b7f7ff09e";
+    sha256 = "4300b07b0f3260ba52ce9e1deecae64ac570b667ddfbb5953fa9077d4ccdc6ee";
   };
   libfreetdm-ftmod-analog = {
     version = "2021.08.30~8918ee1c-r3";
@@ -7836,7 +7836,7 @@
       "libfreetdm"
     ];
     provides = [ "libfreetdm-ftmod-analog-any" ];
-    sha256 = "f03ac33d36c80b2a3c69ddfc128f656773c4d9e4db8de07c77a3a28d947eea63";
+    sha256 = "9011ae6c7e2d8f42e15c9df85fdd50739ff3a019b58a9c6e700091e8c1b4e29d";
   };
   libfreetdm-ftmod-analog-em = {
     version = "2021.08.30~8918ee1c-r3";
@@ -7846,7 +7846,7 @@
       "libfreetdm"
     ];
     provides = [ "libfreetdm-ftmod-analog-em-any" ];
-    sha256 = "d02b499ddd9ca0c73a227442c18df65893ebbb9e9a9fbc81837a87e81075ebc2";
+    sha256 = "b2ba142f1efa0acc4981fb39cf15965de3331d13b3c9d40bdb794f57b6bcab57";
   };
   libfreetdm-ftmod-libpri = {
     version = "2021.08.30~8918ee1c-r3";
@@ -7857,7 +7857,7 @@
       "libpri"
     ];
     provides = [ "libfreetdm-ftmod-libpri-any" ];
-    sha256 = "5a5fda756cee500551490c735dad2284a8f3e44175458949e785943f1335e260";
+    sha256 = "a0e391d73cd8fa33572d803d4b3dc40f4969e1d45a31e81a8ed53e503c42d36f";
   };
   libfreetdm-ftmod-skel = {
     version = "2021.08.30~8918ee1c-r3";
@@ -7867,7 +7867,7 @@
       "libfreetdm"
     ];
     provides = [ "libfreetdm-ftmod-skel-any" ];
-    sha256 = "42429988db7206b314429c9efa74af1fc1b43582802107e48e5948d336463fed";
+    sha256 = "03523b6f6df5f3e2cf2c2f76306feda1c23bc9c654cad8c6f7f66d2ddebd7273";
   };
   libfreetdm-ftmod-zt = {
     version = "2021.08.30~8918ee1c-r3";
@@ -7877,7 +7877,7 @@
       "libfreetdm"
     ];
     provides = [ "libfreetdm-ftmod-zt-any" ];
-    sha256 = "56be590ae110cb6b67dfcdc91c50054fd7555e3536200e61559471a96c329a67";
+    sha256 = "2c0049c538d724e25d98bc297164cea93ff3fa8309226de539a753afa5ee1471";
   };
   libiksemel = {
     version = "1.4-r2";
@@ -7887,7 +7887,7 @@
       "libgnutls"
     ];
     provides = [ "libiksemel-any" ];
-    sha256 = "2cf6ed6494af45f8afb277ab2fd905f8bf9acb6331bb790fd64be52f4d15989d";
+    sha256 = "d935095b95654e5dbf6e285da62ffb52a78a206c721cc01bf25a4cc40504d880";
   };
   libks2 = {
     version = "2.0.6-r1";
@@ -7902,7 +7902,7 @@
       "libks"
       "libks-any"
     ];
-    sha256 = "dac86b99016ea56fe5b86b5c6a1940644bd3ece3b86f9822b0581867268b5bf6";
+    sha256 = "dd8970826b1e0e5fc7dab2817a127b157dbdb9f16e6aef7489187e3a323ded2c";
   };
   libosip2-15 = {
     version = "5.3.1-r1";
@@ -7915,7 +7915,7 @@
       "libosip2"
       "libosip2-any"
     ];
-    sha256 = "94d7e80cf9a44b7efc2cded26ba339546c5d7001e19a5ded9c85340a598cec3b";
+    sha256 = "8edbf0434bfc2b7f8eeacf2c7c7592d2eb24291e443e8a53be6fd4c1d43dbddc";
   };
   libpj = {
     version = "2.15.1-r1";
@@ -7929,7 +7929,7 @@
       "libuuid1"
     ];
     provides = [ "libpj-any" ];
-    sha256 = "99e90f6130bfb961115190ac9920c6be7a8d9539f2311bbeed9803550f45d443";
+    sha256 = "946e37027a455033f34414396ed6065664746a44942644cfc533c34f8d50bb9f";
   };
   libpjlib-util = {
     version = "2.15.1-r1";
@@ -7944,7 +7944,7 @@
       "libuuid1"
     ];
     provides = [ "libpjlib-util-any" ];
-    sha256 = "50f3070698afd487d012290bf13b76653610ffb5bbf8c5feb9498795cd7e4574";
+    sha256 = "566dccbe630507009a454d992b386dca59ad86a6f37caf4ad258157ba14732c2";
   };
   libpjmedia = {
     version = "2.15.1-r1";
@@ -7961,7 +7961,7 @@
       "libuuid1"
     ];
     provides = [ "libpjmedia-any" ];
-    sha256 = "3886e9076ee931ad5b51e539ee1cd6a6385470e2a89ee5850d53821dabebe5d8";
+    sha256 = "57eacccef55ca940054ac8059d7d893f34343100d023e2e8b975dc7c96ef23d9";
   };
   libpjnath = {
     version = "2.15.1-r1";
@@ -7977,7 +7977,7 @@
       "libuuid1"
     ];
     provides = [ "libpjnath-any" ];
-    sha256 = "18b9c61926da29175941ccf599166a66c90aaf1b8ea4d76f5c2c5d54d7ec76d1";
+    sha256 = "9430082b92cdb19e614b69d603d857096bce25d1ba5a935012b750c9f4acb8b8";
   };
   libpjsip = {
     version = "2.15.1-r1";
@@ -7993,7 +7993,7 @@
       "libuuid1"
     ];
     provides = [ "libpjsip-any" ];
-    sha256 = "4dc2d1ac1832ddddd6ab99620c6ea8045dbd3fa90c981b9817b741d5deab990e";
+    sha256 = "db33c7f6208e4feebd6b74a78b458d7dae0175cd2498fe38b54991222795f9b8";
   };
   libpjsip-simple = {
     version = "2.15.1-r1";
@@ -8010,7 +8010,7 @@
       "libuuid1"
     ];
     provides = [ "libpjsip-simple-any" ];
-    sha256 = "1b7fd78c947d0cc8599041d0b652931b85fe8f5c907b467fbb50787f292b77af";
+    sha256 = "c8e177b8a59e92db3a0bd9c89a477b734a5bb4a145a42ea921ab7d466cb4709b";
   };
   libpjsip-ua = {
     version = "2.15.1-r1";
@@ -8029,7 +8029,7 @@
       "libuuid1"
     ];
     provides = [ "libpjsip-ua-any" ];
-    sha256 = "5321032f647841d0c028f673d056d00b7b7398ce6f3ee39a5d1bc82f1938ee79";
+    sha256 = "ab2fa024f6bf36fb55c923675896befe84b1c5a0eec1f6ea4a0673a537e29024";
   };
   libpjsua = {
     version = "2.15.1-r1";
@@ -8050,7 +8050,7 @@
       "libuuid1"
     ];
     provides = [ "libpjsua-any" ];
-    sha256 = "a8481b4760723c9135adcee9b361fc133a519432d0b8f937bf45c001e7c1b05d";
+    sha256 = "5d4e6237d1ae4cd2d915cf494e801214147f616be9eedd554225199b84688599";
   };
   libpjsua2 = {
     version = "2.15.1-r1";
@@ -8072,7 +8072,7 @@
       "libuuid1"
     ];
     provides = [ "libpjsua2-any" ];
-    sha256 = "fb915a343c40a766466f8aa673eb53bdade71a871758226cb4b6cf21ebdf0680";
+    sha256 = "7f8e72950a108d3219e5cba6532db9da17a856808b5014066dd0bcb73225a117";
   };
   libpri = {
     version = "1.6.1-r1";
@@ -8082,7 +8082,7 @@
       "libc"
     ];
     provides = [ "libpri-any" ];
-    sha256 = "e50316753a8da2ec6b2cca87ac9e46e64bef73feaec931a29e658f2c651be8db";
+    sha256 = "0d83390d3548d4b8ef8acae749411e520ca338ca81926a4a6da5921730c56e79";
   };
   libre2 = {
     version = "3.16.0-r1";
@@ -8096,7 +8096,7 @@
       "libre"
       "libre-any"
     ];
-    sha256 = "884cd1b3b36563c08c41b85a212bdec55382769bdadcc031f7e88b188fa05457";
+    sha256 = "f9e4edd93c99e6e17123019daeb766d401c76d4424504b610951081a24962748";
   };
   libspandsp = {
     version = "0.0.6-r4";
@@ -8106,7 +8106,7 @@
       "libtiff6"
     ];
     provides = [ "libspandsp-any" ];
-    sha256 = "d1aa78576b15660bf2b1af7cf6f78a3f030064ac36e86f92f35f9778ca76014f";
+    sha256 = "b3dfa923ee654e65d13f694245bed1f7ca4813adbf555f86eaccfca12b641c72";
   };
   libspandsp3-3 = {
     version = "2025.07.07~79776016-r1";
@@ -8120,7 +8120,7 @@
       "libspandsp3"
       "libspandsp3-any"
     ];
-    sha256 = "0299f5abb2c8a9de55088a02a72f78fe639615ccdc667a5fe033522727cf874d";
+    sha256 = "e7acd2f1d6b319f07d963f157abbdc54a87794b3e037de269e9f1f192af4a989";
   };
   libsrtp2-1 = {
     version = "2.6.0-r1";
@@ -8133,7 +8133,7 @@
       "libsrtp2"
       "libsrtp2-any"
     ];
-    sha256 = "8433852b75466478550f1ec74160ba896f59413f744e23be9b6bfb474248f7be";
+    sha256 = "aa8a70f3607808998b2fe544c41454205fa109cf66513a769940a538508505c6";
   };
   miax = {
     version = "1.4-r4";
@@ -8143,7 +8143,7 @@
       "libpthread"
     ];
     provides = [ "miax-any" ];
-    sha256 = "bd99e86cfa1530a25bbb667b5115fc10599cb6da389182fba622c104e1bcfc20";
+    sha256 = "2b0943f6f8942c7aaa0895f200bd100b1b2b412097cc649e66cf7578fe9062a2";
   };
   pcapsipdump = {
     version = "2020.03.03~157-r1";
@@ -8154,7 +8154,7 @@
       "libstdcpp6"
     ];
     provides = [ "pcapsipdump-any" ];
-    sha256 = "01bea172a8222c28a05e3cfccffd42d420aeb939d432cd9d4a1ed99f1d8f816a";
+    sha256 = "85a94058f1e58d8aaf278dff974aa5f3316f5a86715d178a1ac84a5866d3f07d";
   };
   rtpengine = {
     version = "11.5.1.49-r1";
@@ -8183,7 +8183,7 @@
       "zlib"
     ];
     provides = [ "rtpengine-any" ];
-    sha256 = "1137f4bab85f3031e2c89fdb6e20c35aa2f84a58c3ce57ea0e4699edbaa21047";
+    sha256 = "0c1399f69f75723658af6e659a66970d42d4d877e32a4398707b43f56f07c536";
   };
   rtpengine-no-transcode = {
     version = "11.5.1.49-r1";
@@ -8208,7 +8208,7 @@
       "zlib"
     ];
     provides = [ "rtpengine-no-transcode-any" ];
-    sha256 = "6cf5a22d3dc9c245ed940c9724a0aee046e3f140cb35c0a68a441983b57d2ebd";
+    sha256 = "c188c2f58006427211a2c5cc66252eb60d26298ca4f2ecc3d3c750c7095e8e91";
   };
   rtpengine-recording = {
     version = "11.5.1.49-r1";
@@ -8223,7 +8223,7 @@
       "libopenssl3"
     ];
     provides = [ "rtpengine-recording-any" ];
-    sha256 = "924cc2dbc53d4334a2be713e01bff2eeb67f2ad4562badd66e3c6bf49b8b897a";
+    sha256 = "65f2427e00cf83389bac640cd1ff78b965f9337c8fb1139869d2eb6520d959d0";
   };
   rtpproxy = {
     version = "2025.11.04~4909e7b7-r1";
@@ -8236,7 +8236,7 @@
       "libsrtp2-1"
     ];
     provides = [ "rtpproxy-any" ];
-    sha256 = "6f76fb26189399160c9ff59995e84c6463a929fd9f5e7191b80e8a41b18fa5d4";
+    sha256 = "b079ddc8fd3cc0960ef44dee5995653116735aec2e39ad4713bb5f12a0c24813";
   };
   rtpproxy-mod-acct-csv = {
     version = "2025.11.04~4909e7b7-r1";
@@ -8246,7 +8246,7 @@
       "rtpproxy"
     ];
     provides = [ "rtpproxy-mod-acct-csv-any" ];
-    sha256 = "2fff5981984ceff1ca98237dae548b9c0f2724df35e769917e8d968915b616bb";
+    sha256 = "6663fc9392642c1de31d5011dba0ed9e5379e28d7541dbb5ee67e07bb37d8fb8";
   };
   rtpproxy-mod-acct-rtcp-hep = {
     version = "2025.11.04~4909e7b7-r1";
@@ -8256,7 +8256,7 @@
       "rtpproxy"
     ];
     provides = [ "rtpproxy-mod-acct-rtcp-hep-any" ];
-    sha256 = "a053b9339c138a6c6d6cfc7aa328c8b146041981beffd2945cbbe7817d265656";
+    sha256 = "a9e304f37b86f1a02eb6194a8fa731dceb8997bdae58664b518c9362d2f19d23";
   };
   rtpproxy-util-extractaudio = {
     version = "2025.11.04~4909e7b7-r1";
@@ -8269,7 +8269,7 @@
       "rtpproxy"
     ];
     provides = [ "rtpproxy-util-extractaudio-any" ];
-    sha256 = "46a3e4f52ca5ca32e2ec544365e35ca08bed4bc79aea84f658f4897c59931fce";
+    sha256 = "0db85eac64b70396927d75be5336fe7173b4d655c9d3918d0fcf899676dfad5a";
   };
   rtpproxy-util-makeann = {
     version = "2025.11.04~4909e7b7-r1";
@@ -8280,7 +8280,7 @@
       "rtpproxy"
     ];
     provides = [ "rtpproxy-util-makeann-any" ];
-    sha256 = "10b43d3b95fe3c1b51486dc5f0b4a326dcc85304a51ef5268edcc23b8362de88";
+    sha256 = "6abed0bb50f1a734ef7c97ffec4099d0c5244f85172baefcc5d2b7f74fe77389";
   };
   signalwire-client-c2 = {
     version = "2.0.3-r1";
@@ -8295,7 +8295,7 @@
       "signalwire-client-c"
       "signalwire-client-c-any"
     ];
-    sha256 = "f5ee96a31fcbc6cd2a636fe1551fd9696765221e212222224184ddad2a30ca21";
+    sha256 = "9e45e50e38dd6206d4a8c50c54f0466eb559a65485227ee97d78bef8966aac9e";
   };
   sipgrep = {
     version = "2.2.0-r2";
@@ -8306,7 +8306,7 @@
       "libpcre2"
     ];
     provides = [ "sipgrep-any" ];
-    sha256 = "52248986d0d6976ba9f3e9ba2dac0d15ea85896b96b9f411d4b75601d48bea6d";
+    sha256 = "e72a26851190564ac9ae952ecfe559942d81301081cb81b2341a859d2ea61f9e";
   };
   sipp = {
     version = "3.7.5-r1";
@@ -8319,7 +8319,7 @@
       "libstdcpp6"
     ];
     provides = [ "sipp-any" ];
-    sha256 = "c9c0f9eea5a555612a557b2bb18fa1d0be2b643e0e0b8e4417382d0d9827f73b";
+    sha256 = "abc4a4dcce90ba4df28da0bd60ba38747f0f325ebef9b55389af1e711c23ee53";
   };
   siproxd = {
     version = "2025.07.24~0bb5dd4a-r1";
@@ -8331,7 +8331,7 @@
       "libpthread"
     ];
     provides = [ "siproxd-any" ];
-    sha256 = "028940c7b2a737f85ea6680be96468e2640016cc10e7c5bc06af900883381a41";
+    sha256 = "f08e88c68fcf8e72d97968771847b0ea8edca589447ebeeaf2a1b1916c474227";
   };
   siproxd-mod-blacklist = {
     version = "2025.07.24~0bb5dd4a-r1";
@@ -8342,7 +8342,7 @@
       "siproxd"
     ];
     provides = [ "siproxd-mod-blacklist-any" ];
-    sha256 = "3aa7b777a9f10ade2b42b9f0f275cc64020cc4be06481d4f6de23f2d97e2beeb";
+    sha256 = "e261ed23bfaa31868184f0fb6643c1da46f3cfb588e8845c97490798b3ee1fdf";
   };
   siproxd-mod-codecfilter = {
     version = "2025.07.24~0bb5dd4a-r1";
@@ -8352,7 +8352,7 @@
       "siproxd"
     ];
     provides = [ "siproxd-mod-codecfilter-any" ];
-    sha256 = "9b3923da43121042dfdc5e6dc879d7d6f4dcecd22b4341c919749fc643f905c7";
+    sha256 = "4c7dec100b629ee0fbed53e26b942e194bf868fad8148e6ae6badc8f2ee57d75";
   };
   siproxd-mod-defaulttarget = {
     version = "2025.07.24~0bb5dd4a-r1";
@@ -8362,7 +8362,7 @@
       "siproxd"
     ];
     provides = [ "siproxd-mod-defaulttarget-any" ];
-    sha256 = "6b38b56afde387db2e7211c0f684f9a8d4111b9e871b88c23fa3f1b616552d76";
+    sha256 = "adef16c8adfb16ac1a07a6264ab518e760f33d07acb3f546a0da1a8a8c21bb95";
   };
   siproxd-mod-demo = {
     version = "2025.07.24~0bb5dd4a-r1";
@@ -8372,7 +8372,7 @@
       "siproxd"
     ];
     provides = [ "siproxd-mod-demo-any" ];
-    sha256 = "c6365e7cb8dd20e5c8dc1bd880a79ad57103bcba4813beff7cfed9a09b0d57da";
+    sha256 = "4ef5425c2133e7be56e0ba73b64740a82211c54f71c715b1e96e2106d0045eee";
   };
   siproxd-mod-fix-DTAG = {
     version = "2025.07.24~0bb5dd4a-r1";
@@ -8382,7 +8382,7 @@
       "siproxd"
     ];
     provides = [ "siproxd-mod-fix-DTAG-any" ];
-    sha256 = "5dacb3271be2d28250e486dc45117cb4b9ee6e771ec79c315c4d1a12306cdcd7";
+    sha256 = "cdca56f4322cdaf58065f300f89ac605d4f290a301bc50530a9ce36a5f51c09e";
   };
   siproxd-mod-fix-bogus-via = {
     version = "2025.07.24~0bb5dd4a-r1";
@@ -8392,7 +8392,7 @@
       "siproxd"
     ];
     provides = [ "siproxd-mod-fix-bogus-via-any" ];
-    sha256 = "c2f38fb9d02597e2e7b7db6a8f1bc99e54da92fc1a10628719857aa9f4c18e7a";
+    sha256 = "8af554eca37dbf32a55171dcc2685334f7d106e720e3bbb72af4a99733409855";
   };
   siproxd-mod-fix-fbox-anoncall = {
     version = "2025.07.24~0bb5dd4a-r1";
@@ -8402,7 +8402,7 @@
       "siproxd"
     ];
     provides = [ "siproxd-mod-fix-fbox-anoncall-any" ];
-    sha256 = "2730fe8cc29b140bc6a36bdb61a28adf8c11a633fed5ffcaf871ac7246961ec5";
+    sha256 = "8f9b09ce681b0d86fc8dba8389348e7493d00400b3dfa53abeaa6967f1388ef6";
   };
   siproxd-mod-logcall = {
     version = "2025.07.24~0bb5dd4a-r1";
@@ -8412,7 +8412,7 @@
       "siproxd"
     ];
     provides = [ "siproxd-mod-logcall-any" ];
-    sha256 = "112f82225f86e9a84a15afa3b7c899dae9c552a1beef691d216902a707d8bae2";
+    sha256 = "5bc6abd610d43b0f0c4dbb2d1dcc6cc93228c426dca160898d6ef3e8f91ad2a0";
   };
   siproxd-mod-prefix = {
     version = "2025.07.24~0bb5dd4a-r1";
@@ -8422,7 +8422,7 @@
       "siproxd"
     ];
     provides = [ "siproxd-mod-prefix-any" ];
-    sha256 = "044dfd3a9718e564b2eb796e6454a2dbf7fdd5bd9df17f5027d9bdfe4fd4407e";
+    sha256 = "b75401366d4f0335c3ed96c83e70a78431e18425bf036af412178f3ee8d17ba7";
   };
   siproxd-mod-regex = {
     version = "2025.07.24~0bb5dd4a-r1";
@@ -8432,7 +8432,7 @@
       "siproxd"
     ];
     provides = [ "siproxd-mod-regex-any" ];
-    sha256 = "3a5b00c81811850800cfc9d593bedc237aa65f185b17cad1ae28d28a5ebe91f3";
+    sha256 = "a5ed615fcd82fe9422f5e2f1decb8f9b7b6d2a02691f6cb72efdda7c9cfe4fd3";
   };
   siproxd-mod-shortdial = {
     version = "2025.07.24~0bb5dd4a-r1";
@@ -8442,7 +8442,7 @@
       "siproxd"
     ];
     provides = [ "siproxd-mod-shortdial-any" ];
-    sha256 = "7731a744a75a71d0faf063932f086bc15671b3b9fd44e31b933a1e651f545115";
+    sha256 = "09a3b52e45eb39af79797cb81d068646d6260d851bd37cd26c0d9de87e0de47b";
   };
   siproxd-mod-siptrunk = {
     version = "2025.07.24~0bb5dd4a-r1";
@@ -8452,7 +8452,7 @@
       "siproxd"
     ];
     provides = [ "siproxd-mod-siptrunk-any" ];
-    sha256 = "c685db5c6c18c74be40383687d97b80809f4d8121f1903b62595250bd4be4369";
+    sha256 = "e51ff1968876274f58bcf0f0b387dad35dc101471df21c04d4ce112a2ddc14e9";
   };
   siproxd-mod-stats = {
     version = "2025.07.24~0bb5dd4a-r1";
@@ -8462,7 +8462,7 @@
       "siproxd"
     ];
     provides = [ "siproxd-mod-stats-any" ];
-    sha256 = "c0449fbe8922076851f4d05db7b9cd29fd3271fece314950340389b834f4c56e";
+    sha256 = "fab2a3962973bc558bb6e565ba9602da6b9715e592fdf3e3eb57604242bccc74";
   };
   siproxd-mod-stripheader = {
     version = "2025.07.24~0bb5dd4a-r1";
@@ -8472,7 +8472,7 @@
       "siproxd"
     ];
     provides = [ "siproxd-mod-stripheader-any" ];
-    sha256 = "94534a5ef3cf03eb3c078a360be5b91c6142379c0534880cbf78110a3c5cb1bb";
+    sha256 = "ab96a082af598125de6f6837dc8f82992b5853e786cff737dc4ab72c10e8f3f2";
   };
   siproxd-mod-stun = {
     version = "2025.07.24~0bb5dd4a-r1";
@@ -8482,7 +8482,7 @@
       "siproxd"
     ];
     provides = [ "siproxd-mod-stun-any" ];
-    sha256 = "b20651247d04004759ef624d5a2e92a7566a8cc2fe1e93a7580fd079139c5765";
+    sha256 = "49b00aaab24be14e86cc396958092cfb0aee34cb4c654aaa6db1e190a901fae7";
   };
   sngrep = {
     version = "1.6.0-r1";
@@ -8496,7 +8496,7 @@
       "zlib"
     ];
     provides = [ "sngrep-any" ];
-    sha256 = "7e9dd2638fc5a263304f4a80bba7ded2552b1e8c2a32009e2ed95f403cba031d";
+    sha256 = "dbc709e272f76af32ab4763eafb5e3a095dc23c440559041dbbf1fcac82cf1dd";
   };
   sofia-sip0 = {
     version = "1.13.17-r2";
@@ -8510,7 +8510,7 @@
       "sofia-sip"
       "sofia-sip-any"
     ];
-    sha256 = "16faa67199dcd8e64ddb102a804ab985fa6fe267ffea0ae3a66069a9f07f3cda";
+    sha256 = "59515210671fc41001d444ea88bd20c66ab3589918e7cbab497dac772b66a11e";
   };
   yate = {
     version = "2024.09.03~d009381e-r1";
@@ -8521,7 +8521,7 @@
       "libstdcpp6"
     ];
     provides = [ "yate-any" ];
-    sha256 = "2073baa57bbdfb7dabedbc5e54b35b025118a7ba782becaa7f0f1b5dfa5bfbf6";
+    sha256 = "f467f8cded1387901b86d6ed4b1422ab6c6255322a8e3e9b5d32d336a9033fd5";
   };
   yate-mod-accfile = {
     version = "2024.09.03~d009381e-r1";
@@ -8531,7 +8531,7 @@
       "yate"
     ];
     provides = [ "yate-mod-accfile-any" ];
-    sha256 = "df29152a94e742ef8398d38765c4dbf5f3252ce0f2de7537c04130b7ad137a99";
+    sha256 = "fc15c13a73d227694147b024ae55e25621e5b025005b1a096993e0694f7cc27d";
   };
   yate-mod-alsachan = {
     version = "2024.09.03~d009381e-r1";
@@ -8542,7 +8542,7 @@
       "yate"
     ];
     provides = [ "yate-mod-alsachan-any" ];
-    sha256 = "4bbc397f72bb3f1e3faf8e73586ecb3503966a03ace118c67a4d160e04836eca";
+    sha256 = "4d7738440076b714b08c4d5c0fba993253247d517abdb2525b25ddaf68ef0b69";
   };
   yate-mod-analog = {
     version = "2024.09.03~d009381e-r1";
@@ -8552,7 +8552,7 @@
       "yate"
     ];
     provides = [ "yate-mod-analog-any" ];
-    sha256 = "f4518301ff13f46b3d22af9711a074a6762d8d4934c2ac91f3f04eebcf1b7b18";
+    sha256 = "b3464778e33007f423822bcfb45c34009872b681b67c5fbdedf1db2a20326ce4";
   };
   yate-mod-analogdetect = {
     version = "2024.09.03~d009381e-r1";
@@ -8562,7 +8562,7 @@
       "yate"
     ];
     provides = [ "yate-mod-analogdetect-any" ];
-    sha256 = "ef2f6efeb73e0a63034a20fe532bc2e48da6d2e5a357d35f91030092a245fd9f";
+    sha256 = "95f8521ddfad342a23f815b04fb49e2fd8ced228fc16d5279f3227d4073d80e4";
   };
   yate-mod-analyzer = {
     version = "2024.09.03~d009381e-r1";
@@ -8572,7 +8572,7 @@
       "yate"
     ];
     provides = [ "yate-mod-analyzer-any" ];
-    sha256 = "919de23a93e4b2e3b1c77226a3051873bb1fe5dfef61d31f5bd07d89c5ab08e9";
+    sha256 = "0adc243abb22cafe79add0a6771823a9934842f2481b96db463a1620042f1088";
   };
   yate-mod-cache = {
     version = "2024.09.03~d009381e-r1";
@@ -8582,7 +8582,7 @@
       "yate"
     ];
     provides = [ "yate-mod-cache-any" ];
-    sha256 = "d042534a9e7c0479fb06491bc5106727d85fd95ce8aceea4f7fd036c666070f6";
+    sha256 = "7472744cabcf04c64ff8177c4dc7f978371960953f7e0137669ed1a6c157b985";
   };
   yate-mod-callcounters = {
     version = "2024.09.03~d009381e-r1";
@@ -8592,7 +8592,7 @@
       "yate"
     ];
     provides = [ "yate-mod-callcounters-any" ];
-    sha256 = "3796ebe8873521a8e2548a9b6af063a5afc942ef53b0e10ce20ce8f926b56837";
+    sha256 = "256ab07536e856083c5fe40dc83a108e14a1f59667b89e593d48f974a11d1072";
   };
   yate-mod-callfork = {
     version = "2024.09.03~d009381e-r1";
@@ -8602,7 +8602,7 @@
       "yate"
     ];
     provides = [ "yate-mod-callfork-any" ];
-    sha256 = "58483b7681be2dd027569685876147a1ee41fc155901f162ab0f596d05b80615";
+    sha256 = "1aa9eb4908b2a7256037e5d49b529b4e3c4021b1c1b11a6f16e3bfad90553e39";
   };
   yate-mod-callgen = {
     version = "2024.09.03~d009381e-r1";
@@ -8612,7 +8612,7 @@
       "yate"
     ];
     provides = [ "yate-mod-callgen-any" ];
-    sha256 = "1b42eb051b06873a8404e1b34bb21099a2d44248c614e5d72a91482acc049f4d";
+    sha256 = "a85d69af3af6c9b125e5e1763e23ba8acccf822683cadb6326fd58617d2533be";
   };
   yate-mod-camel-map = {
     version = "2024.09.03~d009381e-r1";
@@ -8622,7 +8622,7 @@
       "yate"
     ];
     provides = [ "yate-mod-camel-map-any" ];
-    sha256 = "9232d27975fe2f10514da51c18b72bb399e4daf7a3507fc2ee8038e0d5b5fded";
+    sha256 = "d15e03dcc5e419fc80705e0e2e14a0e1d361642f474aa0fca51168c05d56aa86";
   };
   yate-mod-ccongestion = {
     version = "2024.09.03~d009381e-r1";
@@ -8632,7 +8632,7 @@
       "yate"
     ];
     provides = [ "yate-mod-ccongestion-any" ];
-    sha256 = "0661b196d77d8358eb2a85a83cac64d1cdebe7f595393cf7cf846322368c421b";
+    sha256 = "8b74a6648e90b49dcfda0b6ecb53bb5130aebf16406ddad25bfb89894b40e9a1";
   };
   yate-mod-cdrbuild = {
     version = "2024.09.03~d009381e-r1";
@@ -8642,7 +8642,7 @@
       "yate"
     ];
     provides = [ "yate-mod-cdrbuild-any" ];
-    sha256 = "9499fd64cfb5d9453b07fc39db9de0233d1c5cf62f35103da3582f2a2d6a2808";
+    sha256 = "77aa69014491fde4b541ab8dc1efe05aeccf5a0bc219506fb8b3a298fe1ff3d3";
   };
   yate-mod-cdrcombine = {
     version = "2024.09.03~d009381e-r1";
@@ -8652,7 +8652,7 @@
       "yate"
     ];
     provides = [ "yate-mod-cdrcombine-any" ];
-    sha256 = "46cbab8709115b138e216b8a049a24d0c932d9e49b63fda8ec6b5c862934679f";
+    sha256 = "264db7462748095b5d6cb3b833d3691046fab620fb884f085ff2a5c32fc30dd7";
   };
   yate-mod-cdrfile = {
     version = "2024.09.03~d009381e-r1";
@@ -8662,7 +8662,7 @@
       "yate"
     ];
     provides = [ "yate-mod-cdrfile-any" ];
-    sha256 = "8ef1a4571a3ce82c843273b6f6a39807cd396403d81b9021132927b55b816b96";
+    sha256 = "2ec9f0506775657a2dfbc63bce500d9850061294381c7f4a2271f134e28fa701";
   };
   yate-mod-ciscosm = {
     version = "2024.09.03~d009381e-r1";
@@ -8672,7 +8672,7 @@
       "yate"
     ];
     provides = [ "yate-mod-ciscosm-any" ];
-    sha256 = "fb969a7654530d2c574c248b76e8baf04b4a519d9fc5ddf2d548788a79514287";
+    sha256 = "fbcf84c66203d08b9b499953ddd87bbcb53679df4a042946cae09d7f9f202a56";
   };
   yate-mod-clustering = {
     version = "2024.09.03~d009381e-r1";
@@ -8682,7 +8682,7 @@
       "yate"
     ];
     provides = [ "yate-mod-clustering-any" ];
-    sha256 = "353f6c348b4064531c135bebf12862b29667771aa6c2faf2a352893e62e23e0c";
+    sha256 = "cd14c1d1addd19d2729b1a10ace94917a3c8a023461997ac896978f9c108ac1f";
   };
   yate-mod-conference = {
     version = "2024.09.03~d009381e-r1";
@@ -8692,7 +8692,7 @@
       "yate"
     ];
     provides = [ "yate-mod-conference-any" ];
-    sha256 = "dcbadc2389167da52b0226d0a06bbf320d90c2e736318321c141ee824a357131";
+    sha256 = "def2018eebc7dedaaf2fa3f771e0417b47b5ecc0f15ae80e29d740c86a9c1c24";
   };
   yate-mod-cpuload = {
     version = "2024.09.03~d009381e-r1";
@@ -8702,7 +8702,7 @@
       "yate"
     ];
     provides = [ "yate-mod-cpuload-any" ];
-    sha256 = "190af1032c003771b858cda42718d450349931d7064fc03ca65115266796e75f";
+    sha256 = "4c4a0b57078ea6a6ba6c8c814675efd39b7c16d57bfcfd07da2ccec30613eff1";
   };
   yate-mod-dbpbx = {
     version = "2024.09.03~d009381e-r1";
@@ -8712,7 +8712,7 @@
       "yate"
     ];
     provides = [ "yate-mod-dbpbx-any" ];
-    sha256 = "ee6de876648b78064c98ae9de00ad8e2e87faeab011a8814f841ce0e838de6f8";
+    sha256 = "518d1c38b5ead4e9dee4f8bd5bd5b63e2d45df840f19b07c0ac0b41e0c02b4a7";
   };
   yate-mod-dbwave = {
     version = "2024.09.03~d009381e-r1";
@@ -8723,7 +8723,7 @@
       "yate-mod-wavefile"
     ];
     provides = [ "yate-mod-dbwave-any" ];
-    sha256 = "192e552b5116d2be56d006a638369824fc9ad2758c48e0c86fd23b48cc0b80f9";
+    sha256 = "041210c17a9fbcc274f2ab24ad24d3ded18238c6931faa7647443f81b9e1c6a4";
   };
   yate-mod-dumbchan = {
     version = "2024.09.03~d009381e-r1";
@@ -8733,7 +8733,7 @@
       "yate"
     ];
     provides = [ "yate-mod-dumbchan-any" ];
-    sha256 = "19913547620cfe1a94a1a3a4e4b3eec1a2447755c7d8563965068de905631537";
+    sha256 = "423f4c7169785737445c2500cbc9f85be2b987b9c1667e6d2c7fb7e1fe885ef8";
   };
   yate-mod-enumroute = {
     version = "2024.09.03~d009381e-r1";
@@ -8743,7 +8743,7 @@
       "yate"
     ];
     provides = [ "yate-mod-enumroute-any" ];
-    sha256 = "84d9cf0c231ea6d1dd29a3c5560c893d8296c8953205956c512eb2d113300275";
+    sha256 = "9453adf6b8e7c40139a860f7a0acff2df5172c51a8602c861a8d55623d410a27";
   };
   yate-mod-eventlogs = {
     version = "2024.09.03~d009381e-r1";
@@ -8753,7 +8753,7 @@
       "yate"
     ];
     provides = [ "yate-mod-eventlogs-any" ];
-    sha256 = "161d6be7cc5d7bb4d377b0a8b6d74f0b733fb3eb13fd66bb1c6a4c7307771ec9";
+    sha256 = "1ad473c11d5ba20a7cd9d1992349c51efaf80df7976d9df76cc9bdaeee0da05a";
   };
   yate-mod-extmodule = {
     version = "2024.09.03~d009381e-r1";
@@ -8763,7 +8763,7 @@
       "yate"
     ];
     provides = [ "yate-mod-extmodule-any" ];
-    sha256 = "41a3ab564c5d56d172991cf3a01b6fe544d2bb30e1cb80c2feeef0badb2b0a7f";
+    sha256 = "4ef35647f37b0f6dc55de0716447ed9011f3f33c2a500998310dbe6379fe289c";
   };
   yate-mod-faxchan = {
     version = "2024.09.03~d009381e-r1";
@@ -8774,7 +8774,7 @@
       "yate"
     ];
     provides = [ "yate-mod-faxchan-any" ];
-    sha256 = "5c24921c2eaa13f0c7e84217a69f48a057d9b9fae0dffb750598fc9e9171f036";
+    sha256 = "3a202de14528a72418962df6e928fd6e894df8b25eac0c02db3a718007184d98";
   };
   yate-mod-fileinfo = {
     version = "2024.09.03~d009381e-r1";
@@ -8784,7 +8784,7 @@
       "yate"
     ];
     provides = [ "yate-mod-fileinfo-any" ];
-    sha256 = "70402bd9c98b670f7d9f0952156fe9eb7089fdda6d21219005f48e87404d09dc";
+    sha256 = "11c5b105c26bc62b2137af14c7de22895d5386af3c84c6bd967adeef457e4f80";
   };
   yate-mod-filetransfer = {
     version = "2024.09.03~d009381e-r1";
@@ -8794,7 +8794,7 @@
       "yate"
     ];
     provides = [ "yate-mod-filetransfer-any" ];
-    sha256 = "3b7272eff9a7052eadd96f2176ce9068228cf5979fc7aa7b261cd742ce5be0ef";
+    sha256 = "743ff1b64de708ed6ce18e56ea4e6b88e9272caca33dd2635e386c7e2fdcafdb";
   };
   yate-mod-g722webrtc = {
     version = "2024.09.03~d009381e-r1";
@@ -8804,7 +8804,7 @@
       "yate"
     ];
     provides = [ "yate-mod-g722webrtc-any" ];
-    sha256 = "704553da1eded4b01355645d84763df24f833212eb05ec1412d102f5f4f632b8";
+    sha256 = "bbe19249fbec6874227ab07d4080eede87bba3e2bb4a26e43232dd098ed77534";
   };
   yate-mod-gvoice = {
     version = "2024.09.03~d009381e-r1";
@@ -8814,7 +8814,7 @@
       "yate"
     ];
     provides = [ "yate-mod-gvoice-any" ];
-    sha256 = "bc514e0da196ceee89abea9b02ffe1fadf12939f6b3430c85418f93c003f45ec";
+    sha256 = "11fe57340d0e25dab693b8f607bc8c8ee63a1c60c532c7d65a25a341ea213170";
   };
   yate-mod-heartbeat = {
     version = "2024.09.03~d009381e-r1";
@@ -8824,7 +8824,7 @@
       "yate"
     ];
     provides = [ "yate-mod-heartbeat-any" ];
-    sha256 = "fc2055972e56b3611c33879c76044482ea10a218a3be100e2bf064ab1689a145";
+    sha256 = "0024417d236d863df39bb1bec58cbd1dd3e279653d9907cdc24775ddc73b4ad4";
   };
   yate-mod-ilbccodec = {
     version = "2024.09.03~d009381e-r1";
@@ -8834,7 +8834,7 @@
       "yate"
     ];
     provides = [ "yate-mod-ilbccodec-any" ];
-    sha256 = "646da2ed5d9b35db1c71605e53b48cb2f378d761794399c2013f2f7cc3b480de";
+    sha256 = "95ce6b30f7f2bd6e18ae5fd9e2d12b01093d4e642b925da7ef6576d8e25d648f";
   };
   yate-mod-ilbcwebrtc = {
     version = "2024.09.03~d009381e-r1";
@@ -8844,7 +8844,7 @@
       "yate"
     ];
     provides = [ "yate-mod-ilbcwebrtc-any" ];
-    sha256 = "4832ebbb212623fb36990c64d3471e33b0d93bfd2ba8e7f2701623e6db08fbf4";
+    sha256 = "1471397289ce766bbcbc0e0d09e70e089ea07ca133c5047af763fb417b426567";
   };
   yate-mod-isaccodec = {
     version = "2024.09.03~d009381e-r1";
@@ -8854,7 +8854,7 @@
       "yate"
     ];
     provides = [ "yate-mod-isaccodec-any" ];
-    sha256 = "4c9247cba79c65bb65e7d86777e95409f0bc0596e36d9066391138d5b41e5219";
+    sha256 = "6bcc5dc4b3d3d3cfde242bc47412fa67e5cc5ff12bd788561247134c55f016b7";
   };
   yate-mod-isupmangler = {
     version = "2024.09.03~d009381e-r1";
@@ -8864,7 +8864,7 @@
       "yate"
     ];
     provides = [ "yate-mod-isupmangler-any" ];
-    sha256 = "99a8be4dbdb22b639b2ac0bc16d89cd0be45d04f1f7653f18ad2d48f266d3d29";
+    sha256 = "0bb7218014e2ffa16bc9944d3debe5705c13ba25da1b0bd51d702aa45e94a298";
   };
   yate-mod-jabberclient = {
     version = "2024.09.03~d009381e-r1";
@@ -8874,7 +8874,7 @@
       "yate"
     ];
     provides = [ "yate-mod-jabberclient-any" ];
-    sha256 = "97b8d4f84faf00a8f2f3939722648144c0a902171965df56a7078ce3e2fba20f";
+    sha256 = "cb8fdc41ce3293e8d4042a9d21090646cdd0d99255a85bb0d232a9d0626c04d8";
   };
   yate-mod-jabberserver = {
     version = "2024.09.03~d009381e-r1";
@@ -8884,7 +8884,7 @@
       "yate"
     ];
     provides = [ "yate-mod-jabberserver-any" ];
-    sha256 = "47197a44bde407fff5172056892519ed2023d5a397cba93dc970ae8b8b3dbf3b";
+    sha256 = "af38ed9ff95732563ece6dfe61ecd777dd7924f38702fe0fdcc2e1419596bf40";
   };
   yate-mod-javascript = {
     version = "2024.09.03~d009381e-r1";
@@ -8894,7 +8894,7 @@
       "yate"
     ];
     provides = [ "yate-mod-javascript-any" ];
-    sha256 = "7e7ad4dc6b332fbfbe61852b23deb17ffa952e897edcc156984b1c91013a9587";
+    sha256 = "bfc81884c93cdd11fded66a85876e05d89b044ca4ba184d6bdf08a40b02be28a";
   };
   yate-mod-jbfeatures = {
     version = "2024.09.03~d009381e-r1";
@@ -8904,7 +8904,7 @@
       "yate"
     ];
     provides = [ "yate-mod-jbfeatures-any" ];
-    sha256 = "6ddf8c997875ee41d51dc9b2f958387c32f3ad0fb77341adff0b75f7a48a64e8";
+    sha256 = "907bfe6bc2e20f724905de67ab3f14d2740ea48588431470f30711b8709332be";
   };
   yate-mod-lateroute = {
     version = "2024.09.03~d009381e-r1";
@@ -8914,7 +8914,7 @@
       "yate"
     ];
     provides = [ "yate-mod-lateroute-any" ];
-    sha256 = "a6245379addb51cbb09cbb0ddf6dcba45569a34b87a191ba79e4551d8b00ff29";
+    sha256 = "8ab0c1b4a496fa2167a7d191f29ddd9e785ecf8fc67bfe7168425a9e9153edab";
   };
   yate-mod-mgcpca = {
     version = "2024.09.03~d009381e-r1";
@@ -8924,7 +8924,7 @@
       "yate"
     ];
     provides = [ "yate-mod-mgcpca-any" ];
-    sha256 = "c9d6102cb7063080706a5bd49a8311e72f4e0903fb677dcd7e1d4978e33adc86";
+    sha256 = "49af172c9f37abcce6cffa85f568589db08c15a1263c389ce7f6e31b6b356ec8";
   };
   yate-mod-mgcpgw = {
     version = "2024.09.03~d009381e-r1";
@@ -8934,7 +8934,7 @@
       "yate"
     ];
     provides = [ "yate-mod-mgcpgw-any" ];
-    sha256 = "43e3991e8dfaa29c66363eaf9a2e3a2c75c3220b02670cc0be981a4820a7135d";
+    sha256 = "17265136657a0fac150260f6885e533e6d7a98c98935a05e9cf4d5b58e5aa46d";
   };
   yate-mod-moh = {
     version = "2024.09.03~d009381e-r1";
@@ -8944,7 +8944,7 @@
       "yate"
     ];
     provides = [ "yate-mod-moh-any" ];
-    sha256 = "1b4fe48b0699bb00b752868de93c4107a53599884adf1fcaa56e92ec61b7b8f8";
+    sha256 = "8879d835272907f7b1cd2c811c2f9752c4177107b2fc7d7993cf2070856ca52c";
   };
   yate-mod-monitoring = {
     version = "2024.09.03~d009381e-r1";
@@ -8954,7 +8954,7 @@
       "yate"
     ];
     provides = [ "yate-mod-monitoring-any" ];
-    sha256 = "c4677ceb574800dccb7aad054def65c3aa07e8e6d856de2760d7af52360857c4";
+    sha256 = "87955ec8200db5442e4ac47938755caaa4292682e6311f75b5eeffe1c29985c2";
   };
   yate-mod-mrcpspeech = {
     version = "2024.09.03~d009381e-r1";
@@ -8964,7 +8964,7 @@
       "yate"
     ];
     provides = [ "yate-mod-mrcpspeech-any" ];
-    sha256 = "6615a0817b3827fcad614bb6ac6c6895b7d738060a15b935b4259af72b8f124e";
+    sha256 = "291df0a1c95eab4d21aa1c150038195c3db22136499106b02ffc03acae71eb9e";
   };
   yate-mod-msgsniff = {
     version = "2024.09.03~d009381e-r1";
@@ -8974,7 +8974,7 @@
       "yate"
     ];
     provides = [ "yate-mod-msgsniff-any" ];
-    sha256 = "70a5fb59d0f99f6c72d0efbe2643e2bb29e8fde549e6d4dd7a1bf73311bc3543";
+    sha256 = "49f2e7eaa31e9f92e3bbba0ed9b84e22f7655da501a1ac6fef3c3a5a83133936";
   };
   yate-mod-mux = {
     version = "2024.09.03~d009381e-r1";
@@ -8984,7 +8984,7 @@
       "yate"
     ];
     provides = [ "yate-mod-mux-any" ];
-    sha256 = "1bc2e9749c0a96f55b390ebeb21d351190930ed1cead9efffd5d5bdaeb267668";
+    sha256 = "b951ce5a98e9801751a04677a63dc6baa70e6d96332bdefb9e5521fb6f21ddfc";
   };
   yate-mod-mysqldb = {
     version = "2024.09.03~d009381e-r1";
@@ -8995,7 +8995,7 @@
       "yate"
     ];
     provides = [ "yate-mod-mysqldb-any" ];
-    sha256 = "0f4e3a8482dbf57fc19e56145a554b9fe648fadfbfb036b0d0396a8d78a184dc";
+    sha256 = "5e80658808c5a80aee84c9e1b1a9c82aa277d82f3c24ae002c922fcc10adf749";
   };
   yate-mod-openssl = {
     version = "2024.09.03~d009381e-r1";
@@ -9006,7 +9006,7 @@
       "yate"
     ];
     provides = [ "yate-mod-openssl-any" ];
-    sha256 = "4fb7761b1ee1aeea77bf97bb222b156adc326b64452cd2305b05b7ec8dbad2fc";
+    sha256 = "071a18b189042db50dff9c618d6cf86afbce98b0adc763da01777b3af3964920";
   };
   yate-mod-osschan = {
     version = "2024.09.03~d009381e-r1";
@@ -9016,7 +9016,7 @@
       "yate"
     ];
     provides = [ "yate-mod-osschan-any" ];
-    sha256 = "bc237fdaba1ecae950f659585d418432eaead4da57dda4364361528f051a354b";
+    sha256 = "c00287d0e47a806aa1294b5033ba02204ab34adca01a82352a176c53ebd535ba";
   };
   yate-mod-park = {
     version = "2024.09.03~d009381e-r1";
@@ -9026,7 +9026,7 @@
       "yate"
     ];
     provides = [ "yate-mod-park-any" ];
-    sha256 = "5232d149b205badcb8ee2279531cdc3e95d5246d72800089096420215bd452a2";
+    sha256 = "4984ec9e6bfda1aa6b461b424e50f4f829f6ffa83a54c9f9c8994b3ddc103be8";
   };
   yate-mod-pbx = {
     version = "2024.09.03~d009381e-r1";
@@ -9036,7 +9036,7 @@
       "yate"
     ];
     provides = [ "yate-mod-pbx-any" ];
-    sha256 = "89973fa1e52c1a02d5e345870e993319f628bca4a22b583f3fcf3c49e143c551";
+    sha256 = "57f4560ccb1a6a362f4d9e88584f0d7fec6f6194296a058485f61cdae2753561";
   };
   yate-mod-pbxassist = {
     version = "2024.09.03~d009381e-r1";
@@ -9046,7 +9046,7 @@
       "yate"
     ];
     provides = [ "yate-mod-pbxassist-any" ];
-    sha256 = "07245203a1c84958dd584c34e7eca3d40b246ab1486add8a433e67a583935e50";
+    sha256 = "d1040247b625755445dc8dfe5a84056418fa682b66cb50739a4414cc61281bfd";
   };
   yate-mod-pgsqldb = {
     version = "2024.09.03~d009381e-r1";
@@ -9057,7 +9057,7 @@
       "yate"
     ];
     provides = [ "yate-mod-pgsqldb-any" ];
-    sha256 = "9a32412daffc8ec7dd25d4b373899ff355aa6207efa4813a421766524b208304";
+    sha256 = "d5936ee41e986e92a11b58b37f209359adda5f4e20305797f8dc1cc294426f1a";
   };
   yate-mod-presence = {
     version = "2024.09.03~d009381e-r1";
@@ -9067,7 +9067,7 @@
       "yate"
     ];
     provides = [ "yate-mod-presence-any" ];
-    sha256 = "9d9d94475f9a00c1522fd911f6340ab02667804a5cad6c0133cf88974c9dbaa9";
+    sha256 = "42c581c8831568a250413bcd0f3e6baecf55bc1d65e2b7a66f3ddb3113fd2c8c";
   };
   yate-mod-queues = {
     version = "2024.09.03~d009381e-r1";
@@ -9077,7 +9077,7 @@
       "yate"
     ];
     provides = [ "yate-mod-queues-any" ];
-    sha256 = "a853d3b3e41a7b59fbccb713700d268f793403c7acbd5b264856107e246356c1";
+    sha256 = "b1c56565fc2752588ae2984f4dae7056ba7811c5d703780a783252ae80096e99";
   };
   yate-mod-queuesnotify = {
     version = "2024.09.03~d009381e-r1";
@@ -9087,7 +9087,7 @@
       "yate"
     ];
     provides = [ "yate-mod-queuesnotify-any" ];
-    sha256 = "f2fd0d00aa66c445f3a784e71902558fb6ec102f7970908ee0faf7048b48236d";
+    sha256 = "2f595c52dc64deba3b555ccb3a48e62ba13314ae1bd1d8516fd70323d4048879";
   };
   yate-mod-regexroute = {
     version = "2024.09.03~d009381e-r1";
@@ -9097,7 +9097,7 @@
       "yate"
     ];
     provides = [ "yate-mod-regexroute-any" ];
-    sha256 = "0e43d2feaaaeeaba2c677c2bcac819099882ba94d3105e3310711b16c3fefdee";
+    sha256 = "59c02b913757cc8c777aa2ab8ceb64aa3e494e1faf4c4896f44baf639395a9fc";
   };
   yate-mod-regfile = {
     version = "2024.09.03~d009381e-r1";
@@ -9107,7 +9107,7 @@
       "yate"
     ];
     provides = [ "yate-mod-regfile-any" ];
-    sha256 = "c5307e626798aa7127c88daf78203229fe1e11ccff9753ef1ca145b8a43b4db2";
+    sha256 = "b48cccf641fd9ac9830ee3ef0b4dcffd745c618b0de25ddd3a09968398f72ef1";
   };
   yate-mod-register = {
     version = "2024.09.03~d009381e-r1";
@@ -9117,7 +9117,7 @@
       "yate"
     ];
     provides = [ "yate-mod-register-any" ];
-    sha256 = "a374c4374cbbaa9f6bea15f8aaa527c14cd35f02803165bca154bb3ba2cbcc10";
+    sha256 = "b10016743a9ad153f078370c8bc67dcefed108884446f4c43111ebcd8e9a9320";
   };
   yate-mod-rmanager = {
     version = "2024.09.03~d009381e-r1";
@@ -9127,7 +9127,7 @@
       "yate"
     ];
     provides = [ "yate-mod-rmanager-any" ];
-    sha256 = "6e4031039ef68bbf2fd042106f508483e41f0f59035c0b1dc0b62e20a84b3158";
+    sha256 = "a386055230deef1916667064379d1f1c0a203d131831c49d225628f8f5d94b61";
   };
   yate-mod-sigtransport = {
     version = "2024.09.03~d009381e-r1";
@@ -9137,7 +9137,7 @@
       "yate"
     ];
     provides = [ "yate-mod-sigtransport-any" ];
-    sha256 = "903a47d51b59985026bcb0f0bca060a9bf9c2d413178001b52715edadccf079d";
+    sha256 = "9f90b5fc16e1ce60eca82904105de45514c54f03ffcf0b479aeb8110b06558a6";
   };
   yate-mod-sip-cnam-lnp = {
     version = "2024.09.03~d009381e-r1";
@@ -9147,7 +9147,7 @@
       "yate"
     ];
     provides = [ "yate-mod-sip-cnam-lnp-any" ];
-    sha256 = "d93043d548cad53284291e34d7c749fee712610207cc89cb20aa473813ccf89e";
+    sha256 = "e4d99fede6ee810249db64c8a53db476be235c0bb83a7cbae8edbe99c4362420";
   };
   yate-mod-sipfeatures = {
     version = "2024.09.03~d009381e-r1";
@@ -9157,7 +9157,7 @@
       "yate"
     ];
     provides = [ "yate-mod-sipfeatures-any" ];
-    sha256 = "794c39f7040f3c64b963830f4e54f1f3080a8012c83396b6562b02568473a547";
+    sha256 = "3ae2e6a57a7ed158a91d985ef670f14e639e80eee3959ff9854de9591e1c5c24";
   };
   yate-mod-speexcodec = {
     version = "2024.09.03~d009381e-r1";
@@ -9168,7 +9168,7 @@
       "yate"
     ];
     provides = [ "yate-mod-speexcodec-any" ];
-    sha256 = "d7391e121ac1b50bf33f51066840e3a308d97c25b55438b154b65d7a1c619bc4";
+    sha256 = "de8813507cf436ebe3cc7b4af0615d008a6239afaf7a87843ba766980482312f";
   };
   yate-mod-sqlitedb = {
     version = "2024.09.03~d009381e-r1";
@@ -9179,7 +9179,7 @@
       "yate"
     ];
     provides = [ "yate-mod-sqlitedb-any" ];
-    sha256 = "b8cc722253eb61058491f7c43fface168efddd18a278c2ee3b58efc2c21d6e99";
+    sha256 = "46d3e8ff82be28ffddf254cb82a69640f9f89564923e30f3fb7b0befed5f7f76";
   };
   yate-mod-ss7-lnp-ansi = {
     version = "2024.09.03~d009381e-r1";
@@ -9189,7 +9189,7 @@
       "yate"
     ];
     provides = [ "yate-mod-ss7-lnp-ansi-any" ];
-    sha256 = "12162b399fa3cbe0ca7e402c6bf7b2ca94ca49baeadc8acb98e189a907f27a70";
+    sha256 = "c784c55e5f4a8e8ccd993c5063b818f31731f9aab48175c09d866057320cf26c";
   };
   yate-mod-subscription = {
     version = "2024.09.03~d009381e-r1";
@@ -9199,7 +9199,7 @@
       "yate"
     ];
     provides = [ "yate-mod-subscription-any" ];
-    sha256 = "28da78a776d8e05beef90f3e2e1250eeb9cba9cf2d7e1c60447c13ef1674711b";
+    sha256 = "9fce0aca5cf93c321aa93f7a72d8b1b9bf43629fd1a284ea30f5aed0ca5d1ecf";
   };
   yate-mod-tonedetect = {
     version = "2024.09.03~d009381e-r1";
@@ -9209,7 +9209,7 @@
       "yate"
     ];
     provides = [ "yate-mod-tonedetect-any" ];
-    sha256 = "15d73a1b4618571fde55d165a2a20b148ebc12531fa4a1415a8ebdaeb1166493";
+    sha256 = "c800f1171c41e2dfa19f45c753ad274d27d7504fd75b152712b5443c81f933c6";
   };
   yate-mod-tonegen = {
     version = "2024.09.03~d009381e-r1";
@@ -9219,7 +9219,7 @@
       "yate"
     ];
     provides = [ "yate-mod-tonegen-any" ];
-    sha256 = "c7df5b3e3e8e25748887d367c252b2f608e989eebae1c8a528fd78f7a5ba3902";
+    sha256 = "dcf5c8a3ebe3cea04a4105769eab16e6cd6a28e84edb43d863a789ff84aa6d38";
   };
   yate-mod-users = {
     version = "2024.09.03~d009381e-r1";
@@ -9229,7 +9229,7 @@
       "yate"
     ];
     provides = [ "yate-mod-users-any" ];
-    sha256 = "a5c2081b1c22633df189448c140b51ed39b3337aaea1ae7279f65e6d780c6cd2";
+    sha256 = "3b9564e43352684a4260b097ece0e493313000daf6d41c3819a311e388a9614f";
   };
   yate-mod-wavefile = {
     version = "2024.09.03~d009381e-r1";
@@ -9239,7 +9239,7 @@
       "yate"
     ];
     provides = [ "yate-mod-wavefile-any" ];
-    sha256 = "1ba915d22b4795feac8bf70d4c30a05ccb4595741f0a4afe9976c028c78c46fd";
+    sha256 = "5e7eab2f0e6683e30b044be0a613c55b5b9a172042cf1994d68902193aa633c6";
   };
   yate-mod-wiresniff = {
     version = "2024.09.03~d009381e-r1";
@@ -9249,7 +9249,7 @@
       "yate"
     ];
     provides = [ "yate-mod-wiresniff-any" ];
-    sha256 = "bec6cc43ee9c65704cea8329088af0927289cdfa09ff2a35912e2999454c3ebb";
+    sha256 = "530523e06f3aba734ca9d2618dcd81ec89e32169166e67fa5a8368ef91fa7e20";
   };
   yate-mod-yiaxchan = {
     version = "2024.09.03~d009381e-r1";
@@ -9259,7 +9259,7 @@
       "yate"
     ];
     provides = [ "yate-mod-yiaxchan-any" ];
-    sha256 = "04ab6471d1526a852a29e16fccc22d803a74eb8f9006b27392a9b6a3e8db877d";
+    sha256 = "a540c85f3dd024858720547ee0b02bc0208df2cdb3a2b07558e626051768ff47";
   };
   yate-mod-yjinglechan = {
     version = "2024.09.03~d009381e-r1";
@@ -9269,7 +9269,7 @@
       "yate"
     ];
     provides = [ "yate-mod-yjinglechan-any" ];
-    sha256 = "e40c7d4b09d9d01e8309a328c5d2aa09c13344397b837caa6ef681f283017cab";
+    sha256 = "9d2b595f4104c21ff4bbd64630162328653c743a5d12f4333475f0910ac3c435";
   };
   yate-mod-yradius = {
     version = "2024.09.03~d009381e-r1";
@@ -9279,7 +9279,7 @@
       "yate"
     ];
     provides = [ "yate-mod-yradius-any" ];
-    sha256 = "fff8c409f133db7a5bb3d8e3a547c8a9a725fe74767b46341c20d322c2db3425";
+    sha256 = "8a5d267bed593cfff6ddce33a88a61dc862948841f71094a7e7b349602e9ff9a";
   };
   yate-mod-yrtpchan = {
     version = "2024.09.03~d009381e-r1";
@@ -9289,7 +9289,7 @@
       "yate"
     ];
     provides = [ "yate-mod-yrtpchan-any" ];
-    sha256 = "9a082e3854bc6ff6ee17731cd9e2e0e0a4919352ce61fe1e4f466e0ecc5d926c";
+    sha256 = "cb0cfd073a25250377ae9ee8a90cbe22b561f46896bda0ee97e1259396432503";
   };
   yate-mod-ysigchan = {
     version = "2024.09.03~d009381e-r1";
@@ -9299,7 +9299,7 @@
       "yate"
     ];
     provides = [ "yate-mod-ysigchan-any" ];
-    sha256 = "d01d3a9db5768b78d01dd9a9853eb2d22d5f669e9efc4a7b8948d7a8bda8cadd";
+    sha256 = "1be7e1211fe10bb7e7968aa92b8e8008d1cea9bf4cd4f5c3f1e51a189b50a90c";
   };
   yate-mod-ysipchan = {
     version = "2024.09.03~d009381e-r1";
@@ -9309,7 +9309,7 @@
       "yate"
     ];
     provides = [ "yate-mod-ysipchan-any" ];
-    sha256 = "1e9b5cceaf07a624d08b960c03400bff37a04139d70397402b11e5e425c51fed";
+    sha256 = "83de5bb40acd8f8c00158592150925da93e14a6ca948ba45e013a2e26d86ea43";
   };
   yate-mod-ysnmpagent = {
     version = "2024.09.03~d009381e-r1";
@@ -9319,7 +9319,7 @@
       "yate"
     ];
     provides = [ "yate-mod-ysnmpagent-any" ];
-    sha256 = "feb2c4a484dcd4d6cbe7d254f91853d895b1b26a524e1ae483d3ed03862e1451";
+    sha256 = "478c6daac0cc44177712fbc104a4a93ddfc3b70e554474a1beab4f8fd9bc7b86";
   };
   yate-mod-ysockschan = {
     version = "2024.09.03~d009381e-r1";
@@ -9329,7 +9329,7 @@
       "yate"
     ];
     provides = [ "yate-mod-ysockschan-any" ];
-    sha256 = "4dfdcf5d5567f0a76338bd33b8bf93e171aa5eaed33fce858517348c06d342bc";
+    sha256 = "f9dc2faf42f97092a6466a255474b8f6d7a41303954c3a5a78be35f31b8e0192";
   };
   yate-mod-ystunchan = {
     version = "2024.09.03~d009381e-r1";
@@ -9339,7 +9339,7 @@
       "yate"
     ];
     provides = [ "yate-mod-ystunchan-any" ];
-    sha256 = "580add2f615e7478a6167206fe81ade681ad987d4164978990e75a8ebb631f54";
+    sha256 = "8bfd36b6da0898e200560e5f879d16be7daba512755a7f0ff83fdf71a80d0077";
   };
   yate-mod-zapcard = {
     version = "2024.09.03~d009381e-r1";
@@ -9350,7 +9350,7 @@
       "yate"
     ];
     provides = [ "yate-mod-zapcard-any" ];
-    sha256 = "e6fe0b50d7dcdab9b829a3f4fff9b9559fc5819ce528a7bfaa660d0272882309";
+    sha256 = "c25b9eb556b6ab1fec1f175bc6faa751e6d8af3eefdb79ca6c6a850b507bf86f";
   };
   yate-mod-zlibcompress = {
     version = "2024.09.03~d009381e-r1";
@@ -9361,7 +9361,7 @@
       "zlib"
     ];
     provides = [ "yate-mod-zlibcompress-any" ];
-    sha256 = "4e21948d086c0f8877abb85db3be1fd6911d0f2698740ded26391f7c8ad468cd";
+    sha256 = "fd3c08cde1eb0879ce5f1f14ded05574ec59c6f32344525f02852f080fb2a024";
   };
   yate-scripts-perl = {
     version = "2024.09.03~d009381e-r1";

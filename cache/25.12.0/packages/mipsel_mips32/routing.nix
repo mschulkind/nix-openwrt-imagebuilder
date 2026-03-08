@@ -265,7 +265,7 @@
       "luasocket"
     ];
     provides = [ "cjdns-any" ];
-    sha256 = "3e36b6180b468433d95c2d9458cb2245ce99e565998998a2fffa6c8141d6b1ec";
+    sha256 = "38c5480a20b02a2ef1e111368a5c9853af668ec5569683a4791d0f404ca63090";
   };
   cjdns-tests = {
     version = "21.1-r6";
@@ -276,7 +276,7 @@
       "librt"
     ];
     provides = [ "cjdns-tests-any" ];
-    sha256 = "f65be88bbe770c8820fca204a62f92748361e8bcdaa86db264b68e74c9d7827b";
+    sha256 = "d4addd2caee0a44c20617250fda37f3c6eee492301c87e9d3accfe7e68fafaa7";
   };
   luci-app-cjdns = {
     version = "1.3-r9";
@@ -354,7 +354,7 @@
       "libubus20251202"
     ];
     provides = [ "olsrd-any" ];
-    sha256 = "5c618d686663e5a2c4b22e0295781024c15c6605c5093366e2cf232c2e484fb6";
+    sha256 = "0a8c9640337ae9d5479138809850fa9b9a40ebdda3cd4026927d9ba8b0b6c824";
   };
   olsrd-mod-arprefresh = {
     version = "2024.06.09~d72be9ad-r2";

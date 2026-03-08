@@ -265,7 +265,7 @@
       "luasocket"
     ];
     provides = [ "cjdns-any" ];
-    sha256 = "5ba18a71bdc39838d28753881fa18d12b63698fdda0902e59d3740fdd98f0673";
+    sha256 = "63202055885354e2d7f2b97611fa58347031d23c22d61c1912d2a1cb65e57ae2";
   };
   cjdns-tests = {
     version = "21.1-r6";
@@ -276,7 +276,7 @@
       "librt"
     ];
     provides = [ "cjdns-tests-any" ];
-    sha256 = "3c741f7664ccfe3e0b73d0421ac928cf9a3ba31d4e7b2817b31b6ca29a6495b3";
+    sha256 = "12a4d1501e37f8b5632c88bf8ca2704d4e41ef9f7450e634619813251497bc5a";
   };
   luci-app-cjdns = {
     version = "1.3-r9";

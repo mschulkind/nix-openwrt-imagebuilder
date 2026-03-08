@@ -8,7 +8,7 @@
       "librt"
     ];
     provides = [ "ahcpd-any" ];
-    sha256 = "7f1ee3d6be7de1b6388819f3581921e716c68d55d25a653fa37eb990b6a8d91e";
+    sha256 = "296719d32a798d3385f112dbe834edb33d9ec3c63d4283e6936665a516076ac5";
   };
   alfred = {
     version = "2025.4-r2";
@@ -19,7 +19,7 @@
       "librt"
     ];
     provides = [ "alfred-any" ];
-    sha256 = "7b6659eae52c04c599f32ae7551c22dad39e33358fb3b4643b1ce09d9874fbd8";
+    sha256 = "ee860185050270850d605e8a46a59e0dbc4b9e147cafb5171032eeeb56ea7cb0";
   };
   babel-pinger = {
     version = "0.1-r1";
@@ -29,7 +29,7 @@
       "librt"
     ];
     provides = [ "babel-pinger-any" ];
-    sha256 = "45dc6d2d53021b20321f242c2211384ef0dab411d26d224c4f58e063a2fa55c9";
+    sha256 = "08f6ed07f071c853f76766f7a560a5e191b5890cfc65b649b4c7ede14f766639";
   };
   babeld = {
     version = "1.13.1-r2";
@@ -40,7 +40,7 @@
       "libubus20251202"
     ];
     provides = [ "babeld-any" ];
-    sha256 = "16482ecb70350ef5210d5ce26a3a7417cc567e8e6100d3af7d33b40277cf79e1";
+    sha256 = "d06c969f3216ce1ee4bf8c4ff68c4e7adc4011f26694e60567e693a906a99247";
   };
   batctl-default = {
     version = "2025.4-r1";
@@ -54,7 +54,7 @@
       "batctl"
       "batctl-default-any"
     ];
-    sha256 = "64116e0d744dae55798e0088d42cd9fef4505ea283f1d2f2f7707af007ba18ec";
+    sha256 = "6a725c0504e51458b703a2026491be8b09a84688aeb0a2c980a98f2c2c94c222";
   };
   batctl-full = {
     version = "2025.4-r1";
@@ -68,7 +68,7 @@
       "batctl"
       "batctl-full-any"
     ];
-    sha256 = "fd03108bc77bb190fd2a1400ee6ade1a4b694c400e4a574445e5002cdd64d4af";
+    sha256 = "3730b8a7780b50a2989921a520a2f2442e8ef5cd09103adaa06ba90cfd7d6fbf";
   };
   batctl-tiny = {
     version = "2025.4-r1";
@@ -82,7 +82,7 @@
       "batctl"
       "batctl-tiny-any"
     ];
-    sha256 = "6b660e02f7532d38d83b0bb830a91ffd95b4130c8072e8cd062cf7602854c44c";
+    sha256 = "2b52cf74590f0e6b2847fc27193d21d126e5264942747a2a9c3431925062e27a";
   };
   batmand = {
     version = "2022.12.31~2f62b17d-r2";
@@ -93,7 +93,7 @@
       "libpthread"
     ];
     provides = [ "batmand-any" ];
-    sha256 = "4bdb908fd90ae78c2ce7e60fe03356df5c6af14c7b49c0f7285c4764d39243db";
+    sha256 = "f679c0eecd5e20d084bffa8c44a3af4bf62ab6ffd8547d0b8fcbca004b7cf95b";
   };
   bird2 = {
     version = "2.18-r1";
@@ -103,7 +103,7 @@
       "libpthread"
     ];
     provides = [ "bird2-any" ];
-    sha256 = "e486ab03b18a430ca0262e18d08a847a34f809b66dfcbc3329b17a12a031df65";
+    sha256 = "e21a3166ee11b5dabbd6b2ed07c75fffb2968f95fccb5bc48875cb40158acdf1";
   };
   bird2c = {
     version = "2.18-r1";
@@ -115,7 +115,7 @@
       "libreadline8"
     ];
     provides = [ "bird2c-any" ];
-    sha256 = "ef50302eb5ef142c0cf54881be2903e47ac627704a40a1ac8f1adc1070684c33";
+    sha256 = "9625bef3d78a0582121c4a3d3ddd5637d8973e24850092047b298f88034228ff";
   };
   bird2cl = {
     version = "2.18-r1";
@@ -125,7 +125,7 @@
       "libc"
     ];
     provides = [ "bird2cl-any" ];
-    sha256 = "f607f64c829c0d3044d85800dfb8124ef9db64cc8bd04e30b2390c5737ca6d98";
+    sha256 = "0fefe51217dea1efeba041ea191f3581fa4475234a543babd9156c7a89648efa";
   };
   bird3 = {
     version = "3.2.0-r1";
@@ -136,7 +136,7 @@
       "libpthread"
     ];
     provides = [ "bird3-any" ];
-    sha256 = "3151035f08d56de42e7e4895149119c59f172d463defc121ce3a3d51f4c1e7b3";
+    sha256 = "5eefc26fe12ea3061557df56ef693fd4973e50c977eab6032c9f0a6e2809802a";
   };
   bird3c = {
     version = "3.2.0-r1";
@@ -148,7 +148,7 @@
       "libreadline8"
     ];
     provides = [ "bird3c-any" ];
-    sha256 = "c52224bdb4efc95ce6328420f8faa8b1b179bd78dbc71cb63cf7cb705d0f2016";
+    sha256 = "bd054ca88046c45568eb0ebc97dd6abcee605acfdc5640d2e06c53c8610698a9";
   };
   bird3cl = {
     version = "3.2.0-r1";
@@ -158,7 +158,7 @@
       "libc"
     ];
     provides = [ "bird3cl-any" ];
-    sha256 = "65b136bc8f05d9d0cc155d8f17604ba7205f14d69c44cd7bc558d5716e6e715b";
+    sha256 = "6fef7f8a0079a10ed2acfe1eb6a52701c29b9a9571a5458561e62c167189f5b3";
   };
   bmx7 = {
     version = "2024.06.11-r2";
@@ -170,7 +170,7 @@
       "zlib"
     ];
     provides = [ "bmx7-any" ];
-    sha256 = "3919f7a2004119feb4d15f6da59273a81b40d55a05ef67a41b842829cd04ee3c";
+    sha256 = "df24499d9fa1c2484695abaabbc8200c12e07150e7b22facd6fad28b7123d150";
   };
   bmx7-iwinfo = {
     version = "2024.06.11-r2";
@@ -181,7 +181,7 @@
       "libiwinfo20230701"
     ];
     provides = [ "bmx7-iwinfo-any" ];
-    sha256 = "034976f35362093809faecabfbf3f6aae95821d2f3e27cfa0c9f70e102cc8961";
+    sha256 = "2d388089bb9ef26a8526441f4938684c033ebb3b29343210383d25a775930434";
   };
   bmx7-json = {
     version = "2024.06.11-r2";
@@ -192,7 +192,7 @@
       "libjson-c5"
     ];
     provides = [ "bmx7-json-any" ];
-    sha256 = "92b5e1e3777a94e3330491195499e27d955bbbee7530cbd75c9082605a4bee5d";
+    sha256 = "3626cd4b2f6d0861e99c36e651ea7c046e236687b6655608638fb16259205471";
   };
   bmx7-sms = {
     version = "2024.06.11-r2";
@@ -202,7 +202,7 @@
       "libc"
     ];
     provides = [ "bmx7-sms-any" ];
-    sha256 = "8d94a43e1e73a7f728922fb50c0d0b9418ce5104adf9d263af3c48fd00ea6be8";
+    sha256 = "1a2877aa9a1158c7f5e6d78d40b5a4bd6fdba810a98d5842c966de39595cb12a";
   };
   bmx7-table = {
     version = "2024.06.11-r2";
@@ -213,7 +213,7 @@
       "libc"
     ];
     provides = [ "bmx7-table-any" ];
-    sha256 = "b754cd2773fb3e098b06c280c86622851f2611eddb939c39af4efdff0b4d81f1";
+    sha256 = "27f107030781cbde99bdb4961d78ead361642b83e8e537be52ade2853d771b83";
   };
   bmx7-topology = {
     version = "2024.06.11-r2";
@@ -223,7 +223,7 @@
       "libc"
     ];
     provides = [ "bmx7-topology-any" ];
-    sha256 = "d7ca41e528af78a2b81dc9c731158006cd9b0e1b01d0740ed2a65b05bd77e084";
+    sha256 = "cd2ace239afb5e621d1402e89ad730ae588a2ac15db4a18dae5145a4663ca43d";
   };
   bmx7-tun = {
     version = "2024.06.11-r2";
@@ -236,7 +236,7 @@
       "libc"
     ];
     provides = [ "bmx7-tun-any" ];
-    sha256 = "613d38a89c5a23536101af0da56dc569d3ead74e1ccb0e9d9f3806f7f4dc3832";
+    sha256 = "8579fe94550d3ee3ef3cf9102033f5124d5147a70d605f34bf63fcf2ec9cac83";
   };
   bmx7-uci-config = {
     version = "2024.06.11-r2";
@@ -247,7 +247,7 @@
       "libuci20250120"
     ];
     provides = [ "bmx7-uci-config-any" ];
-    sha256 = "23072304d873a2c85ca7b69e91dc62e76017ce7c681739b6a9a0dc10cc102bb8";
+    sha256 = "5b2837e1037c1b357e8072eb7454ad9eb631bf431dd715a2a28e51577822b4dd";
   };
   luci-app-cjdns = {
     version = "1.3-r9";
@@ -286,7 +286,7 @@
       "libstdcpp6"
     ];
     provides = [ "ndppd-any" ];
-    sha256 = "14766e2ffbd9597e713e24693b6fa0b63665b727218b35d53177cd8ebdb837f6";
+    sha256 = "db78229dee9722f5716333cd58a5fac486e0aaf21583a312e3dd63f3e316b0eb";
   };
   nodogsplash = {
     version = "5.0.2-r1";
@@ -301,7 +301,7 @@
       "libpthread"
     ];
     provides = [ "nodogsplash-any" ];
-    sha256 = "682229e982ec82ba122887fde47d4ffb7c6742af8928721e1757720093641728";
+    sha256 = "5519c7c98a57f1532e21097dfce8cb244c60c332c2238cb4eb044e87df8ea41c";
   };
   ohybridproxy = {
     version = "2020.05.22~0dfef1eb-r3";
@@ -312,7 +312,7 @@
       "mdnsd"
     ];
     provides = [ "ohybridproxy-any" ];
-    sha256 = "fab7e67df5599e0138ae92ae9bff8ef2380540ac77a055ec5031ff65add1a19c";
+    sha256 = "1ab084eb18210f1e8f943dfddfc46b90fad6f80f0eb49f3a458824f6e20c38bf";
   };
   olsrd = {
     version = "2024.06.09~d72be9ad-r2";
@@ -325,7 +325,7 @@
       "libubus20251202"
     ];
     provides = [ "olsrd-any" ];
-    sha256 = "1fe8a0f36669b8e21015b293b53be33e15cee35ec1a20addbea8eae59d3dfaab";
+    sha256 = "aeb4be1abb013c0e75cc090530ce22f5e9fbab1f17ebecb224605fb323351a6a";
   };
   olsrd-mod-arprefresh = {
     version = "2024.06.09~d72be9ad-r2";
@@ -335,7 +335,7 @@
       "olsrd"
     ];
     provides = [ "olsrd-mod-arprefresh-any" ];
-    sha256 = "59a06389a7c62cc05ebdb43ce01a00021b147221c21a8b0b35e04690d33dc1a8";
+    sha256 = "2f7e9198c23cb261e5d9df2c49f5879ecb14581e2d755b4fa3ca79671d839f9b";
   };
   olsrd-mod-bmf = {
     version = "2024.06.09~d72be9ad-r2";
@@ -346,7 +346,7 @@
       "olsrd"
     ];
     provides = [ "olsrd-mod-bmf-any" ];
-    sha256 = "90116c3fee3942918fa31c2533af3cd5f012337e591c6d971790e4af708700b1";
+    sha256 = "ea35625dee48ccb1687d2c253669403552cce0460fe07fa97b8d2c7d5f9a87eb";
   };
   olsrd-mod-dot-draw = {
     version = "2024.06.09~d72be9ad-r2";
@@ -356,7 +356,7 @@
       "olsrd"
     ];
     provides = [ "olsrd-mod-dot-draw-any" ];
-    sha256 = "557655903f634bf1b49410ddc5498dc3b1095ab11546cceb8d18c5049fc3b0a5";
+    sha256 = "4295dfbca1dc58e4bba8abcd7889c35e7c4f25c6ac4410e87f2c4ff88acffe6e";
   };
   olsrd-mod-dyn-gw = {
     version = "2024.06.09~d72be9ad-r2";
@@ -366,7 +366,7 @@
       "olsrd"
     ];
     provides = [ "olsrd-mod-dyn-gw-any" ];
-    sha256 = "373304ebafb8e97ade0be1c51bf80b1d7e0babc711da7d07eacbce8fa8423f61";
+    sha256 = "a7fe74f32fbb17c5b5b81c2326231206ab6f40f436b98ec08512c20e2e44cd60";
   };
   olsrd-mod-dyn-gw-plain = {
     version = "2024.06.09~d72be9ad-r2";
@@ -376,7 +376,7 @@
       "olsrd"
     ];
     provides = [ "olsrd-mod-dyn-gw-plain-any" ];
-    sha256 = "1c5f012a111a2b8326365abcdf8a9ce8d1c24e587831e7935a3bc7f8ae835b65";
+    sha256 = "4bae4df0e487ce7ff69a02ec5bcb0104cefa3621db0d53c79f1dbc4a83dfa339";
   };
   olsrd-mod-filtergw = {
     version = "2024.06.09~d72be9ad-r2";
@@ -386,7 +386,7 @@
       "olsrd"
     ];
     provides = [ "olsrd-mod-filtergw-any" ];
-    sha256 = "6e30973078412f4c45805bda74c73ab034141c5a749ebd1f9bda876f6c925aae";
+    sha256 = "7a2a4dbc3352c382f6e9d0c0188781cf234b09b23db50e010499d2068a78c718";
   };
   olsrd-mod-httpinfo = {
     version = "2024.06.09~d72be9ad-r2";
@@ -396,7 +396,7 @@
       "olsrd"
     ];
     provides = [ "olsrd-mod-httpinfo-any" ];
-    sha256 = "bce7959ceedc278a955608d5b97ee3a37a12b68324ca7f1dbf03420539e2f09c";
+    sha256 = "b6d7327025253e086cce2185e2eb68c85fe9d3c72e47495fffb0428bd4d37d7b";
   };
   olsrd-mod-jsoninfo = {
     version = "2024.06.09~d72be9ad-r2";
@@ -406,7 +406,7 @@
       "olsrd"
     ];
     provides = [ "olsrd-mod-jsoninfo-any" ];
-    sha256 = "0e6abcfb5ccf6eb8a529ad1ee984d9a474fd9a01efa6033ad985af9be2e5528c";
+    sha256 = "99dce7c36d8edd03f4ac5eb5329068eab2a0fbaef00c0f5f7320232b9cd3cc08";
   };
   olsrd-mod-mdns = {
     version = "2024.06.09~d72be9ad-r2";
@@ -416,7 +416,7 @@
       "olsrd"
     ];
     provides = [ "olsrd-mod-mdns-any" ];
-    sha256 = "1a136ca652bf832bd352263289cb55650556870aedf89bc0087bd003e8d9708b";
+    sha256 = "bc7cd8fffb2d7e8c0108b36e5e0331e378f2cd4e5cc0448b242304a71851b4aa";
   };
   olsrd-mod-nameservice = {
     version = "2024.06.09~d72be9ad-r2";
@@ -426,7 +426,7 @@
       "olsrd"
     ];
     provides = [ "olsrd-mod-nameservice-any" ];
-    sha256 = "7133e4c77f3157371b011cf95cc4c15e00cf95c565a28adaf8fef724fe0c598e";
+    sha256 = "9a304be0ad8f3edb8852e003bf8525930248cdebc652db0be34e71921f221f6c";
   };
   olsrd-mod-netjson = {
     version = "2024.06.09~d72be9ad-r2";
@@ -436,7 +436,7 @@
       "olsrd"
     ];
     provides = [ "olsrd-mod-netjson-any" ];
-    sha256 = "520bd5b9d964e0c3cd94731281a9060761293714b0da2be2f8b3cb7d718dd452";
+    sha256 = "fbca6dccc9488c6d6237533e9098abb90931286e28afc384a51b88791247a439";
   };
   olsrd-mod-p2pd = {
     version = "2024.06.09~d72be9ad-r2";
@@ -446,7 +446,7 @@
       "olsrd"
     ];
     provides = [ "olsrd-mod-p2pd-any" ];
-    sha256 = "2dc5fb82e24c9b87d3118393c1219b1ac7bf492350835d65024e1f52f2e8fa20";
+    sha256 = "8bfbfe9c15c635d794f119843d72b1bd2c94f83301770c44cb8d3571009fe86f";
   };
   olsrd-mod-pgraph = {
     version = "2024.06.09~d72be9ad-r2";
@@ -456,7 +456,7 @@
       "olsrd"
     ];
     provides = [ "olsrd-mod-pgraph-any" ];
-    sha256 = "626d095c0d4d2ac7a09680378591af3b7a0b9cef17fa6f14175d8fd5681a7543";
+    sha256 = "5c6611b8bb9cb146c93bdd5ba876a784357973ef5e5d9ad73280863bc48b8168";
   };
   olsrd-mod-pud = {
     version = "2024.06.09~d72be9ad-r2";
@@ -467,7 +467,7 @@
       "olsrd"
     ];
     provides = [ "olsrd-mod-pud-any" ];
-    sha256 = "11e67d7a5fc8b1d007279b5c341228765bb84d9d37c9a155579e60b7852a6a7b";
+    sha256 = "eaca21a078e51f9f2db300e3f6328c35a31c0fb172df6a3b374787beae0d10a0";
   };
   olsrd-mod-quagga = {
     version = "2024.06.09~d72be9ad-r2";
@@ -477,7 +477,7 @@
       "olsrd"
     ];
     provides = [ "olsrd-mod-quagga-any" ];
-    sha256 = "6fbe8b0881bdadae2c27e8f8bf136e5deb684387e98b1d1c1c078cbc2bd5e8b2";
+    sha256 = "4a9a75c51b0b4f5a9fd6b2dccc1410ada9d2ce9718854acbe30ef7f3e0a3f133";
   };
   olsrd-mod-secure = {
     version = "2024.06.09~d72be9ad-r2";
@@ -487,7 +487,7 @@
       "olsrd"
     ];
     provides = [ "olsrd-mod-secure-any" ];
-    sha256 = "47505ecaa662341d895c020ee6b8990bdfa4b7f313859ea573910dccb737bcf0";
+    sha256 = "5196a6f8406ad75b7474cbb12f544a5c769a66f998b683c441ff07f08d1d9db8";
   };
   olsrd-mod-sgwdynspeed = {
     version = "2024.06.09~d72be9ad-r2";
@@ -497,7 +497,7 @@
       "olsrd"
     ];
     provides = [ "olsrd-mod-sgwdynspeed-any" ];
-    sha256 = "7933a52578716cddfa610c4b2f46dfb02951fc345a9ad7192666886fe53a609c";
+    sha256 = "d6d4de4cba969c722b6a75353f676961e0b52be9d7a1b497ad8fcbcdce35a07f";
   };
   olsrd-mod-txtinfo = {
     version = "2024.06.09~d72be9ad-r2";
@@ -507,7 +507,7 @@
       "olsrd"
     ];
     provides = [ "olsrd-mod-txtinfo-any" ];
-    sha256 = "1069a24069464c4ff31614cd3197770a37efbf83b9e1cc1f10fed69c5f38fd29";
+    sha256 = "fd1e596a652081a0fed5985a93233034a5821b56bd02689535f5edf7bce46387";
   };
   olsrd-mod-watchdog = {
     version = "2024.06.09~d72be9ad-r2";
@@ -517,7 +517,7 @@
       "olsrd"
     ];
     provides = [ "olsrd-mod-watchdog-any" ];
-    sha256 = "1e17f323a10969c6074eef3eda6be304b600525d72f192535c334b90e2d81e13";
+    sha256 = "ba98f6ceca24e22388d293ea5ddd1391a55af07b2081a4af6556e96f7c5aefdf";
   };
   olsrd-utils = {
     version = "2024.06.09~d72be9ad-r2";
@@ -537,7 +537,7 @@
       "libmicrohttpd-no-ssl"
     ];
     provides = [ "opennds-any" ];
-    sha256 = "c5a79d31d92c748d6202596a9b05473aac29b4b14d7636e60177371c9f69e990";
+    sha256 = "04756547ae4f8931e026daf523fe0534de56c17b5eb5bec431008dfb3c98b475";
   };
   pimbd = {
     version = "2018.06.19~dbf4e591-r5";
@@ -547,7 +547,7 @@
       "netifd"
     ];
     provides = [ "pimbd-any" ];
-    sha256 = "22aa4592d808b44bef6a2f7fd5e67e6f19327eee2dc7c74b94adf34ccc97aec4";
+    sha256 = "04e4a860a36d59c2510fd58a5871e584207ae80daf02fdcb332271d664fe3010";
   };
   prince = {
     version = "0.4-r3";
@@ -558,7 +558,7 @@
       "libpthread"
     ];
     provides = [ "prince-any" ];
-    sha256 = "44784e0d4c46e628e7a0533bfe5a4c4ede5d1327c8acab338dd5ed79776507e3";
+    sha256 = "86e132134d0fe01a187660779d811c693777c204c0f7e4061922adb26fa73c80";
   };
   vis = {
     version = "2013.04.07~7710cce4-r10";
@@ -568,7 +568,7 @@
       "libpthread"
     ];
     provides = [ "vis-any" ];
-    sha256 = "cb73c72bc7b9117c5c2576c3f0edf3aa7b80490ed05268e7b115687bba7f6165";
+    sha256 = "c61a297d8d70acd3eecec2561f5fb5f33c6214261163c37b0f531f265d8399f7";
   };
   zonestitcher = {
     version = "2020.05.22~0dfef1eb-r3";
@@ -578,6 +578,6 @@
       "libubox20260213"
     ];
     provides = [ "zonestitcher-any" ];
-    sha256 = "bdfd4996fb56bcc620628dfd405eb58344c6d33b6b18ab33a69b4a6d71854d67";
+    sha256 = "6a2a4027ee1f3ede2d2cc180571da8204f2c22fbe30f9fd6b6952ac9bba93259";
   };
 }

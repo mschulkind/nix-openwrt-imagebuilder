@@ -15,7 +15,7 @@
       "zlib"
     ];
     provides = [ "asterisk-any" ];
-    sha256 = "3f2422fc875dbc2398068618786bcd968fc0622e96732f8898f6c696824a36d5";
+    sha256 = "839aa93f9fe3d6e125a7c524d623e97acbc2631a0c0f515c22654e0b1616f22a";
   };
   asterisk-app-adsiprog = {
     version = "23.1.0-r1";
@@ -1783,7 +1783,7 @@
       "libc"
     ];
     provides = [ "asterisk-func-version-any" ];
-    sha256 = "aa79658fe6742899ffe35398547288bfb01a5f2aab9a70c1462a37fb0326b5ea";
+    sha256 = "9fbb3ec9049b5373223bb4c835b49d1f3774d662966d569eaf3fe8ed5e40eb36";
   };
   asterisk-func-vmcount = {
     version = "23.1.0-r1";
@@ -5481,7 +5481,7 @@
       "libc"
     ];
     provides = [ "gsm-utils-any" ];
-    sha256 = "ea2bdf16dddfebd652246d368b15dfbfaa3a106bf295cccef2b3caae442259d2";
+    sha256 = "021fd82c5a162cabb2dc5ca7f58eb639e149871b6509fa5d4f3f31df334ad66f";
   };
   gsmlib = {
     version = "1.10.20140304-r6";
@@ -8205,7 +8205,7 @@
       "libsrtp2-1"
     ];
     provides = [ "rtpproxy-any" ];
-    sha256 = "3702bab5cb98537eb2a977feb2af7b7ecb55995280f4e4560ce97827e245b5ba";
+    sha256 = "26905d63547099b7623e5d7950aca8f60c2e976951b82945fc8a58c2cd160623";
   };
   rtpproxy-mod-acct-csv = {
     version = "2025.11.04~4909e7b7-r1";
@@ -8215,7 +8215,7 @@
       "rtpproxy"
     ];
     provides = [ "rtpproxy-mod-acct-csv-any" ];
-    sha256 = "cc8764110799f6de4b8dbb8691ab473210fe8064517a21ad2307742492ff1894";
+    sha256 = "e593308ac62bcce1d783c6e3a348d6875a5ec910b3901985af59de9e85e7a2b3";
   };
   rtpproxy-mod-acct-rtcp-hep = {
     version = "2025.11.04~4909e7b7-r1";
@@ -8225,7 +8225,7 @@
       "rtpproxy"
     ];
     provides = [ "rtpproxy-mod-acct-rtcp-hep-any" ];
-    sha256 = "5805d96000a9e9689f36bf12a18f2df08366985df7c3d98f74f25cd5af587c1f";
+    sha256 = "ec46ccd4f207806b8df960b6f631e225213d35e7dc2e57236c1aee7c2b9b1833";
   };
   rtpproxy-util-extractaudio = {
     version = "2025.11.04~4909e7b7-r1";
@@ -8300,7 +8300,7 @@
       "libpthread"
     ];
     provides = [ "siproxd-any" ];
-    sha256 = "dbffaf69815c644cb1c85365bedfef3c7df0d67a3d36757ad30d184b1a7f2c49";
+    sha256 = "0a75d729a65b7c8c3b6ce5409eff7fffceaebe812fd710e6f1429aac9492083d";
   };
   siproxd-mod-blacklist = {
     version = "2025.07.24~0bb5dd4a-r1";
